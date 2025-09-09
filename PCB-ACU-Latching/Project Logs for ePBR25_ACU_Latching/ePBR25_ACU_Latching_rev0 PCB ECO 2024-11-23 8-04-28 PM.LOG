@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=CRIT_ERR_OUT Pin=Q12-1
+Change Component Comment : Designator=R49 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R55 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R59 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R62 Old Comment=1k New Comment=10k
+Added Component: Designator=R66(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RESC0603(1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.0KGRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CRIT_ERR_OUT Pin=R66-1
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_1 Pin=R66-2
+Added Net: Name=NetQ12_1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Add Class Member: Failed to add class member : Component Jumper2 Jumper
+Add Class Member: Failed to add class member : Component Jumper3 Jumper
+Added Room: Name=4  - Latching
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

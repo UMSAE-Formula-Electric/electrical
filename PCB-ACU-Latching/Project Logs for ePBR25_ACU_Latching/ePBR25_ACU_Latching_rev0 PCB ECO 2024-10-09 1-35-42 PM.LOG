@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GREEN_LED_GND Pin=Q1-3
+Removed Pin From Net: NetName=RESET Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=RED_LED_GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=RESET Pin=R15-2
+Removed Pin From Net: NetName=TS_ACTIVE Pin=R16-1
+Removed Pin From Net: NetName=RESET Pin=R16-2
+Removed Pin From Net: NetName=ACU_PWR Pin=R18-1
+Removed Pin From Net: NetName=NE555_OUT Pin=R22-1
+Removed Pin From Net: NetName=RED_LED_GND Pin=R23-1
+Removed Pin From Net: NetName=ACU_PWR Pin=R55-1
+Removed Pin From Net: NetName=5V Pin=R56-1
+Removed Pin From Net: NetName=ACU_PWR Pin=TSA-1
+Added Pin To Net: NetName=5V Pin=R20-1
+Added Pin To Net: NetName=5V Pin=U3-8
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Add Class Member: Failed to add class member : Component Jumper2 Jumper
+Add Class Member: Failed to add class member : Component Jumper3 Jumper
+Added Room: Name=4  - Latching
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

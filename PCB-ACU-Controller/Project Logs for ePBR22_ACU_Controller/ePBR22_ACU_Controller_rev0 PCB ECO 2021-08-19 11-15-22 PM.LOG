@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J1 Old Footprint=6-534998-3_6-534998-3(Primary) New Footprint=6-534998-5_6-534998-5(Primary)
+Change Component Footprint: Designator=J2 Old Footprint=6-534998-3_6-534998-3(Primary) New Footprint=6-534998-5_6-534998-5(Primary)
+Added Pin To Net: NetName=WH_SP_L_IN Pin=J1-A14
+Added Pin To Net: NetName=WH_SP_R_IN Pin=J1-A15
+Added Pin To Net: NetName=GND Pin=J1-B14
+Added Pin To Net: NetName=GND Pin=J1-B15
+Added Pin To Net: NetName=SERIAL_Tx Pin=J2-A14
+Added Pin To Net: NetName=SERIAL_Rx Pin=J2-A15
+Added Pin To Net: NetName=GND Pin=J2-B14
+Added Pin To Net: NetName=GND Pin=J2-B15

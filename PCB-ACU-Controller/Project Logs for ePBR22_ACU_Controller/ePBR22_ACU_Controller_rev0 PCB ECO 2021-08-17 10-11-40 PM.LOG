@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=L1 Old Footprint=1608[0603] New Footprint=0402-A
+Change Component Footprint: Designator=F1 Old Footprint=C1210 New Footprint=PIN-W2/E2.8
+Change Component Footprint: Designator=F2 Old Footprint=C1210 New Footprint=PIN-W2/E2.8
+Change Component Footprint: Designator=F3 Old Footprint=C1210 New Footprint=PIN-W2/E2.8
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23_N New Footprint=SOT23_N
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23_N New Footprint=SOT23_N
+Change Component Footprint: Designator=Q3 Old Footprint=SOT-23_N New Footprint=SOT23_N
+Change Component Footprint: Designator=Q4 Old Footprint=SOT-23_N New Footprint=SOT23_N
+Change Component Footprint: Designator=Q5 Old Footprint=SOT-23_N New Footprint=SOT23_N
+Change Component Footprint: Designator=U3 Old Footprint=STM-LQFP100_M New Footprint=STM-LQFP100_L

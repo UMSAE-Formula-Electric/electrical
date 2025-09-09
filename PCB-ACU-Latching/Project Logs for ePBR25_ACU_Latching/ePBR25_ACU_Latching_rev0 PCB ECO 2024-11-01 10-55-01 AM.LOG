@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=BRAKE_SW Pin=R36-1
+Removed Pin From Net: NetName=ACU_PWR Pin=R36-2
+Removed Pin From Net: NetName=BRAKE_SW Pin=R37-1
+Removed Pin From Net: NetName=BRAKE_SENS Pin=R37-2
+Removed Pin From Net: NetName=GND Pin=R38-1
+Removed Pin From Net: NetName=BRAKE_SENS Pin=R38-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Add Class Member: Failed to add class member : Component Jumper2 Jumper
+Add Class Member: Failed to add class member : Component Jumper3 Jumper
+Change Room Name: Old Name=Designator_5 New Name=Designator
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

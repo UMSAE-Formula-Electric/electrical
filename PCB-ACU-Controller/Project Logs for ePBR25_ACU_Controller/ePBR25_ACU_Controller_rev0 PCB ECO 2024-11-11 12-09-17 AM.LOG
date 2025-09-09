@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=SWO Pin=J1-A12
+Added Pin To Net: NetName=SWCLK Pin=J1-A13
+Added Pin To Net: NetName=NRST Pin=J1-B12
+Added Pin To Net: NetName=SWDIO Pin=J1-B14
+Add Net: Net with name "UC_NRST" already exists
+Add Net: Net with name "UC_SWCLK" already exists
+Add Net: Net with name "UC_SWDIO" already exists
+Add Net: Net with name "UC_SWO" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

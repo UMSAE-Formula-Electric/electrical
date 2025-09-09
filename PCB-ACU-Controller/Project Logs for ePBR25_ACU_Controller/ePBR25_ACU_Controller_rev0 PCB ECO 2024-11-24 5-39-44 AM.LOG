@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=PWR_MON_SCL Pin=U1-47
+Removed Pin From Net: NetName=PWR_MON_SDA Pin=U1-80
+Removed Member From Class: ClassName=Designator Member=D6
+Add Net: Net with name "AIR+_FB_µC" already exists
+Add Net: Net with name "AIR+_FB" already exists
+Add Net: Net with name "AIR-_FB_µC" already exists
+Add Net: Net with name "AIR-_FB" already exists
+Added Pin To Net: NetName=uC_PWR_MON_SCL Pin=U1-47
+Added Net: Name=uC_PWR_MON_SCL
+Added Pin To Net: NetName=uC_PWR_MON_SDA Pin=U1-80
+Added Net: Name=uC_PWR_MON_SDA
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component D7 SZNUP1301ML3T1G
+Added Member To Class: ClassName=Designator Member=Component R30 Res1
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

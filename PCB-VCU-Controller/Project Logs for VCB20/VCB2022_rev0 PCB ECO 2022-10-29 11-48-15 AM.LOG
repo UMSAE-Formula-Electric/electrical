@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GLV Power In Pin=F9-1
+Removed Pin From Net: NetName=GLV Power In Pin=F10-1
+Removed Member From Class: ClassName=13-Fusing Member=F9
+Removed Member From Class: ClassName=13-Fusing Member=F10

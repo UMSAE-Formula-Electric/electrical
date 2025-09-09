@@ -1,0 +1,44 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Designator Member=F4
+Removed Member From Class: ClassName=Designator Member=F5
+Removed Member From Class: ClassName=Designator Member=F6
+Removed Member From Class: ClassName=Designator Member=F7
+Added Component: Designator=F4(FUSC1608X100N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1817-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F5(FUSC1608X100N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1817-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F6(FUSC1608X100N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1817-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F7(FUSC1608X100N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1817-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UC_SWDIO Pin=F4-1
+Added Pin To Net: NetName=SWDIO Pin=F4-2
+Added Pin To Net: NetName=UC_SWCLK Pin=F5-1
+Added Pin To Net: NetName=SWCLK Pin=F5-2
+Added Pin To Net: NetName=UC_SWO Pin=F6-1
+Added Pin To Net: NetName=SWO Pin=F6-2
+Added Pin To Net: NetName=UC_NRST Pin=F7-1
+Added Pin To Net: NetName=NRST Pin=F7-2
+Added Pin To Net: NetName=SWDIO Pin=J1-A12
+Added Pin To Net: NetName=SWO Pin=J1-B14
+Added Pin To Net: NetName=SWO Pin=J3-2
+Added Pin To Net: NetName=SWDIO Pin=J3-4
+Added Pin To Net: NetName=UC_SWO Pin=U1-89
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

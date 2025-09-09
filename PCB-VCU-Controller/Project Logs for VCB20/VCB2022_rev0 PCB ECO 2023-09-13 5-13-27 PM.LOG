@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=WH_SP_R_IN Pin=R72-1
+Removed Pin From Net: NetName=VCU Power Pin=R72-2
+Removed Pin From Net: NetName=WH_SP_L_IN Pin=R74-1
+Removed Pin From Net: NetName=VCU Power Pin=R74-2
+Removed Pin From Net: NetName=EXTRA_IN_1 Pin=R76-1
+Removed Pin From Net: NetName=VCU Power Pin=R76-2
+Removed Pin From Net: NetName=EXTRA_IN_2 Pin=R78-1
+Removed Pin From Net: NetName=VCU Power Pin=R78-2
+Removed Member From Class: ClassName=15-Sensors Member=R72
+Removed Member From Class: ClassName=15-Sensors Member=R74
+Removed Member From Class: ClassName=15-Sensors Member=R76
+Removed Member From Class: ClassName=15-Sensors Member=R78

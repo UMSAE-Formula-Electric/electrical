@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=D22-1
+Removed Pin From Net: NetName=3V3 Pin=D22-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=R38-1
+Removed Pin From Net: NetName=GND Pin=R71-1
+Added Pin To Net: NetName=GND Pin=J1-B10
+Added Pin To Net: NetName=GND Pin=J2-A1
+Change Class Name : Old Net Name=7  - Microcontoller New Net Name=7  - Microcontroller
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

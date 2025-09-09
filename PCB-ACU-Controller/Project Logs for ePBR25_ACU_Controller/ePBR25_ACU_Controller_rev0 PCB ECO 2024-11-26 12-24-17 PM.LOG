@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=uC_PWR_MON_SDA Pin=C21-2
+Added Pin To Net: NetName=uC_PWR_MON_SDA Pin=D8-3
+Added Pin To Net: NetName=uC_PWR_MON_SDA Pin=R27-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Change Room Name: Old Name=Designator_11 New Name=Designator
+Change Room Name: Old Name=Designator_10 New Name=Designator
+Change Room Name: Old Name=Designator_9 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

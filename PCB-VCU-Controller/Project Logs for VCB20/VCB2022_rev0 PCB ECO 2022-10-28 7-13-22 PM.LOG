@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=CN1-24
+Added Component: Designator=F12(LFUS-1812L07524DR_V)
+Add component (AddParameter): Name = "Brand"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating - Max"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1812l_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "4.37mmLx3.07mmWx0.75mmH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "0.75A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.littelfuse.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "24VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage DC"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40Cto+85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1812(4532metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.55 x 3.24 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1812L07524DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "ResettableFuses-PPTC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "290mOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "1812L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PolyFuseResettablePTC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GLV Power In Pin=F12-1
+Added Pin To Net: NetName=SB Power Pin=CN1-24
+Added Pin To Net: NetName=SB Power Pin=F12-2
+Added Net: Name=SB Power
+Added Member To Class: ClassName=13-Fusing Member=Component F12 1812L075/24DR

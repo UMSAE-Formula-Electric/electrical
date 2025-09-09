@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R20 Old Footprint=FP-RMCF0603-IPC_C New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R21 Old Footprint=FP-RMCF0603-IPC_C New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R60 Old Footprint=FP-RMCF0603-IPC_C New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=D3 Old Footprint=VISH-SOD-123-2_V New Footprint=VISH-SOD-123-2_V
+Change Component Comment: Designator=R21 Old Comment=10k New Comment=51K 5% 0603(1608)
+Change Component Comment: Designator=R60 Old Comment=10k New Comment=51K 5% 0603(1608)
+Change Component Comment: Designator=R20 Old Comment=10k New Comment=100K 5% 0603(1608)

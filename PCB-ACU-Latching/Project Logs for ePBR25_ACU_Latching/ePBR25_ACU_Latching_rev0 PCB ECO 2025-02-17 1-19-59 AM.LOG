@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=LATCH_RST Pin=Q14-1
+Removed Pin From Net: NetName=GND Pin=Q14-2
+Removed Pin From Net: NetName=ACU_PWR Pin=R39-2
+Change Component Comment : Designator=R54 Old Comment=2K New Comment=1K
+Change Component Designator: OldDesignator=IMD? NewDesignator=BSPD
+Added Pin To Net: NetName=5V Pin=R39-2
+Added Pin To Net: NetName=LATCH_RST Pin=R53-1
+Added Pin To Net: NetName=LATCH_RST Pin=R54-1
+Add Net: Net with name "LATCHING_Delayed" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Add Class Member: Failed to add class member : Component Jumper2 Jumper
+Add Class Member: Failed to add class member : Component Jumper3 Jumper
+Added Room: Name=4  - Latching
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

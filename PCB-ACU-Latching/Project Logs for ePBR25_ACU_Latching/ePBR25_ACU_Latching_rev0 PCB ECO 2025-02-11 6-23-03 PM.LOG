@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=SCHT_AMS_IMD Pin=AMS1-11
+Removed Pin From Net: NetName=SCHT_IN_LATCH Pin=AMS1-12
+Removed Pin From Net: NetName=AMS_LED Pin=AMS1-21
+Removed Pin From Net: NetName=GND Pin=AMS1-22
+Removed Pin From Net: NetName=AMS_RST_PIN Pin=AMS1-A1
+Removed Pin From Net: NetName=AMS_ERR_PIN Pin=AMS1-A2
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=AMS1-A3
+Removed Pin From Net: NetName=SCHT_OUT_LATCH Pin=BSPD1-11
+Removed Pin From Net: NetName=SCHT_IMD_BSPD Pin=BSPD1-12
+Removed Pin From Net: NetName=BSPD_LED Pin=BSPD1-21
+Removed Pin From Net: NetName=GND Pin=BSPD1-22
+Removed Pin From Net: NetName=BSPD_RST_PIN Pin=BSPD1-A1
+Removed Pin From Net: NetName=BSPD_ERR_PIN Pin=BSPD1-A2
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=BSPD1-A3
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=D9-2
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=D10-2
+Removed Pin From Net: NetName=SCHT_IMD_BSPD Pin=IMD1-11
+Removed Pin From Net: NetName=SCHT_AMS_IMD Pin=IMD1-12
+Removed Pin From Net: NetName=IMD_LED Pin=IMD1-21
+Removed Pin From Net: NetName=GND Pin=IMD1-22
+Removed Pin From Net: NetName=IMD_RST_PIN Pin=IMD1-A1
+Removed Pin From Net: NetName=IMD_ERR_PIN Pin=IMD1-A2
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=IMD1-A3
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=J4-A3
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=R16-2
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=R17-1
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=R21-1
+Removed Member From Class: ClassName=Designator Member=IMD1
+Added Component: Designator=AMS(TE_5-1393243-4)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3226354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT424F12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT424F12/TE%20Connectivity%20Potter%20&%20Brumfield%20Relays/view-part/3226354/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BSPD(TE_5-1393243-4)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3226354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT424F12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT424F12/TE%20Connectivity%20Potter%20&%20Brumfield%20Relays/view-part/3226354/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IMD(TE_5-1393243-4)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3226354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT424F12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT424F12/TE%20Connectivity%20Potter%20&%20Brumfield%20Relays/view-part/3226354/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCHT_AMS_IMD Pin=AMS-11
+Added Pin To Net: NetName=SCHT_IN_LATCH Pin=AMS-12
+Added Pin To Net: NetName=AMS_LED Pin=AMS-21
+Added Pin To Net: NetName=GND Pin=AMS-24
+Added Pin To Net: NetName=AMS_RST_PIN Pin=AMS-A1
+Added Pin To Net: NetName=AMS_ERR_PIN Pin=AMS-A2
+Added Pin To Net: NetName=LATCHING_Delayed Pin=AMS-A3
+Added Pin To Net: NetName=SCHT_OUT_LATCH Pin=BSPD-11
+Added Pin To Net: NetName=SCHT_IMD_BSPD Pin=BSPD-12
+Added Pin To Net: NetName=BSPD_LED Pin=BSPD-21
+Added Pin To Net: NetName=GND Pin=BSPD-24
+Added Pin To Net: NetName=BSPD_RST_PIN Pin=BSPD-A1
+Added Pin To Net: NetName=BSPD_ERR_PIN Pin=BSPD-A2
+Added Pin To Net: NetName=SCHT_IMD_BSPD Pin=IMD-11
+Added Pin To Net: NetName=SCHT_AMS_IMD Pin=IMD-12
+Added Pin To Net: NetName=IMD_LED Pin=IMD-21
+Added Pin To Net: NetName=GND Pin=IMD-24
+Added Pin To Net: NetName=IMD_RST_PIN Pin=IMD-A1
+Added Pin To Net: NetName=IMD_ERR_PIN Pin=IMD-A2
+Added Pin To Net: NetName=LATCHING_Delayed Pin=IMD-A3
+Add Net: Net with name "LATCHING_Delayed" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component IMD RT424F12
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Add Class Member: Failed to add class member : Component Jumper2 Jumper
+Add Class Member: Failed to add class member : Component Jumper3 Jumper
+Added Room: Name=4  - Latching
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

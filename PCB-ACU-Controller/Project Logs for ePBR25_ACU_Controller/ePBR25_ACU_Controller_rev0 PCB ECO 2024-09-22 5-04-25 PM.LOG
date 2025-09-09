@@ -1,0 +1,31 @@
+Add Component: Footprint Not Found 0603 fuse
+Add Component: Footprint Not Found 0603 fuse
+Add Component: Footprint Not Found 0603 fuse
+Add Component: Footprint Not Found 0603 fuse
+Add Pin To Net: Unknown Pin: Pin F4-1
+Add Pin To Net: Unknown Pin: Pin F4-2
+Add Pin To Net: Unknown Pin: Pin F5-1
+Add Pin To Net: Unknown Pin: Pin F5-2
+Add Pin To Net: Unknown Pin: Pin F6-1
+Add Pin To Net: Unknown Pin: Pin F6-2
+Add Pin To Net: Unknown Pin: Pin F7-1
+Add Pin To Net: Unknown Pin: Pin F7-2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=UC_NRST
+Change Net Name : Old Net Name=NetU1_72 New Net Name=UC_SWDIO
+Change Net Name : Old Net Name=NetU1_76 New Net Name=UC_SWCLK
+Change Net Name : Old Net Name=NetU1_89 New Net Name=UC_SWO
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component F4 PTC 80 mA
+Add Class Member: Failed to add class member : Component F5 PTC 80 mA
+Add Class Member: Failed to add class member : Component F6 PTC 80 mA
+Add Class Member: Failed to add class member : Component F7 PTC 80 mA
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

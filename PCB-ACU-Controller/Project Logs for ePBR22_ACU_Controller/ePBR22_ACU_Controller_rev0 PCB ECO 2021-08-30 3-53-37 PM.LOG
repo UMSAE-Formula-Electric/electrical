@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=ACU_PWR Pin=R95-2
+Added Pin To Net: NetName=ACU_PWR Pin=R97-2
+Added Member To Class: ClassName=7  - Microcontoller Member=Component J2 6-534998-3

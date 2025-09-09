@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BT NCTS Pin=U1-58
+Removed Pin From Net: NetName=BT NRTS Pin=U1-59
+Added Pin To Net: NetName=BT NRTS Pin=U1-58
+Added Pin To Net: NetName=BT NCTS Pin=U1-59

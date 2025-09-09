@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SB Power Pin=CN1-24
+Removed Pin From Net: NetName=GLV Power In Pin=CN1-30
+Added Pin To Net: NetName=GND Pin=CN1-24
+Added Pin To Net: NetName=SB Power Pin=CN1-30

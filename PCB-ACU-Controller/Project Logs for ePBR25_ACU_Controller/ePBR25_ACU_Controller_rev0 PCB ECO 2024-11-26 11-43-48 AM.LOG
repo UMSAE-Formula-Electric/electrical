@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=Designator Member=C18
+Removed Member From Class: ClassName=Designator Member=C24
+Removed Member From Class: ClassName=Designator Member=D5
+Removed Member From Class: ClassName=Designator Member=D11
+Removed Member From Class: ClassName=Designator Member=R10
+Removed Member From Class: ClassName=Designator Member=R13
+Removed Member From Class: ClassName=Designator Member=R28
+Removed Member From Class: ClassName=Designator Member=R29
+Removed Member From Class: ClassName=Designator Member=R32
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=SERIAL_Tx
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=SERIAL_Rx
+Add Net: Net with name "AIR+_FB_µC" already exists
+Add Net: Net with name "AIR+_FB" already exists
+Add Net: Net with name "AIR-_FB_µC" already exists
+Add Net: Net with name "AIR-_FB" already exists
+Add Net: Net with name "uC_PWR_MON_SDA" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C19 Cap
+Added Member To Class: ClassName=Designator Member=Component D6 SZNUP1301ML3T1G
+Added Member To Class: ClassName=Designator Member=Component R17 10K
+Added Member To Class: ClassName=Designator Member=Component R18 120
+Added Member To Class: ClassName=Designator Member=Component R23 Res1
+Added Member To Class: ClassName=Designator Member=Component R24 Res1
+Change Room Name: Old Name=Designator_12 New Name=Designator
+Change Room Name: Old Name=Designator_8 New Name=Designator
+Change Room Name: Old Name=Designator_7 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

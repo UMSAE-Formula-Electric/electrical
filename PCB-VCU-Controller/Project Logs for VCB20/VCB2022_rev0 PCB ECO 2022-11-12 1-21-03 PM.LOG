@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=REG1 Old Footprint=Reg - TH, 3 pin, 100 mil Pitch, HTL New Footprint=OKI-78SR-5/1.5-W
+Change Component Comment : Designator=REG1 Old Comment=OKI-78SR-5 New Comment=OKI-78SR-5/1.5-W
+Change component parameters: Designator = "REG1" ("REG1"); Footprint = "Reg - TH, 3 pin, 100 mil Pitch, HTL"; UniqueID = "\GVXJKDCQ" ("\GVXJKDCQ")
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "811-3292-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OKI-78SR-5/1.5-W36E-C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "OKI-78SR-5/1.5-W"; VariantName = "[No Variations]"

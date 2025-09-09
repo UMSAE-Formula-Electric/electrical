@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=LED IND1 Pin=BT2-11
+Removed Pin From Net: NetName=LED IND1 Pin=R70-2
+Removed Pin From Net: NetName=LED IND2 Pin=R73-1
+Removed Pin From Net: NetName=LED IND2 Pin=U1-79
+Change Footprint: Footprint Not Found RESC0603(1608)_N
+Change Footprint: Footprint Not Found RESC0603(1608)_N
+Change Footprint: Footprint Not Found RESC0603(1608)_N
+Change Footprint: Footprint Not Found VISH-SOD-123-2_V
+Change Net Name : Old Net Name=LED IND1 New Net Name=P0_4
+Added Pin To Net: NetName=LED IND1 Pin=BT2-11
+Added Pin To Net: NetName=LED IND1 Pin=R70-2
+Added Net: Name=LED IND1
+Added Pin To Net: NetName=P1_5 Pin=DS5-1
+Added Pin To Net: NetName=P1_5 Pin=R71-1
+Added Pin To Net: NetName=P1_5 Pin=R73-1
+Added Pin To Net: NetName=P1_5 Pin=U1-79
+Added Net: Name=P1_5

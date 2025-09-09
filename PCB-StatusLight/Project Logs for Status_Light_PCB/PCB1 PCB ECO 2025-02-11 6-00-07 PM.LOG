@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Buzzer Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Test1 Member=J2
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC3216X70N"; UniqueID = "\KSZWEZFG" ("\KSZWEZFG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RMCF1206FT3R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "6445357"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin R2-1
+Added Member To Class: ClassName=Test1 Member=Component R1 3ohms
+Added Member To Class: ClassName=Test1 Member=Component R2 3ohms
+Added Member To Class: ClassName=Test1 Member=Component R3 3 ohms

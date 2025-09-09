@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ePBR20_ACU_Latching_rev1.PcbDoc   2021-11-02  4:16:01 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ePBR20_ACU_Latching_rev1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             784       PTH        65.26inch (1657.52mm)
+T2      17mil (0.432mm)                                           Round             40        PTH        11.73inch (297.90mm)
+T3      35mil (0.889mm)                                           Round             36        PTH        9.92inch (252.07mm)
+T4      40mil (1.016mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T5      51mil (1.295mm)                                           Round             27        PTH        6.44inch (163.58mm)
+T6      137mil (3.48mm)                                           Round             4         PTH        6.55inch (166.46mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              893
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Charging_PCB.PrjPcb]
+   Generated File[ePBR22_ACC_Charging.TXT]
+   Generated File[ePBR22_ACC_Charging.LDP]
+   Generated File[ePBR22_ACC_Charging.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:00:18 PM On 2022-04-13

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Dash Power Pin=CN1-27
+Removed Pin From Net: NetName=SB Power Pin=CN1-30
+Added Pin To Net: NetName=Dash Power Pin=CN1-25
+Added Pin To Net: NetName=SB Power Pin=CN1-26

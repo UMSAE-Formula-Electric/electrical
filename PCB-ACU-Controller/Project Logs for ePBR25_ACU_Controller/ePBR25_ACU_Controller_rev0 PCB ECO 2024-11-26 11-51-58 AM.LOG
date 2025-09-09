@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VBATT_µC Pin=U1-17
+Added Pin To Net: NetName=AIR-_FB Pin=R50-1
+Added Pin To Net: NetName=AIR+_FB Pin=R55-1
+Added Pin To Net: NetName=AIR-_FB_µC Pin=U1-53
+Added Pin To Net: NetName=AIR+_FB_µC Pin=U1-54
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Net: Name=NetU1_17
+Add Net: Net with name "uC_PWR_MON_SDA" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

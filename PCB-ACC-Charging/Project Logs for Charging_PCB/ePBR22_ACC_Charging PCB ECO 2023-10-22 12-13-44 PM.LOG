@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetU2_4 Pin=XF1-1
+Added Pin To Net: NetName=12V_TO_ENBLSW Pin=XF1-3
+Added Pin To Net: NetName=12V Pin=XF2-1
+Added Pin To Net: NetName=IMD_PWR Pin=XF2-3
+Added Pin To Net: NetName=AMS_CHR_PWR_FUSE Pin=XF3-1
+Added Pin To Net: NetName=AMS_CHR_PWR Pin=XF3-3
+Added Pin To Net: NetName=12V Pin=XF4-1
+Added Pin To Net: NetName=HVB_PWR Pin=XF4-3
+Added Pin To Net: NetName=12V Pin=XF5-1
+Added Pin To Net: NetName=AMS_PWR Pin=XF5-3

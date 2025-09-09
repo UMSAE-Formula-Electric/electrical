@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=UC BT Tx Pin=U1-55
+Removed Pin From Net: NetName=UC BT Rx Pin=U1-56
+Added Pin To Net: NetName=UC BT Rx Pin=U1-55
+Added Pin To Net: NetName=UC BT Tx Pin=U1-56

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NRST Pin=J1-B12
+Added Pin To Net: NetName=NRST Pin=D30-3
+Added Pin To Net: NetName=NRST Pin=F7-2
+Add Net: Net with name "NRST" already exists
+Add Net: Net with name "SWCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Add Net: Net with name "SWO" already exists
+Add Net: Net with name "UC_NRST" already exists
+Add Net: Net with name "UC_SWCLK" already exists
+Add Net: Net with name "UC_SWDIO" already exists
+Add Net: Net with name "UC_SWO" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Change Room Name: Old Name=Designator_6 New Name=Designator
+Change Room Name: Old Name=Designator_5 New Name=Designator
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

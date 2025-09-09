@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=UC APPS 2 Pin=U1-16
+Removed Pin From Net: NetName=UC APPS 1 Pin=U1-30
+Added Pin To Net: NetName=UC APPS 1 Pin=U1-15
+Added Pin To Net: NetName=UC APPS 2 Pin=U1-30

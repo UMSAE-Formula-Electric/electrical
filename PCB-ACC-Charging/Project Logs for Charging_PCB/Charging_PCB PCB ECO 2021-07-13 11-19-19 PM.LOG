@@ -1,0 +1,48 @@
+Change Component Comment : Designator=FRONT PANEL Old Comment=Header 14 New Comment=
+Change Component Comment : Designator=AUX_TRAY_CONN Old Comment=Header 22 New Comment=
+Change component parameters: Designator = "AUX_TRAY_CONN" ("AUX_TRAY_CONN"); Footprint = "HDR1X22"; UniqueID = "\ZZJFBCEA" ("\ZZJFBCEA")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM1361-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FRONT PANEL" ("FRONT PANEL"); Footprint = "HDR1X14"; UniqueID = "\TDNJINUF" ("\TDNJINUF")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM1357-ND"; VariantName = "[No Variations]"
+Added Component: Designator=EV_CHRG_CONN(WM1352-ND)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM1352-ND"; VariantName = "[No Variations]"
+Added Component: Designator=STLINK(WM1353-ND)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM1353-ND"; VariantName = "[No Variations]"
+Added Component: Designator=WALL_CONN(WM18446-ND)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM18446-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAUX_TRAY_CONN_1 Pin=EV_CHRG_CONN-1
+Added Pin To Net: NetName=NetAUX_TRAY_CONN_2 Pin=EV_CHRG_CONN-2
+Added Pin To Net: NetName=AMS_CHR_SAFETY Pin=EV_CHRG_CONN-3
+Added Pin To Net: NetName=GND Pin=EV_CHRG_CONN-4
+Added Pin To Net: NetName=SWCLK Pin=STLINK-1
+Added Pin To Net: NetName=Serial_Tx Pin=STLINK-2
+Added Pin To Net: NetName=Serial_Rx Pin=STLINK-3
+Added Pin To Net: NetName=GND Pin=STLINK-4
+Added Pin To Net: NetName=NRST Pin=STLINK-5
+Added Pin To Net: NetName=SWDIO Pin=STLINK-6
+Added Pin To Net: NetName=NetU2_1 Pin=WALL_CONN-1
+Added Pin To Net: NetName=NetU2_2 Pin=WALL_CONN-2
+Added Pin To Net: NetName=GND Pin=WALL_CONN-3
+Added Member To Class: ClassName=1-Connectors Member=Component EV_CHRG_CONN Header 4
+Added Member To Class: ClassName=1-Connectors Member=Component STLINK Header 6
+Added Member To Class: ClassName=1-Connectors Member=Component WALL_CONN Header 3

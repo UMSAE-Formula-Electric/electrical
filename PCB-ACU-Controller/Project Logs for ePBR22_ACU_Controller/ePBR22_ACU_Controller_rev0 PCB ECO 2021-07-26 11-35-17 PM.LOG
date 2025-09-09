@@ -1,0 +1,189 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=AMS_CLR_ERR Pin=Q1-3
+Removed Pin From Net: NetName=NetQ2_1 Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=DCDC_EN_INT Pin=Q2-3
+Removed Pin From Net: NetName=NetQ3_1 Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=PRECHRG_CTRL Pin=Q3-3
+Removed Pin From Net: NetName=NetQ4_1 Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=AIR-_CTRL Pin=Q4-3
+Removed Pin From Net: NetName=NetQ5_1 Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=AIR+_CTRL Pin=Q5-3
+Removed Pin From Net: NetName=V_CAP_1 Pin=U3-48
+Change Component Comment : Designator=Q1 Old Comment= New Comment=MOSFET-N
+Change Component Comment : Designator=Q2 Old Comment= New Comment=MOSFET-N
+Change Component Comment : Designator=Q3 Old Comment= New Comment=MOSFET-N
+Change Component Comment : Designator=Q4 Old Comment= New Comment=MOSFET-N
+Change Component Comment : Designator=Q5 Old Comment= New Comment=MOSFET-N
+Change Component Comment : Designator=R33 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R34 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R38 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R55 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R56 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R57 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R32 Old Comment=120 New Comment=Res1
+Change Component Comment : Designator=R37 Old Comment=120 New Comment=Res1
+Change Component Comment : Designator=R59 Old Comment=120 New Comment=Res1
+Change Component Comment : Designator=R60 Old Comment=120 New Comment=Res1
+Change Component Comment : Designator=R61 Old Comment=120 New Comment=Res1
+Change Component Comment : Designator=R66 Old Comment=560 New Comment=RES0603
+Change Component Comment : Designator=D14 Old Comment=BEAR EYE New Comment=TLSU1008A(T04)
+Change Component Comment : Designator=L1 Old Comment=Ferrite Bead New Comment=Inductor
+Change Component Comment : Designator=U3 Old Comment=STM32F446RELQFP100 New Comment=STM32F446VCT6
+Change Managed Component Library Link : Designator=D1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FB87102E-6F69-454C-A395-95C532BF3854 Old RevisionGUID= New RevisionGUID=8DD864DB-0FEA-47D1-9741-A70EEC571D3B
+Change Managed Component Library Link : Designator=D2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FB87102E-6F69-454C-A395-95C532BF3854 Old RevisionGUID= New RevisionGUID=8DD864DB-0FEA-47D1-9741-A70EEC571D3B
+Change Managed Component Library Link : Designator=D3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D7 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D9 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D10 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D11 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D14 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=34847411-DFFB-48F5-AA0B-E43F975247F7 Old RevisionGUID= New RevisionGUID=49E96B5B-A479-4DEB-BA3B-045007DF296F
+Change Managed Component Library Link : Designator=D15 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D16 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D17 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D18 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D19 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D20 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D21 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D22 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D23 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D24 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D25 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D26 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D27 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D28 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=D31 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=62327E11-0185-47E5-9B78-145CD5D94CAE Old RevisionGUID= New RevisionGUID=B73C9628-8236-4BA8-AC91-5CD91191F7D8
+Change Managed Component Library Link : Designator=D32 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=62327E11-0185-47E5-9B78-145CD5D94CAE Old RevisionGUID= New RevisionGUID=B73C9628-8236-4BA8-AC91-5CD91191F7D8
+Change Managed Component Library Link : Designator=D33 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=62327E11-0185-47E5-9B78-145CD5D94CAE Old RevisionGUID= New RevisionGUID=B73C9628-8236-4BA8-AC91-5CD91191F7D8
+Change Managed Component Library Link : Designator=D34 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=62327E11-0185-47E5-9B78-145CD5D94CAE Old RevisionGUID= New RevisionGUID=B73C9628-8236-4BA8-AC91-5CD91191F7D8
+Change Managed Component Library Link : Designator=D35 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9EF9F14-A26F-46EC-868A-7E99D4E88591 Old RevisionGUID= New RevisionGUID=CC0A7295-C982-4AA5-9712-901521A53B79
+Change Managed Component Library Link : Designator=R66 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FDC7F57E-3358-478A-B77F-3EA4E844E4A7 Old RevisionGUID= New RevisionGUID=8970DECE-9BAA-4C2A-8F31-D7D135B7D733
+Change Managed Component Library Link : Designator=U1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=14032BB5-BA55-4AA0-8EFD-03D75F2E1801 Old RevisionGUID= New RevisionGUID=56BFCDA8-7FE2-440A-9B5F-5B331E5F960C
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=14032BB5-BA55-4AA0-8EFD-03D75F2E1801 Old RevisionGUID= New RevisionGUID=56BFCDA8-7FE2-440A-9B5F-5B331E5F960C
+Change Managed Component Library Link : Designator=U3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FC5B48B1-25C5-4CD9-8AD5-E17EB029F9EF Old RevisionGUID= New RevisionGUID=F6E7E63D-7E35-4364-864F-90AAAAD2D6E6
+Change component parameters: Designator = "U3" ("U3"); Footprint = "STM-LQFP100_M"; UniqueID = "\XENCBEPX\PJUMLRND" ("\XENCBEPX\PJUMLRND")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141306.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "D/A Converter"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "256"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "I/Os (High Current)"; Value = "81"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal RAM Size (kB)"; Value = "128"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "180"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "LQFP100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "100-Pin Low Profile Quad Flat Package, Body 14 x 14 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.7"; VariantName = "[No Variations]"
+Added Component: Designator=J1(6-534998-3_6-534998-3(Primary))
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6-534998-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7118-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6-534998-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J2(6-534998-3_6-534998-3(Primary))
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6-534998-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7118-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6-534998-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXTRA_INPUT1 Pin=J1-A1
+Added Pin To Net: NetName=MC_PWR_CTRL Pin=J1-A2
+Added Pin To Net: NetName=MC_EN_CTRL Pin=J1-A3
+Added Pin To Net: NetName=ACC_FAN_CTRL Pin=J1-A4
+Added Pin To Net: NetName=BUZR_CTRL Pin=J1-A5
+Added Pin To Net: NetName=SCHT_TAP Pin=J1-A6
+Added Pin To Net: NetName=ACU_PWR Pin=J1-A7
+Added Pin To Net: NetName=AMS_CLR_ERR Pin=J1-A8
+Added Pin To Net: NetName=PRECHRG_CTRL Pin=J1-A9
+Added Pin To Net: NetName=BRAKE_PRESS Pin=J1-A10
+Added Pin To Net: NetName=3V3 Pin=J1-A11
+Added Pin To Net: NetName=SWDIO Pin=J1-A12
+Added Pin To Net: NetName=SWCLK Pin=J1-A13
+Added Pin To Net: NetName=3V3 Pin=J1-B1
+Added Pin To Net: NetName=GND Pin=J1-B2
+Added Pin To Net: NetName=IMD__OK Pin=J1-B3
+Added Pin To Net: NetName=AIR-_FB Pin=J1-B4
+Added Pin To Net: NetName=AIR+_FB Pin=J1-B5
+Added Pin To Net: NetName=PUMP_CTRL Pin=J1-B6
+Added Pin To Net: NetName=FANS_CTRL Pin=J1-B7
+Added Pin To Net: NetName=AIR-_CTRL Pin=J1-B8
+Added Pin To Net: NetName=AIR+_CTRL Pin=J1-B9
+Added Pin To Net: NetName=DCDC_EN_INT Pin=J1-B10
+Added Pin To Net: NetName=AMS_OK Pin=J1-B11
+Added Pin To Net: NetName=NRST Pin=J1-B12
+Added Pin To Net: NetName=NetR99_1 Pin=J1-B13
+Added Pin To Net: NetName=DCDC_CURR_SENS Pin=J2-A1
+Added Pin To Net: NetName=HCP_L_CURR_SENS Pin=J2-A2
+Added Pin To Net: NetName=GND Pin=J2-A3
+Added Pin To Net: NetName=3V3 Pin=J2-A4
+Added Pin To Net: NetName=MC_PWR_FB Pin=J2-A5
+Added Pin To Net: NetName=MC_EN_FB Pin=J2-A6
+Added Pin To Net: NetName=COOL_SYS_TEMP1 Pin=J2-A7
+Added Pin To Net: NetName=ACU_PWR Pin=J2-A8
+Added Pin To Net: NetName=PUMP_FB Pin=J2-A9
+Added Pin To Net: NetName=EXTRA_INPUT2 Pin=J2-A10
+Added Pin To Net: NetName=GND Pin=J2-A11
+Added Pin To Net: NetName=CAN_P Pin=J2-A12
+Added Pin To Net: NetName=CAN_N Pin=J2-A13
+Added Pin To Net: NetName=HCP_H_CURR_SENS Pin=J2-B1
+Added Pin To Net: NetName=LVBATT_CURR_SENS Pin=J2-B2
+Added Pin To Net: NetName=COOL_SYS_TEMP2 Pin=J2-B3
+Added Pin To Net: NetName=5V Pin=J2-B4
+Added Pin To Net: NetName=BUZR_FB Pin=J2-B5
+Added Pin To Net: NetName=FANS_FB Pin=J2-B6
+Added Pin To Net: NetName=5V Pin=J2-B7
+Added Pin To Net: NetName=COOL_SYS_TEMP3 Pin=J2-B8
+Added Pin To Net: NetName=ACC_FAN_FB Pin=J2-B9
+Added Pin To Net: NetName=3V3 Pin=J2-B10
+Added Pin To Net: NetName=IMD_RESIST Pin=J2-B11
+Added Pin To Net: NetName=CAN_SENS_P Pin=J2-B12
+Added Pin To Net: NetName=CAN_SENS_N Pin=J2-B13
+Added Pin To Net: NetName=AMS_CLR_ERR Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=DCDC_EN_INT Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=PRECHRG_CTRL Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=AIR-_CTRL Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=AIR+_CTRL Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=OSC1_IN Pin=U3-8
+Added Pin To Net: NetName=OSC1_OUT Pin=U3-9
+Added Pin To Net: NetName=NetC45_2 Pin=U3-29
+Added Pin To Net: NetName=V_CAP_1 Pin=U3-47
+Added Pin To Net: NetName=GND Pin=U3-48
+Change Net Name : Old Net Name=NetC45_2 New Net Name=BSPD_OK_µC
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ3_2
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ5_2
+Change Net Name : Old Net Name=NetR95_1 New Net Name=WH_SP_R_IN
+Change Net Name : Old Net Name=NetR97_1 New Net Name=WH_SP_L_IN
+Change Net Name : Old Net Name=NetR99_1 New Net Name=BSPD_OK
+Change Net Name : Old Net Name=NetU3_86 New Net Name=SERIAL_Tx
+Change Net Name : Old Net Name=NetU3_87 New Net Name=SERIAL_Rx
+Added Member To Class: ClassName=7  - Microcontoller Member=Component J1 6-534998-3
+Added Member To Class: ClassName=7  - Microcontoller Member=Component J2 6-534998-3

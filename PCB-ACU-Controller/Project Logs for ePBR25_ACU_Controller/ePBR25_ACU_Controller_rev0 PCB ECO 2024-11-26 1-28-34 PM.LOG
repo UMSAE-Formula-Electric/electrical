@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=VBATT_µC Pin=C29-2
+Added Pin To Net: NetName=VBATT_µC Pin=U1-17
+Change Net Name : Old Net Name=VBATT_µC New Net Name=vBATT_uC
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

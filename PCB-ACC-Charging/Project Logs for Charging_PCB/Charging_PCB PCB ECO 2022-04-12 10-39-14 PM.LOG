@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetU2_2 Pin=WALL_CONN-2
+Removed Pin From Net: NetName=GND_PWR Pin=WALL_CONN-3
+Added Pin To Net: NetName=GND_PWR Pin=WALL_CONN-2
+Added Pin To Net: NetName=NetU2_2 Pin=WALL_CONN-3
