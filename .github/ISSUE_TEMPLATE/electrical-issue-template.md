@@ -1,5 +1,5 @@
 ---
-name: "*Electrical Issue Template*"
+name: Electrical Issue Template
 about: Use this template for tasks on our project board!
 title: ''
 labels: ''
