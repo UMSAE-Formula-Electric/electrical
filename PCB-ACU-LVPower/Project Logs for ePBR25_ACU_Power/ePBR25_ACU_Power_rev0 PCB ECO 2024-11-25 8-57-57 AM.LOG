@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3 Pin=1-1
+Removed Pin From Net: NetName=5V Pin=2-1
+Removed Pin From Net: NetName=VBATT_FUSE Pin=R54-1
+Removed Pin From Net: NetName=VS_FROM_MS Pin=VS_FROM_MS1-1
+Add Net: Net with name "VBATT_FUSE" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

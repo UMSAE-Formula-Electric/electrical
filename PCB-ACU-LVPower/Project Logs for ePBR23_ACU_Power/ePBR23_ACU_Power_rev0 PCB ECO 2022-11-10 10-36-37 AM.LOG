@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=U6 Old Footprint=DCDC_VERTICAL New Footprint=OKI-78SR-5/1.5-W
+Change Component Footprint: Designator=Q9 Old Footprint=MCU80N03TPHF New Footprint=MCU80N_MCE
+Change Component Footprint: Designator=Q10 Old Footprint=MCU80N03TPHF New Footprint=MCU80N_MCE
+Change Component Comment : Designator=Q9 Old Comment=MCU80N03-TP New Comment=MCU80N03A-TP
+Change Component Comment : Designator=Q10 Old Comment=MCU80N03-TP New Comment=MCU80N03A-TP
+Change Component Comment : Designator=U6 Old Comment=Volt Reg New Comment=OKI-78SR-5/1.5-W
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "MCU80N03TPHF"; UniqueID = "\JQIKCBIB\YBTYMUTD" ("\JQIKCBIB\YBTYMUTD")
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCU80N03A-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "MCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MCU80N03A-TP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "MCU80N03TPHF"; UniqueID = "\JQIKCBIB\IVYGUXYP" ("\JQIKCBIB\IVYGUXYP")
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCU80N03A-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "MCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MCU80N03A-TP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "DCDC_VERTICAL"; UniqueID = "\JHOXUJLU\MSNENWXO" ("\JHOXUJLU\MSNENWXO")
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OKI-78SR-5/1.5-W36E-C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "OKI-78SR-5/1.5-W"; VariantName = "[No Variations]"
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component F4 36-3568-ND
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

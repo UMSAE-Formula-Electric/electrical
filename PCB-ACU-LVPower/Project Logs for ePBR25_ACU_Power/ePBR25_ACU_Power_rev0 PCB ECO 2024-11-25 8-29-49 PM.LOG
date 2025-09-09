@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=UV_DELAY Pin=-1
+Add Net: Net with name "VBATT_FUSE" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

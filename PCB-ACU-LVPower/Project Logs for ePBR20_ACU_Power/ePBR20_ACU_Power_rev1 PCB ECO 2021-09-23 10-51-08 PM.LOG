@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=CON1 Old Footprint=*TE_6-146257-3 New Footprint=6-534998-5_6-534998-5(Primary)
+Change Component Footprint: Designator=CON2 Old Footprint=*TE_6-146257-3 New Footprint=6-534998-5_6-534998-5(Primary)
+Added Pin To Net: NetName=WH_SP_L_IN Pin=CON1-A14
+Added Pin To Net: NetName=WH_SP_R_IN Pin=CON1-A15
+Added Pin To Net: NetName=GND Pin=CON1-B14
+Added Pin To Net: NetName=GND Pin=CON1-B15
+Added Pin To Net: NetName=SERIAL_Tx Pin=CON2-A14
+Added Pin To Net: NetName=SERIAL_Rx Pin=CON2-A15
+Added Pin To Net: NetName=SWO Pin=CON2-B14
+Added Pin To Net: NetName=GND Pin=CON2-B15

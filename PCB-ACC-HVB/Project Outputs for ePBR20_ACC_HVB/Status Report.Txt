@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ePBR20_ACC_HVB.PrjPcb]
+   Generated File[ePBR20_HVB_rev1.TXT]
+   Generated File[ePBR20_HVB_rev1.LDP]
+   Generated File[ePBR20_HVB_rev1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:01:52 PM On 2022-04-13

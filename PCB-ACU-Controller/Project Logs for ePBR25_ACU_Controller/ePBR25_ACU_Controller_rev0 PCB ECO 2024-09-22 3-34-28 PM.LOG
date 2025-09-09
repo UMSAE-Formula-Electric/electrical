@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=SWO Pin=J1-A14
+Removed Pin From Net: NetName=GND Pin=J1-B14
+Add Component: Footprint Not Found 0603 fuse
+Add Component: Footprint Not Found 0603 fuse
+Add Component: Footprint Not Found 0603 fuse
+Add Component: Footprint Not Found 0603 fuse
+Added Pin To Net: NetName=GND Pin=J1-A14
+Added Pin To Net: NetName=SWO Pin=J1-B14
+Added Net: Name=NetF?_1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component F? PTC 80 mA
+Add Class Member: Failed to add class member : Component F? PTC 80 mA
+Add Class Member: Failed to add class member : Component F? PTC 80 mA
+Add Class Member: Failed to add class member : Component F? PTC 80 mA
+Added Room: Name=7  - Microcontroller
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

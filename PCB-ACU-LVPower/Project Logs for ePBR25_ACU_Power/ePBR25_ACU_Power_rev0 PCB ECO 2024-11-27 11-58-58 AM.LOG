@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VS Pin=POWER RELAY-1
+Removed Pin From Net: NetName=VS_TO_SWITCH Pin=POWER RELAY-2
+Removed Pin From Net: NetName=VS_SWITCH Pin=POWER RELAY-3
+Added Pin To Net: NetName=VS_TO_SWITCH Pin=POWER RELAY-1
+Added Pin To Net: NetName=VS Pin=POWER RELAY-2
+Added Pin To Net: NetName=VS_SWITCH Pin=POWER RELAY-4
+Added Pin To Net: NetName=NetPOWER RELAY_3 Pin=POWER RELAY-3
+Added Pin To Net: NetName=NetPOWER RELAY_3 Pin=R58-2
+Added Net: Name=NetPOWER RELAY_3
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Change Room Name: Old Name=Designator_7 New Name=Designator
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

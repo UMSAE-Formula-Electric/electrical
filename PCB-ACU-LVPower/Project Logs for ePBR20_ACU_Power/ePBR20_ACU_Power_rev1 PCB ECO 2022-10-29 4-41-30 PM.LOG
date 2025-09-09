@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=VS Pin=LD1-1
+Removed Pin From Net: NetName=GND Pin=LD1-2
+Removed Pin From Net: NetName=MC_PWR_CTRL Pin=LD1-7
+Removed Pin From Net: NetName=MC_PWR_FB Pin=LD1-8
+Removed Pin From Net: NetName=MC_PWR_FUSE Pin=LD1-16
+Removed Pin From Net: NetName=MC_PWR_FUSE Pin=LD1-17
+Removed Pin From Net: NetName=MC_PWR_FUSE Pin=LD1-18
+Removed Pin From Net: NetName=BUZR_FUSE Pin=LD1-22
+Removed Pin From Net: NetName=BUZR_FUSE Pin=LD1-23
+Removed Pin From Net: NetName=BUZR_FUSE Pin=LD1-24
+Removed Pin From Net: NetName=VS Pin=LD1-25
+Removed Pin From Net: NetName=GND Pin=LD2-1
+Removed Pin From Net: NetName=PUMP_FB Pin=LD2-5
+Removed Pin From Net: NetName=PUMP_CTRL Pin=LD2-6
+Removed Pin From Net: NetName=VS Pin=LD2-7
+Removed Pin From Net: NetName=PUMP_FUSE Pin=LD2-8
+Removed Pin From Net: NetName=PUMP_FUSE Pin=LD2-9
+Removed Pin From Net: NetName=FANS_FUSE Pin=LD2-10
+Removed Pin From Net: NetName=FANS_FUSE Pin=LD2-11
+Removed Pin From Net: NetName=VS Pin=LD2-12
+Change Component Footprint: Designator=LD1 Old Footprint=24-SOP (0.295", 7.50mm Width) Exposed Pad New Footprint=VND5E050JTR-E
+Change Component Footprint: Designator=LD2 Old Footprint=VND5E050JTR-E New Footprint=SOP80P600X162-13N
+Change Component Comment : Designator=LD2 Old Comment=LD - VND5E050JTR-E New Comment=VN5E050AJTR-E
+Change Component Comment : Designator=LD1 Old Comment=LD - VNQ5050AKTR-E New Comment=LD - VND5E050JTR-E
+Change component parameters: Designator = "LD1" ("LD1"); Footprint = "24-SOP (0.295", 7.50mm Width) Exposed Pad"; UniqueID = "\VCVNIUUY\BAMRHBIG" ("\VCVNIUUY\BAMRHBIG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "497-11700-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LD2" ("LD2"); Footprint = "VND5E050JTR-E"; UniqueID = "\VCVNIUUY\OEZAKGYA" ("\VCVNIUUY\OEZAKGYA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "VN5E050AJTR-E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/vn5e050ajtr-e/stmicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/vn5e050aj-e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.62mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "VN5E050AJTR-E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-VN5E050AJTR-E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VN5E050AJTR-E?qs=%252BB84zevwoRDZrW3RKCiWfw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C20(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10991-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10991-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=LD3(SOP80P600X162-13N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "VN5E050AJTR-E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/vn5e050ajtr-e/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/vn5e050aj-e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "VN5E050AJTR-E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-VN5E050AJTR-E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VN5E050AJTR-E?qs=%252BB84zevwoRDZrW3RKCiWfw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VS Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=VS Pin=C21-2
+Added Pin To Net: NetName=GND Pin=LD1-1
+Added Pin To Net: NetName=MC_PWR_FB Pin=LD1-5
+Added Pin To Net: NetName=MC_PWR_CTRL Pin=LD1-6
+Added Pin To Net: NetName=VS Pin=LD1-7
+Added Pin To Net: NetName=MC_PWR_FUSE Pin=LD1-8
+Added Pin To Net: NetName=MC_PWR_FUSE Pin=LD1-9
+Added Pin To Net: NetName=BUZR_FUSE Pin=LD1-10
+Added Pin To Net: NetName=BUZR_FUSE Pin=LD1-11
+Added Pin To Net: NetName=VS Pin=LD1-13
+Added Pin To Net: NetName=GND Pin=LD2-2
+Added Pin To Net: NetName=FANS_FUSE Pin=LD2-8
+Added Pin To Net: NetName=GND Pin=LD3-2
+Added Pin To Net: NetName=PUMP_CTRL Pin=LD3-3
+Added Pin To Net: NetName=PUMP_FB Pin=LD3-4
+Added Pin To Net: NetName=PUMP_FUSE Pin=LD3-8
+Added Pin To Net: NetName=VS Pin=LD3-13
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

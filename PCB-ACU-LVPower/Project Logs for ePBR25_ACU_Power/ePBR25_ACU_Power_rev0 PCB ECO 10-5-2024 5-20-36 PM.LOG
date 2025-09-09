@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=F? NewDesignator=F2
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=VBATT_RAW NewDesignator=VBATT_FUSE
+Added Pin To Net: NetName=VBATT_FUSE Pin=CN1-36
+Added Pin To Net: NetName=VBATT_FUSE Pin=D6-1
+Added Pin To Net: NetName=VBATT_FUSE Pin=F2-3
+Added Pin To Net: NetName=VBATT_FUSE Pin=F2-4
+Added Pin To Net: NetName=VBATT_RAW Pin=WM1-1
+Added Pin To Net: NetName=VBATT_RAW Pin=WM1-1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

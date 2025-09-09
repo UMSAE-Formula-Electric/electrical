@@ -1,0 +1,37 @@
+Added Component: Designator=R70(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RESC0603(1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10KGRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R71(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RESC0603(1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10KGRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FANS_FUSE Pin=LD2-8
+Added Pin To Net: NetName=FANS_FUSE Pin=LD2-10
+Added Pin To Net: NetName=FANS_FUSE Pin=LD2-11
+Added Pin To Net: NetName=PUMP_FUSE Pin=LD3-9
+Added Pin To Net: NetName=PUMP_FUSE Pin=LD3-10
+Added Pin To Net: NetName=PUMP_FUSE Pin=LD3-11
+Added Pin To Net: NetName=GND Pin=R70-1
+Added Pin To Net: NetName=GND Pin=R71-1
+Added Pin To Net: NetName=NetLD2_5 Pin=LD2-5
+Added Pin To Net: NetName=NetLD2_5 Pin=R70-2
+Added Net: Name=NetLD2_5
+Added Pin To Net: NetName=NetLD3_5 Pin=LD3-5
+Added Pin To Net: NetName=NetLD3_5 Pin=R71-2
+Added Net: Name=NetLD3_5
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

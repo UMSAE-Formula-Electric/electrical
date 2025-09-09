@@ -1,0 +1,20 @@
+Added Component: Designator=K?(SOP254P710X255-4N)
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "306-1358-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C226S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Coto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Solid State Relays"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=LATCHING_Delayed Pin=K?-2
+Added Pin To Net: NetName=SCHT_TAP_LATCHING Pin=K?-3
+Added Pin To Net: NetName=SCHT_TAP Pin=K?-4
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

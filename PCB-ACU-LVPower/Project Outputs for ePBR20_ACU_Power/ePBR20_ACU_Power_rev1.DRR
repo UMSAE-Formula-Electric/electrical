@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ePBR20_ACU_Power_rev1.PcbDoc   2021-11-02  4:13:35 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ePBR20_ACU_Power_rev1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             1657      PTH        204.35inch (5190.54mm)
+T2      17mil (0.432mm)                                           Round             171       PTH        47.24inch (1200.01mm)
+T3      28mil (0.711mm)                                           Round             5         PTH        4.94inch (125.43mm)
+T4      35mil (0.889mm)                                           Round             40        PTH        23.10inch (586.71mm)
+T5      39mil (0.991mm)                                           Round             6         PTH        2.11inch (53.60mm)
+T6      40mil (1.016mm)                                           Round             60        PTH        11.26inch (285.95mm)
+T7      60mil (1.524mm)                                           Round             2         PTH        0.20inch (5.08mm)
+T8      61mil (1.549mm)                                           Round             78        PTH        21.99inch (558.48mm)
+T9      114mil (2.896mm)                                          Round             4         PTH        0.74inch (18.80mm)
+T10     128mil (3.251mm)                                          Round             2         PTH        0.84inch (21.46mm)
+T11     137mil (3.48mm)                                           Round             11        PTH        31.17inch (791.64mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2036
+
+Total Processing Time (hh:mm:ss) : 00:00:00

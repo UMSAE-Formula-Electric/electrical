@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Connectors.SchDoc|Designator=Fuses|SchDesignator=Fuses|FileName=HV Fuses.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=HV Fuses.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connectors.SchDoc|Designator=TSAL & HV Indicators|SchDesignator=TSAL & HV Indicators|FileName=Indicators.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Indicators.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

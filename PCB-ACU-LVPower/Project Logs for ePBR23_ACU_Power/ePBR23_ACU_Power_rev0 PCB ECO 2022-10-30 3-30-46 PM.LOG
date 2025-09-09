@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=VS_FROM_MS Pin=Q9-2
+Removed Pin From Net: NetName=VS_FROM_MS Pin=Q9-2
+Removed Pin From Net: NetName=VS_FROM_MS Pin=Q9-2
+Removed Pin From Net: NetName=VS_FROM_MS Pin=Q9-2
+Removed Pin From Net: NetName=VS_FROM_MS Pin=Q9-2
+Removed Pin From Net: NetName=Source Pin=Q9-3
+Removed Pin From Net: NetName=Source Pin=Q9-3
+Removed Pin From Net: NetName=Source Pin=Q9-3
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=Source Pin=Q10-3
+Removed Pin From Net: NetName=Source Pin=Q10-3
+Removed Pin From Net: NetName=Source Pin=Q10-3
+Change Footprint: Footprint Not Found DPAK3-CASE-369AS
+Change Footprint: Footprint Not Found DPAK3-CASE-369AS
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "N-Channel Mosfet"; UniqueID = "\JQIKCBIB\HGFJPTIG" ("\JQIKCBIB\HGFJPTIG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "FDD86113LZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fdd86113lz/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/FDD86113LZ-D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FDD86113LZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "512-FDD86113LZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/FDD86113LZ?qs=Aj0GNA1YSDQLi07jrZVfPw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCU80N03-TPMSCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "N-Channel Mosfet"; UniqueID = "\JQIKCBIB\QGRDGAOY" ("\JQIKCBIB\QGRDGAOY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "FDD86113LZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fdd86113lz/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/FDD86113LZ-D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FDD86113LZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "512-FDD86113LZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/FDD86113LZ?qs=Aj0GNA1YSDQLi07jrZVfPw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCU80N03-TPMSCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Source Pin=Q9-2
+Added Pin To Net: NetName=Source Pin=Q9-2
+Added Pin To Net: NetName=Source Pin=Q9-2
+Added Pin To Net: NetName=Source Pin=Q9-2
+Added Pin To Net: NetName=Source Pin=Q9-2
+Added Pin To Net: NetName=VS_FROM_MS Pin=Q9-3
+Added Pin To Net: NetName=VS_FROM_MS Pin=Q9-3
+Added Pin To Net: NetName=VS_FROM_MS Pin=Q9-3
+Added Pin To Net: NetName=Source Pin=Q10-2
+Added Pin To Net: NetName=Source Pin=Q10-2
+Added Pin To Net: NetName=Source Pin=Q10-2
+Added Pin To Net: NetName=Source Pin=Q10-2
+Added Pin To Net: NetName=Source Pin=Q10-2
+Added Pin To Net: NetName=VS Pin=Q10-3
+Added Pin To Net: NetName=VS Pin=Q10-3
+Added Pin To Net: NetName=VS Pin=Q10-3
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

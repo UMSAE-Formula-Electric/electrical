@@ -1,0 +1,10 @@
+Change Component Comment: Designator=D1 Old Comment=AMS_OK New Comment=AMS_ERR
+Change Component Comment: Designator=D3 Old Comment=BSPD_OK New Comment=BSPD_ERR
+Change Component Comment: Designator=D2 Old Comment=IMD_OK New Comment=IMD_ERR
+Add Pin To Net: Pin=J4-A4 Old Net=AMS_OK New Net=AMS_OK
+Change Pin Designator/Name:  Old Designator=AMS-22 Old Name=22 New Designator =24 New Name=24
+Change Pin Designator/Name:  Old Designator=AMS-24 Old Name=24 New Designator =22 New Name=22
+Change Pin Designator/Name:  Old Designator=BSPD-22 Old Name=22 New Designator =24 New Name=24
+Change Pin Designator/Name:  Old Designator=BSPD-24 Old Name=24 New Designator =22 New Name=22
+Change Pin Designator/Name:  Old Designator=IMD-22 Old Name=22 New Designator =24 New Name=24
+Change Pin Designator/Name:  Old Designator=IMD-24 Old Name=24 New Designator =22 New Name=22

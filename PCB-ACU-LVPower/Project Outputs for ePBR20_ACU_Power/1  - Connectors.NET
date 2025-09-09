@@ -1,0 +1,224 @@
+{COMPONENT PROTEL.PCB
+  {ENVIRONMENT PROTEL.SCH}
+  {DETAIL
+    {SUBCOMP
+      {I .PRT Jumper1
+        {CN
+        }
+      }
+      {I LeavySeal 39 pin Ver.PRT CN1
+        {CN
+        1 IMD_PWR
+        2 HVB_PWR
+        3 BSPD_TEST
+        4 EMETER_PWR
+        5 AMS_PWR
+        6 PRECHRG_CTRL
+        7 IMD_RESIST
+        8 AIR+_CTRL
+        9 AMS_CLR_ERR
+       10 EXTRA_INPUT2
+       11 AIR-_CTRL
+       12 AIR+_FB
+       13 AIR-_FB
+       14 IMD_OK
+       15 EXTRA_INPUT1
+       16 SWO
+       17 CAN_SENS_N
+       18 CAN_SENS_P
+       19 NetCN1_19
+       20 A\M\S\_\O\K\
+       21 SCHT_TAP
+       22 HCP_SENS_PWR
+       23 HCP_H_CURR_SENS
+       24 HCP_L_CURR_SENS
+       25 CHASSIS_GND
+       26 HCP_L_CURR_SENS
+       27 TS_ACTIVE
+       28 GND
+       29 SWDIO
+       30 SCHT_FROM_AUX_TO_ACC
+       31 SWCLK
+       32 NRST
+       33 ACC_FAN_PWR
+       34 VBATT_RAW
+       35 3V3
+       36 SERIAL_Rx
+       37 SERIAL_Tx
+       38 NetCN1_38
+       39 DCDC_PWR
+        }
+      }
+      {I LeavySeal 39 pin Ver.PRT CN2
+        {CN
+        1 LATCH_RST
+        2 VS_TO_MS
+        3 VS_FROM_MS
+        4 PUMP_PWR
+        5 COOL_SYS_TEMP1
+        6 SCHT_FROM_AUX_TO_ACC
+        7 FANS_PWR
+        8 COOL_SYS_TEMP2
+        9 COOL_SYS_TEMP3
+       10 NetCN2_10
+       11 NetCN2_11
+       12 AIR-_FB
+       13 BUZR_PWR
+       14 TSAL_PWR
+       15 MC_PWR
+       16 RED_LED_GND
+       17 GREEN_LED_GND
+       18 NetCN2_18
+       19 SCHT_OUT_LATCH
+       20 SHCT_IN_LATCH
+       21 SCHT_TAP
+       22 BRAKE_PWR
+       23 BRAKE_LIGHT_GND
+       24 CHASSIS_GND
+       25 VCU_PWR
+       26 NetCN2_26
+       27 CAN_SENS_P
+       28 B\R\A\K\E\_\P\R\E\S\S\
+       29 GND
+       30 CAN_SENS_N
+       31 BRAKE_SENS
+       32 WH_SP_L_IN
+       33 CAN_P
+       34 BRAKE_SW
+       35 WH_SP_R_IN
+       36 CAN_N
+       37 AMS_LED
+       38 IMD_LED
+       39 BSPD_LED
+        }
+      }
+      {I *TE_6-146257-5.PRT CON1
+        {CN
+       A1 EXTRA_INPUT1
+       A2 MC_PWR_CTRL
+       A3 GND
+       A4 ACC_FAN_CTRL
+       A5 BUZR_CTRL
+       A6 SCHT_TAP
+       A7 ACU_PWR
+       A8 AMS_CLR_ERR
+       A9 PRECHRG_CTRL
+      A10 BRAKE_PRESS
+      A11 3V3
+      A12 SWDIO
+      A13 SWCLK
+      A14 WH_SP_L_IN
+      A15 WH_SP_R_IN
+       B1 3V3
+       B2 GND
+       B3 IMD_OK
+       B4 AIR-_FB
+       B5 AIR+_FB
+       B6 PUMP_CTRL
+       B7 FANS_CTRL
+       B8 AIR-_CTRL
+       B9 AIR+_CTRL
+      B10 DCDC_EN_INT
+      B11 AMS_OK
+      B12 NRST
+      B13 BSPD_OK
+      B14 GND
+      B15 GND
+        }
+      }
+      {I *TE_6-146257-5.PRT CON2
+        {CN
+       A1 DCDC_CURR_SENS
+       A2 HCP_L_CURR_SENS
+       A3 GND
+       A4 3V3
+       A5 MC_PWR_FB
+       A6 GND
+       A7 COOL_SYS_TEMP1
+       A8 ACU_PWR
+       A9 PUMP_FB
+      A10 EXTRA_INPUT2
+      A11 GND
+      A12 CAN_P
+      A13 CAN_N
+      A14 SERIAL_Tx
+      A15 SERIAL_Rx
+       B1 HCP_H_CURR_SENS
+       B2 LVBATT_CURR_SENS
+       B3 COOL_SYS_TEMP2
+       B4 5V
+       B5 BUZR_FB
+       B6 FANS_FB
+       B7 5V
+       B8 COOL_SYS_TEMP3
+       B9 ACC_FAN_FB
+      B10 3V3
+      B11 IMD_RESIST
+      B12 CAN_SENS_P
+      B13 CAN_SENS_N
+      B14 SWO
+      B15 GND
+        }
+      }
+      {I 5-146285-6.PRT L1
+        {CN
+        1 ACU_PWR
+        2 RED_LED_GND
+        3 GREEN_LED_GND
+        4 GND
+        5 TS_ACTIVE
+        6 GND
+        }
+      }
+      {I 5-146285-6.PRT L2
+        {CN
+        1 SCHT_OUT_LATCH
+        2 LATCH_RST
+        3 GND
+        4 BSPD_LED
+        5 IMD_OK
+        6 BSPD_OK
+        }
+      }
+      {I 5-146285-6.PRT L3
+        {CN
+        1 AMS_LED
+        2 A\M\S\_\O\K\
+        3 LATCHING_Delayed
+        4 AMS_OK
+        5 SHCT_IN_LATCH
+        6 IMD_LED
+        }
+      }
+      {I 5-146285-6.PRT L4
+        {CN
+        1 HCP_L_CURR_SENS
+        2 5V
+        3 BRAKE_PRESS
+        4 BRAKE_SENS
+        5 BRAKE_SW
+        6 BRAKE_LIGHT_GND
+        }
+      }
+      {I SOT-23_N.PRT Q12
+        {CN
+        1 NetQ12_1
+        2 GND
+        3 B\R\A\K\E\_\P\R\E\S\S\
+        }
+      }
+      {I RESC0603(1608)_L.PRT R49
+        {CN
+        1 BRAKE_PRESS
+        2 NetQ12_1
+        }
+      }
+      {I WM9796-ND.PRT WM1
+        {CN
+        1 VBATT_RAW
+        2 GND
+        }
+      }
+    }
+  }
+}

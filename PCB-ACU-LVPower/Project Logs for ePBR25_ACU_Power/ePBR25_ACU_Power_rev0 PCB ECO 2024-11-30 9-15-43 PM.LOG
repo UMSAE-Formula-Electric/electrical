@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=VS_TO_SWITCH Pin=POWER RELAY-1
+Removed Pin From Net: NetName=VS Pin=POWER RELAY-2
+Removed Pin From Net: NetName=VS_SWITCH Pin=POWER RELAY-4
+Added Component: Designator=GLV Relay(FP-EW60-1A3-BL12D04_00000_MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "1.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "96O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FEW60_Power_Latching_Relay_DS%7F0421%7Fpdf%7FEnglish%7FENG_DS_EW60_Power_Latching_Relay_DS_0421.pdf%7F2071366-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Silver, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "277V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8536410050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VS_SWITCH Pin=GLV Relay-2
+Added Pin To Net: NetName=VS Pin=GLV Relay-3
+Added Pin To Net: NetName=VS Pin=GLV Relay-3
+Added Pin To Net: NetName=VS Pin=GLV Relay-3
+Added Pin To Net: NetName=VS_TO_SWITCH Pin=GLV Relay-4
+Added Pin To Net: NetName=VS_TO_SWITCH Pin=GLV Relay-4
+Added Pin To Net: NetName=VS_TO_SWITCH Pin=GLV Relay-4
+Added Pin To Net: NetName=NetGLV Relay_1 Pin=GLV Relay-1
+Added Pin To Net: NetName=NetGLV Relay_1 Pin=R58-2
+Added Net: Name=NetGLV Relay_1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

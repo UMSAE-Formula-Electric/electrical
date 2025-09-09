@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND_PWR Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Member To Class: ClassName=1-Connectors Member=Component FRONT PANEL
+Added Member To Class: ClassName=8-Controller Member=Component U5 STM32F446RELQFP100

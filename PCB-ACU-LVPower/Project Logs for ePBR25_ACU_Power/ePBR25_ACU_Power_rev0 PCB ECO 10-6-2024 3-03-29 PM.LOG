@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=TSAL_PWR Pin=CN2-26
+Removed Pin From Net: NetName=BRAKE_SW Pin=L4-5
+Added Pin To Net: NetName=AMBER_LED_GND Pin=L4-5
+Added Net: Name=AMBER_LED_GND
+Added Pin To Net: NetName=STATUS_LED_PWR Pin=CN2-26
+Added Net: Name=STATUS_LED_PWR
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

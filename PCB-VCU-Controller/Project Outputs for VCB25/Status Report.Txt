@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [VCB25.PrjPCB]
+   Generated File[VCB2022_rev0_Legend_Top.gbr]
+   Generated File[VCB2022_rev0_Paste_Top.gbr]
+   Generated File[VCB2022_rev0_Soldermask_Top.gbr]
+   Generated File[VCB2022_rev0_Copper_Signal_Top.gbr]
+   Generated File[VCB2022_rev0_Copper_Signal_Bot.gbr]
+   Generated File[VCB2022_rev0_Soldermask_Bot.gbr]
+   Generated File[VCB2022_rev0_Paste_Bot.gbr]
+   Generated File[VCB2022_rev0_Legend_Bot.gbr]
+   Generated File[VCB2022_rev0_Board_Outline.gbr]
+   Generated File[VCB2022_rev0_Profile.gbr]
+   Generated File[VCB2025_rev0.RUL]
+   Generated File[VCB2025_rev0.EXTREP]
+   Generated File[VCB2025_rev0.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:02:08 PM On 11/22/2024

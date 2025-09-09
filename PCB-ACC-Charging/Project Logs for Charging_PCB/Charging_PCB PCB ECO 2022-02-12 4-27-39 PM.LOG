@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=COMP1-2
+Removed Pin From Net: NetName=5V Pin=COMP1-5
+Change Component Footprint: Designator=COMP1 Old Footprint=SOT-23-OT5_N New Footprint=SOIC-SN8_M
+Change Component Comment : Designator=COMP1 Old Comment=MCP6561UT New Comment=MCP6562T-E/SN
+Change Managed Component Library Link : Designator=COMP1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=49A06CF4-E30E-4575-BCAC-6C9B0D96C591 New ItemGUID=4511B877-D218-4EDC-8683-B93D6B166F3B Old RevisionGUID=C9423B79-E8E4-4965-9537-3EE769B1E5FC New RevisionGUID=90B085CA-0105-4D26-A11C-404EE9A8DC2F
+Change component parameters: Designator = "COMP1" ("COMP1"); Footprint = "SOT-23-OT5_N"; UniqueID = "\LBEGKJQV" ("\LBEGKJQV")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "66dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hysteresis"; Value = "5mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Bias Current"; Value = "1pA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Offset Voltage (Vos)"; Value = "10mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "TTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "70dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay"; Value = "80ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "130uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=COMP1-4
+Added Pin To Net: NetName=5V Pin=COMP1-8
+Added Pin To Net: NetName=NetCOMP1_2 Pin=COMP1-2
+Added Pin To Net: NetName=NetCOMP1_2 Pin=R59-2
+Added Pin To Net: NetName=NetCOMP1_2 Pin=R60-2
+Added Net: Name=NetCOMP1_2

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GREEN_LED Pin=C4-2
+Added Pin To Net: NetName=AMBER_LED Pin=C6-2
+Added Pin To Net: NetName=GREEN_LED Pin=R2-2
+Added Pin To Net: NetName=AMBER_LED Pin=R3-2

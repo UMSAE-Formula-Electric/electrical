@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=CAN_N Pin=CN1-37
+Added Pin To Net: NetName=CAN_P Pin=CN1-38
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

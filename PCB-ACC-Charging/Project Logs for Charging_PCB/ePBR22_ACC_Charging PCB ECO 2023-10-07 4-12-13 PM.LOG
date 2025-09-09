@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=12V Pin=N1-8
+Change Net Name : Old Net Name=AMS_CHR_SAFETY New Net Name=AMS_CHG_SAFETY
+Added Room: Name=1-Connectors
+Added Room: Name=2-FET Control
+Added Room: Name=3-Fuses
+Added Room: Name=4-Power
+Added Room: Name=5-Latching Delay
+Added Room: Name=6-Latching AMS
+Added Room: Name=7-Latching IMD
+Added Room: Name=8-Controller
+Added Room: Name=9-Protections 1 of 2
+Added Room: Name=10-Protections 2 of 2
+Added Room: Name=12-Charging LED Indicator
+Added Rule: Name=Schematic Clearance Constraint

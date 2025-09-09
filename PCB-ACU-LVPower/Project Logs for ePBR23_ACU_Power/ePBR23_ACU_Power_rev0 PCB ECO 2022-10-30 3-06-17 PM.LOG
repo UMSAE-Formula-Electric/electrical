@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=VS Pin=Q10-2
+Removed Pin From Net: NetName=Source Pin=Q10-3
+Removed Pin From Net: NetName=Source Pin=Q10-3
+Removed Pin From Net: NetName=Source Pin=Q10-3
+Change Footprint: Cannot match pads with new footprint in component :Q9 Footprint:AOD4185
+Change Component Footprint: Designator=Q10 Old Footprint=N-Channel Mosfet New Footprint=AOD4185
+Change Component Comment : Designator=Q9 Old Comment= New Comment=Footprint didn't exist so exported different one
+Change Component Comment : Designator=Q10 Old Comment= New Comment=Footprint didn't exist so exported different one
+Added Pin To Net: NetName=Source Pin=Q10-2
+Added Pin To Net: NetName=VS Pin=Q10-3
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

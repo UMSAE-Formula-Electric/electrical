@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=WALL_CONN-3
+Change Component Comment : Designator=COMP1 Old Comment=MCP6562T-E/SN New Comment=LPV7215MFX/NOPB
+Added Pin To Net: NetName=GND_PWR Pin=U2-3
+Added Pin To Net: NetName=GND_PWR Pin=WALL_CONN-3
+Added Net: Name=GND_PWR

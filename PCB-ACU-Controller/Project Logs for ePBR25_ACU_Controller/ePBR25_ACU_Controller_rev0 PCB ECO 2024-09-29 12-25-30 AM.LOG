@@ -1,0 +1,36 @@
+Added Component: Designator=F4(FUSC1608X100N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1817-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F5(FUSC1608X100N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1817-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F6(FUSC1608X100N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1817-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F7(FUSC1608X100N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1817-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF4_1 Pin=F4-1
+Added Pin To Net: NetName=NetF4_2 Pin=F4-2
+Added Pin To Net: NetName=NetF5_1 Pin=F5-1
+Added Pin To Net: NetName=NetF5_2 Pin=F5-2
+Added Pin To Net: NetName=NetF6_1 Pin=F6-1
+Added Pin To Net: NetName=NetF6_2 Pin=F6-2
+Added Pin To Net: NetName=NetF7_1 Pin=F7-1
+Added Pin To Net: NetName=NetF7_2 Pin=F7-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component F4 PTC 80 mA
+Added Member To Class: ClassName=Designator Member=Component F5 PTC 80 mA
+Added Member To Class: ClassName=Designator Member=Component F6 PTC 80 mA
+Added Member To Class: ClassName=Designator Member=Component F7 PTC 80 mA
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

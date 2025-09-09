@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=ACC_FAN_PWR Pin=CN1-27
+Removed Pin From Net: NetName=ACU_PWR Pin=CN1-31
+Change Component Designator: OldDesignator= NewDesignator=UV_DELAY1
+Added Component: Designator=LATCHING_Delayed1(Test Via)
+Added Pin To Net: NetName=ACC_FAN_PWR Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=F4-3
+Added Pin To Net: NetName=GND Pin=F4-4
+Added Pin To Net: NetName=LATCHING_Delayed Pin=LATCHING_Delayed1-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

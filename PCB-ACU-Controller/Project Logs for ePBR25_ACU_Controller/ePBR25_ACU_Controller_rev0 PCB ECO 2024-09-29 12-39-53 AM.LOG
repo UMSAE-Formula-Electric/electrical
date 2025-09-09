@@ -1,0 +1,18 @@
+Change Net Name : Old Net Name=NetF4_1 New Net Name=UC_SWDIO
+Change Net Name : Old Net Name=NetF4_2 New Net Name=SWDIO
+Change Net Name : Old Net Name=NetF5_1 New Net Name=UC_SWCLK
+Change Net Name : Old Net Name=NetF5_2 New Net Name=SWCLK
+Change Net Name : Old Net Name=NetF6_1 New Net Name=UC_SWO
+Change Net Name : Old Net Name=NetF6_2 New Net Name=SWO
+Change Net Name : Old Net Name=NetF7_1 New Net Name=UC_NRST
+Change Net Name : Old Net Name=NetF7_2 New Net Name=NRST
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

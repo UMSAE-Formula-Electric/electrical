@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=R32 Old Footprint=FP-WSLF25122L000FEA-MFG New Footprint=FP-WSHP2818-MFG
+Change Component Comment : Designator=R32 Old Comment=WSLF25122L000FEA New Comment=WSHP28182L000FEB
+Change Component Designator: OldDesignator= NewDesignator=UV_DELAY1
+Change Managed Component Library Link : Designator=R32 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D450B01-524E-4856-A847-82FD66A5AFB0 New ItemGUID=3F98F0B3-CE4A-4E90-AEEC-BBE7A5DF6BF9 Old RevisionGUID=EB30612C-132A-447F-BFB2-E8AB369AB576 New RevisionGUID=46DE25B0-5660-4842-8B08-51587793874D
+Change component parameters: Designator = "R32" ("R32"); Footprint = "FP-WSLF25122L000FEA-MFG"; UniqueID = "\TGPYPXQX\XPVJNJTO" ("\TGPYPXQX\XPVJNJTO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "2818"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Metal Element"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.43mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "170°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "78727543"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8533210045, 8533210045"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

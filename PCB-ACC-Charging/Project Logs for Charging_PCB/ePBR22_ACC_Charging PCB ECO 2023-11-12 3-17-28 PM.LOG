@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=12V-SW NewDesignator=12V_SW
+Added Member To Class: ClassName=1-Connectors Member=Component AUX_TRAY_CONN

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=ACU_PWR Pin=Q5-1-3
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=Q5-5-8
+Removed Member From Class: ClassName=Designator Member=D22
+Removed Member From Class: ClassName=Designator Member=R22
+Removed Member From Class: ClassName=Designator Member=R24
+Removed Member From Class: ClassName=Designator Member=R29
+Removed Member From Class: ClassName=Designator Member=R34
+Removed Member From Class: ClassName=Designator Member=R36
+Removed Member From Class: ClassName=Designator Member=R42
+Change Component Designator: OldDesignator=LATCHING_Delayed NewDesignator=LATCHING_Delayed1
+Add Pin To Net: Unknown Pin: Pin Q5-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q5-3
+Add Pin To Net: Unknown Pin: Pin Q5-5
+Add Pin To Net: Unknown Pin: Pin Q5-6
+Add Pin To Net: Unknown Pin: Pin Q5-7
+Add Pin To Net: Unknown Pin: Pin Q5-8
+Change Net Name : Old Net Name=NetLatching Delay1_A1 New Net Name=NetLatching Delay_A1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component D3 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D8 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D9 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D11 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D12 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D13 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D15 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D16 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component F3 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F4 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F6 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F7 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F11 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F12 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F13 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F15 1812L050PR
+Added Member To Class: ClassName=Designator Member=Component F16 36-3568-ND
+Added Member To Class: ClassName=1  - Connectors Member=Component L3 6 Pin Header
+Added Member To Class: ClassName=Designator Member=Component R3 560
+Added Member To Class: ClassName=Designator Member=Component R4 560
+Added Member To Class: ClassName=Designator Member=Component R6 560
+Added Member To Class: ClassName=Designator Member=Component R7 560
+Added Member To Class: ClassName=Designator Member=Component R8 560
+Added Member To Class: ClassName=Designator Member=Component R9 560
+Added Member To Class: ClassName=Designator Member=Component R12 560
+Added Member To Class: ClassName=Designator Member=Component R13 560
+Added Member To Class: ClassName=Designator Member=Component R14 560
+Added Member To Class: ClassName=Designator Member=Component R17 5.6R
+Added Member To Class: ClassName=Designator Member=Component R18 560
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

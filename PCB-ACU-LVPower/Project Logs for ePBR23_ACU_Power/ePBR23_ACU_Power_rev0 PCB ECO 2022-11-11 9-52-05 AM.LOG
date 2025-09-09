@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VBATT_TO_PWR_SW Pin=CN2-2
+Removed Pin From Net: NetName=VBATT_TO_PWR_SW Pin=VS_TO_MS-1
+Added Pin To Net: NetName=NetPW_SW_OUT_1 Pin=CN2-2
+Added Pin To Net: NetName=VBATT_TO_PWR_SW Pin=Q1-2
+Added Pin To Net: NetName=VBATT_TO_PWR_SW Pin=U5-7
+Added Pin To Net: NetName=NetPW_SW_OUT_1 Pin=VS_TO_MS-1
+Change Net Name : Old Net Name=NetPW_SW_OUT_1 New Net Name=VS_TO_MS
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

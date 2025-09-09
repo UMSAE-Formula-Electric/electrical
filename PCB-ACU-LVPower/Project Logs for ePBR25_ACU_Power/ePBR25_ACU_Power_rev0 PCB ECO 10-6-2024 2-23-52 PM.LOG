@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VBATT_FUSE Pin=D6-1
+Removed Pin From Net: NetName=VBATT_RAW Pin=F2-1
+Removed Pin From Net: NetName=VBATT_RAW Pin=F2-2
+Removed Pin From Net: NetName=VBATT_FUSE Pin=F2-3
+Removed Pin From Net: NetName=VBATT_FUSE Pin=F2-4
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Member From Class: ClassName=Designator Member=D6
+Removed Member From Class: ClassName=Designator Member=F2
+Removed Member From Class: ClassName=Designator Member=R4
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Change Room Name: Old Name=Designator_5 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

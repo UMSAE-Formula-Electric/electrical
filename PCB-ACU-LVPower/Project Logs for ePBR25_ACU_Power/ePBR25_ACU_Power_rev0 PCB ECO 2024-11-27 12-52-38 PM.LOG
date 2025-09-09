@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TRIG Pin=C16-1
+Removed Pin From Net: NetName=TRIG Pin=R37-2
+Added Pin To Net: NetName=TRIG Pin=C16-1
+Added Pin To Net: NetName=TRIG Pin=R37-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Change Room Name: Old Name=Designator_7 New Name=Designator
+Change Room Name: Old Name=Designator_6 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

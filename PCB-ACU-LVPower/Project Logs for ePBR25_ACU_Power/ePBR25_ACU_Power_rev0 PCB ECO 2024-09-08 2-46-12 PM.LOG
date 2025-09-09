@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=A\M\S\_\O\K\ Pin=CN1-20
+Removed Pin From Net: NetName=SCHT_TAP Pin=CN1-21
+Removed Pin From Net: NetName=HCP_SENS_PWR Pin=CN1-22
+Removed Pin From Net: NetName=HCP_H_CURR_SENS Pin=CN1-23
+Removed Pin From Net: NetName=HCP_L_CURR_SENS Pin=CN1-24
+Removed Pin From Net: NetName=CHASSIS_GND Pin=CN1-25
+Removed Pin From Net: NetName=HCP_L_CURR_SENS Pin=CN1-26
+Removed Pin From Net: NetName=TS_ACTIVE Pin=CN1-27
+Removed Pin From Net: NetName=GND Pin=CN1-28
+Removed Pin From Net: NetName=SWDIO Pin=CN1-29
+Removed Pin From Net: NetName=SCHT_FROM_AUX_TO_ACC Pin=CN1-30
+Removed Pin From Net: NetName=SWCLK Pin=CN1-31
+Removed Pin From Net: NetName=NRST Pin=CN1-32
+Removed Pin From Net: NetName=VBATT_RAW Pin=CN1-34
+Removed Pin From Net: NetName=3V3 Pin=CN1-35
+Removed Pin From Net: NetName=SERIAL_Rx Pin=CN1-36
+Removed Pin From Net: NetName=SERIAL_Tx Pin=CN1-37
+Added Component: Designator=CN2(LeavySeal 39 pin Ver)
+Added Component: Designator=CN3(LeavySeal 39 pin Ver)
+Added Pin To Net: NetName=A\M\S\_\O\K\ Pin=CN2-20
+Added Pin To Net: NetName=SCHT_TAP Pin=CN2-21
+Added Pin To Net: NetName=HCP_SENS_PWR Pin=CN3-22
+Added Pin To Net: NetName=HCP_H_CURR_SENS Pin=CN3-23
+Added Pin To Net: NetName=HCP_L_CURR_SENS Pin=CN3-24
+Added Pin To Net: NetName=CHASSIS_GND Pin=CN3-25
+Added Pin To Net: NetName=HCP_L_CURR_SENS Pin=CN3-26
+Added Pin To Net: NetName=TS_ACTIVE Pin=CN3-27
+Added Pin To Net: NetName=GND Pin=CN3-28
+Added Pin To Net: NetName=SWDIO Pin=CN3-29
+Added Pin To Net: NetName=SCHT_FROM_AUX_TO_ACC Pin=CN3-30
+Added Pin To Net: NetName=SWCLK Pin=CN3-31
+Added Pin To Net: NetName=NRST Pin=CN3-32
+Added Pin To Net: NetName=VBATT_RAW Pin=CN3-34
+Added Pin To Net: NetName=3V3 Pin=CN3-35
+Added Pin To Net: NetName=SERIAL_Rx Pin=CN3-36
+Added Pin To Net: NetName=SERIAL_Tx Pin=CN3-37
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN2 5-1418363-3
+Added Member To Class: ClassName=1  - Connectors Member=Component CN3 5-1418363-3
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

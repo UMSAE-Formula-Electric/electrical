@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SCHT_TAP_LATCHING Pin=CON1-A6
+Added Pin To Net: NetName=SCHT_TAP Pin=CON1-A6
+Add Net: Net with name "VBATT_FUSE" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Change Room Name: Old Name=Designator_7 New Name=Designator
+Change Room Name: Old Name=Designator_6 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

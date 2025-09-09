@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ePBR23_ACU_Power.PrjPCB]
+   Generated File[ePBR23_ACU_Power_rev0.TXT]
+   Generated File[ePBR23_ACU_Power_rev0.LDP]
+   Generated File[ePBR23_ACU_Power_rev0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:37:58 PM On 2022-12-02

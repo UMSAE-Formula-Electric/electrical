@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=Designator Member=D19
+Removed Member From Class: ClassName=Designator Member=D20
+Removed Member From Class: ClassName=Designator Member=R25
+Removed Member From Class: ClassName=1  - Connectors Member=R26
+Removed Member From Class: ClassName=Designator Member=R27
+Removed Member From Class: ClassName=Designator Member=R28
+Added Component: Designator=D23(TOSH-0603LED_RED_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.toshiba-components.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.semicon.toshiba.co.jp/info/docget.jsp?type=datasheet&lang=en&pid=TLSU1008A(T04)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Aug-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "25 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SMT LED, 1.6 x 0.8 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603LED_RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing Type"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TLSU1008A(T04)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "60 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "4 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Temperature"; Value = "-40 to 100 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "475-2512-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RESC0603(1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P560BZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D23-1
+Added Pin To Net: NetName=VS Pin=R54-1
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD23_2 Pin=R54-2
+Added Net: Name=NetD23_2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component D1 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D4 KP-1608MGC
+Added Member To Class: ClassName=1  - Connectors Member=Component R1 1k
+Added Member To Class: ClassName=Designator Member=Component R2 560
+Added Member To Class: ClassName=Designator Member=Component R10 560
+Added Member To Class: ClassName=Designator Member=Component R15 560
+Change Room Name: Old Name=Designator_6 New Name=Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

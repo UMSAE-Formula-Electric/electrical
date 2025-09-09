@@ -1,0 +1,38 @@
+PCAD Importer Log
+Project : 2024-11-27_20-40-21.LibPkg
+
+Section : C:\UMSAE Electric\PCB's\PCB-ACU-LVPower\AltiumV15\2024-11-27_20-40-21.lia
+    Section : PCB Library - 2024-11-27_20-40-21.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 409
+            Warning - 1 : Skipping Token poly On Line 425
+            Warning - 1 : Skipping Token poly On Line 761
+            Warning - 1 : Skipping Token poly On Line 777
+            Warning - 1 : Skipping Token poly On Line 1122
+            Warning - 1 : Skipping Token poly On Line 1138
+            Warning - 1 : Skipping Token C226S On Line 1377
+            Warning - 1 : Skipping Token attachedSymbol On Line 1489
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 2024-11-27_20-40-21.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 20
+            Warning - 1 : Skipping Token padStyleDef On Line 30
+            Warning - 1 : Skipping Token patternDef On Line 315
+            Warning - 1 : Skipping Token patternDef On Line 667
+            Warning - 1 : Skipping Token patternDef On Line 1028
+            Warning - 1 : Skipping Token defaultPinDes On Line 1385
+            Warning - 1 : Skipping Token defaultPinDes On Line 1393
+            Warning - 1 : Skipping Token defaultPinDes On Line 1401
+            Warning - 1 : Skipping Token defaultPinDes On Line 1409
+        EndSection
+
+        Section : Generating SCH Library - 2024-11-27_20-40-21.SchLib
+        EndSection
+    EndSection
+EndSection

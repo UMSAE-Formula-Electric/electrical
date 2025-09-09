@@ -1,0 +1,72 @@
+Removed Member From Class: ClassName=Designator Member=D17
+Removed Member From Class: ClassName=Designator Member=D18
+Removed Member From Class: ClassName=Designator Member=D21
+Removed Member From Class: ClassName=Designator Member=D22
+Removed Member From Class: ClassName=Designator Member=R21
+Removed Member From Class: ClassName=Designator Member=R22
+Removed Member From Class: ClassName=Designator Member=R24
+Removed Member From Class: ClassName=Designator Member=R30
+Removed Member From Class: ClassName=Designator Member=R34
+Removed Member From Class: ClassName=Designator Member=R37
+Removed Member From Class: ClassName=Designator Member=R40
+Removed Member From Class: ClassName=Designator Member=R43
+Removed Member From Class: ClassName=Designator Member=R44
+Change Component Comment : Designator=R47 Old Comment=Res1 New Comment=
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Add Pin To Net: Unknown Pin: Pin Q5-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q5-3
+Add Pin To Net: Unknown Pin: Pin Q5-4
+Add Pin To Net: Unknown Pin: Pin Q5-5
+Add Pin To Net: Unknown Pin: Pin Q5-6
+Add Pin To Net: Unknown Pin: Pin Q5-7
+Add Pin To Net: Unknown Pin: Pin Q5-8
+Added Pin To Net: NetName=ACU_PWR Pin=Q7-1
+Added Pin To Net: NetName=LATCHING_Delayed Pin=Q7-1
+Added Pin To Net: NetName=ACU_PWR Pin=Q7-2
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=ACU_PWR Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Add Pin To Net: Unknown Pin: Pin Q7-4
+Add Net: Net with name "555_OUT_LATCHING" already exists
+Add Net: Net with name "LATCHING_Delayed" already exists
+Add Net: Net with name "TRIG" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN1 5-1418363-1
+Added Member To Class: ClassName=1  - Connectors Member=Component CN2 5-1418363-1
+Added Member To Class: ClassName=Designator Member=Component D2 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D3 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D6 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D7 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D8 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D12 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D13 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D14 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D15 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D16 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component F1 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F5 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F6 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F9 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F12 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F13 36-3568-ND
+Added Member To Class: ClassName=Designator Member=Component F16 36-3568-ND
+Added Member To Class: ClassName=1  - Connectors Member=Component L2 6 Pin Header
+Added Member To Class: ClassName=1  - Connectors Member=Component L3 6 Pin Header
+Added Member To Class: ClassName=Designator Member=Component R4 560
+Added Member To Class: ClassName=Designator Member=Component R5 560
+Added Member To Class: ClassName=Designator Member=Component R6 560
+Added Member To Class: ClassName=Designator Member=Component R7 560
+Added Member To Class: ClassName=Designator Member=Component R8 560
+Added Member To Class: ClassName=Designator Member=Component R13 560
+Added Member To Class: ClassName=Designator Member=Component R16 560
+Added Member To Class: ClassName=Designator Member=Component R17 5.6R
+Added Member To Class: ClassName=Designator Member=Component R18 560
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

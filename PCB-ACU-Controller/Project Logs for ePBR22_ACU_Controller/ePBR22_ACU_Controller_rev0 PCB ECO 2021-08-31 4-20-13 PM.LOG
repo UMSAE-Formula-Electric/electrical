@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_CAP_1 Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=V_CAP_1 Pin=U3-47
+Change Component Footprint: Designator=C21 Old Footprint=1608[0603] New Footprint=CAPC0603(1608)100_N
+Change Component Comment : Designator=C21 Old Comment=Cap New Comment=CAP 100nF 10V 0603(1608)

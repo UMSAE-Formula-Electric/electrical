@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=IMD_PWR Pin=CN1-1
+Removed Pin From Net: NetName=HVB_PWR Pin=CN1-2
+Removed Pin From Net: NetName=BSPD_TEST Pin=CN1-3
+Removed Pin From Net: NetName=EMETER_PWR Pin=CN1-4
+Removed Pin From Net: NetName=AMS_PWR Pin=CN1-5
+Removed Pin From Net: NetName=PRECHRG_CTRL Pin=CN1-6
+Removed Pin From Net: NetName=IMD_RESIST Pin=CN1-7
+Removed Pin From Net: NetName=AIR+_CTRL Pin=CN1-8
+Removed Pin From Net: NetName=AMS_CLR_ERR Pin=CN1-9
+Removed Pin From Net: NetName=EXTRA_INPUT2 Pin=CN1-10
+Removed Pin From Net: NetName=AIR-_CTRL Pin=CN1-11
+Removed Pin From Net: NetName=AIR+_FB Pin=CN1-12
+Removed Pin From Net: NetName=AIR-_FB Pin=CN1-13
+Removed Pin From Net: NetName=IMD_OK Pin=CN1-14
+Removed Pin From Net: NetName=EXTRA_INPUT1 Pin=CN1-15
+Removed Pin From Net: NetName=SWO Pin=CN1-16
+Removed Pin From Net: NetName=CAN_SENS_N Pin=CN1-17
+Removed Pin From Net: NetName=CAN_SENS_P Pin=CN1-18
+Removed Pin From Net: NetName=A\M\S\_\O\K\ Pin=CN1-20
+Removed Pin From Net: NetName=SCHT_TAP Pin=CN1-21
+Removed Pin From Net: NetName=HCP_SENS_PWR Pin=CN1-22
+Removed Pin From Net: NetName=HCP_H_CURR_SENS Pin=CN1-23
+Removed Pin From Net: NetName=HCP_L_CURR_SENS Pin=CN1-24
+Removed Pin From Net: NetName=CHASSIS_GND Pin=CN1-25
+Removed Pin From Net: NetName=HCP_L_CURR_SENS Pin=CN1-26
+Removed Pin From Net: NetName=TS_ACTIVE Pin=CN1-27
+Removed Pin From Net: NetName=GND Pin=CN1-28
+Removed Pin From Net: NetName=SWDIO Pin=CN1-29
+Removed Pin From Net: NetName=SCHT_FROM_AUX_TO_ACC Pin=CN1-30
+Removed Pin From Net: NetName=SWCLK Pin=CN1-31
+Removed Pin From Net: NetName=NRST Pin=CN1-32
+Removed Pin From Net: NetName=VBATT_RAW Pin=CN1-34
+Removed Pin From Net: NetName=3V3 Pin=CN1-35
+Removed Pin From Net: NetName=SERIAL_Rx Pin=CN1-36
+Removed Pin From Net: NetName=SERIAL_Tx Pin=CN1-37
+Removed Pin From Net: NetName=5V Pin=F8-1
+Removed Pin From Net: NetName=5V Pin=F8-2
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=VBATT_RAW Pin=WM9796-ND-1
+Removed Pin From Net: NetName=VBATT_RAW Pin=WM9796-ND-1
+Removed Pin From Net: NetName=GND Pin=WM9796-ND-2
+Removed Pin From Net: NetName=GND Pin=WM9796-ND-2
+Removed Member From Class: ClassName=1  - Connectors Member=CN1
+Removed Member From Class: ClassName=Designator Member=D13
+Removed Member From Class: ClassName=Designator Member=F8
+Removed Member From Class: ClassName=Designator Member=R26
+Removed Member From Class: ClassName=1  - Connectors Member=WM9796-ND
+Added Component: Designator=CN?(LeavySeal 39 pin Ver)
+Added Component: Designator=CN?(LeavySeal 39 pin Ver)
+Added Component: Designator=CN?(LeavySeal 39 pin Ver)
+Added Pin To Net: NetName=CAN_SENS_P Pin=CN?-1
+Added Pin To Net: NetName=CAN_SENS_N Pin=CN?-2
+Added Pin To Net: NetName=SWO Pin=CN?-3
+Added Pin To Net: NetName=EXTRA_INPUT1 Pin=CN?-4
+Added Pin To Net: NetName=IMD_OK Pin=CN?-5
+Added Pin To Net: NetName=AIR-_FB Pin=CN?-6
+Added Pin To Net: NetName=AIR+_FB Pin=CN?-7
+Added Pin To Net: NetName=AIR-_CTRL Pin=CN?-8
+Added Pin To Net: NetName=EXTRA_INPUT2 Pin=CN?-9
+Added Pin To Net: NetName=AMS_CLR_ERR Pin=CN?-10
+Added Pin To Net: NetName=AIR+_CTRL Pin=CN?-11
+Added Pin To Net: NetName=IMD_RESIST Pin=CN?-12
+Added Pin To Net: NetName=PRECHRG_CTRL Pin=CN?-13
+Added Pin To Net: NetName=AMS_PWR Pin=CN?-14
+Added Pin To Net: NetName=EMETER_PWR Pin=CN?-15
+Added Pin To Net: NetName=BSPD_TEST Pin=CN?-16
+Added Pin To Net: NetName=HVB_PWR Pin=CN?-17
+Added Pin To Net: NetName=IMD_PWR Pin=CN?-18
+Added Pin To Net: NetName=SCHT_TAP Pin=CN?-19
+Added Pin To Net: NetName=A\M\S\_\O\K\ Pin=CN?-20
+Added Pin To Net: NetName=SERIAL_Tx Pin=CN?-24
+Added Pin To Net: NetName=SERIAL_Rx Pin=CN?-25
+Added Pin To Net: NetName=3V3 Pin=CN?-26
+Added Pin To Net: NetName=VBATT_RAW Pin=CN?-27
+Added Pin To Net: NetName=NRST Pin=CN?-29
+Added Pin To Net: NetName=SWCLK Pin=CN?-30
+Added Pin To Net: NetName=SCHT_FROM_AUX_TO_ACC Pin=CN?-31
+Added Pin To Net: NetName=SWDIO Pin=CN?-32
+Added Pin To Net: NetName=GND Pin=CN?-33
+Added Pin To Net: NetName=TS_ACTIVE Pin=CN?-34
+Added Pin To Net: NetName=HCP_L_CURR_SENS Pin=CN?-35
+Added Pin To Net: NetName=CHASSIS_GND Pin=CN?-36
+Added Pin To Net: NetName=HCP_L_CURR_SENS Pin=CN?-37
+Added Pin To Net: NetName=HCP_H_CURR_SENS Pin=CN?-38
+Added Pin To Net: NetName=HCP_SENS_PWR Pin=CN?-39
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN? 5-1418363-3
+Added Member To Class: ClassName=1  - Connectors Member=Component CN? 5-1418363-3
+Added Member To Class: ClassName=1  - Connectors Member=Component CN? 5-1418363-1
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

@@ -1,0 +1,17 @@
+Change Net Name : Old Net Name=NetQ13_2 New Net Name=RST_INPUT
+Change Net Name : Old Net Name=NetQ17_2 New Net Name=IMD_STATE
+Change Net Name : Old Net Name=NetQ21_2 New Net Name=AMS_STATE
+Change Net Name : Old Net Name=NetU7_4 New Net Name=RST_STATE
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Add Class Member: Failed to add class member : Component Jumper2 Jumper
+Add Class Member: Failed to add class member : Component Jumper3 Jumper
+Change Room Name: Old Name=Designator_5 New Name=Designator
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

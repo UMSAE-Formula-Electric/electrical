@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VS_FROM_MS Pin=WM2-1
+Removed Pin From Net: NetName=VS_FROM_MS Pin=WM2-1
+Added Pin To Net: NetName=VBATT_RAW Pin=WM2-1
+Added Pin To Net: NetName=VBATT_RAW Pin=WM2-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN1 5-1418363-1
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

@@ -1,0 +1,8 @@
+Change Component Comment : Designator=12V_SW Old Comment=Comment New Comment=353180420
+Change component parameters: Designator = "12V_SW" ("12V_SW"); Footprint = "*MOLEX_353180420"; UniqueID = "\JQUWEXAO" ("\JQUWEXAO")
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=12V_SW-1
+Added Pin To Net: NetName=GND Pin=12V_SW-2
+Added Pin To Net: NetName=AMS_CHR_PWR_FUSE Pin=12V_SW-3
+Added Pin To Net: NetName=AMS_PWR Pin=12V_SW-4
+Added Member To Class: ClassName=1-Connectors Member=Component 12V_SW 353180420

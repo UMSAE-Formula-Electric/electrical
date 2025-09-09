@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=U3-48
+Change Managed Component Library Link : Designator=C21 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=27BAED3D-68FA-44D4-835E-B7ECE037F418 Old RevisionGUID= New RevisionGUID=D589E4AE-D0EA-43D4-BEB1-CBBF16E021F9
+Change component parameters: Designator = "C21" ("C21"); Footprint = "1608[0603]"; UniqueID = "\XENCBEPX\APPRDXXF" ("\XENCBEPX\APPRDXXF")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "-20% to +80%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C50(CAPC0603(1608)100_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20% to +80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=V_CAP_1 Pin=C50-2
+Added Pin To Net: NetName=V_CAP_1 Pin=U3-48
+Added Member To Class: ClassName=7  - Microcontoller Member=Component D14 TLSU1008A(T04)
+Added Member To Class: ClassName=7  - Microcontoller Member=Component R66 RES0603

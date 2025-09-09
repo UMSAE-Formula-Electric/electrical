@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetC12_2 New Net Name=VDDA
+Added Member To Class: ClassName=8-Controller Member=Component C13 Cap
+Added Member To Class: ClassName=8-Controller Member=Component C30 Cap

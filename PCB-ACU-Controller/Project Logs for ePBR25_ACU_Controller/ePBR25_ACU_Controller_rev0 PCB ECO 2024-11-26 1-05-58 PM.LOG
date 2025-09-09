@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=SERIAL_Tx Pin=J2-A14
+Added Pin To Net: NetName=SERIAL_Rx Pin=J2-A15
+Added Pin To Net: NetName=SERIAL_Tx Pin=U1-86
+Added Pin To Net: NetName=SERIAL_Rx Pin=U1-87
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

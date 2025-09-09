@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ePBR22_ACC_Charging.PcbDoc   2022-04-13  1:00:18 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ePBR22_ACC_Charging.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      17mil (0.424mm)                                           Round             1878      PTH        255.82inch (6497.79mm)
+T2      30mil (0.762mm)                                           Round             70        PTH        41.37inch (1050.79mm)
+T3      35mil (0.899mm)                                           Round             6         PTH        0.50inch (12.70mm)
+T4      39mil (1.001mm)                                           Round             6         PTH        2.06inch (52.42mm)
+T5      51mil (1.3mm)                                             Round             22        PTH        22.80inch (579.04mm)
+T6      81mil (2.057mm)                                           Round             49        PTH        15.90inch (403.85mm)
+T7      128mil (3.251mm)                                          Round             9         PTH        9.47inch (240.66mm)
+T8      137mil (3.48mm)                                           Round             4         PTH        31.02inch (787.92mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2044
+
+Total Processing Time (hh:mm:ss) : 00:00:00

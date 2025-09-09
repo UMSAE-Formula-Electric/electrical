@@ -1,0 +1,54 @@
+Added Pin To Net: NetName=GND Pin=J1-A3
+Added Pin To Net: NetName=GND Pin=J1-A4
+Added Pin To Net: NetName=GND Pin=J1-A14
+Added Pin To Net: NetName=GND Pin=J1-A15
+Added Pin To Net: NetName=GND Pin=J2-A6
+Added Pin To Net: NetName=GND Pin=J2-B9
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=D9-3
+Added Pin To Net: NetName=NetC7_2 Pin=R18-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=D26-3
+Added Pin To Net: NetName=NetC33_2 Pin=R87-2
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=D31-2
+Added Pin To Net: NetName=NetC39_2 Pin=D32-1
+Added Pin To Net: NetName=NetC39_2 Pin=R96-2
+Added Net: Name=NetC39_2
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=NetC44_2 Pin=D33-2
+Added Pin To Net: NetName=NetC44_2 Pin=D34-1
+Added Pin To Net: NetName=NetC44_2 Pin=R98-2
+Added Net: Name=NetC44_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=R18-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR85_2 Pin=R85-2
+Added Pin To Net: NetName=NetR85_2 Pin=R87-1
+Added Net: Name=NetR85_2
+Added Pin To Net: NetName=NetR95_1 Pin=R95-1
+Added Pin To Net: NetName=NetR95_1 Pin=R96-1
+Added Net: Name=NetR95_1
+Added Pin To Net: NetName=NetR97_1 Pin=R97-1
+Added Pin To Net: NetName=NetR97_1 Pin=R98-1
+Added Net: Name=NetR97_1
+Added Pin To Net: NetName=NetU3_16 Pin=U3-16
+Added Net: Name=NetU3_16
+Added Pin To Net: NetName=NetU3_25 Pin=U3-25
+Added Net: Name=NetU3_25
+Added Pin To Net: NetName=NetU3_39 Pin=U3-39
+Added Net: Name=NetU3_39
+Added Pin To Net: NetName=NetU3_40 Pin=U3-40
+Added Net: Name=NetU3_40
+Added Pin To Net: NetName=NetU3_67 Pin=U3-67
+Added Net: Name=NetU3_67
+Added Pin To Net: NetName=NetU3_68 Pin=U3-68
+Added Net: Name=NetU3_68
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

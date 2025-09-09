@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VS_TO_MS Pin=CN2-2
+Removed Pin From Net: NetName=VBATT_TO_PWR_SW Pin=Q1-2
+Removed Pin From Net: NetName=VS_TO_MS Pin=Q2-2
+Removed Pin From Net: NetName=VS_TO_MS Pin=Q3-2
+Removed Pin From Net: NetName=VBATT_TO_PWR_SW Pin=U5-7
+Removed Pin From Net: NetName=VS_TO_MS Pin=U5-8
+Removed Pin From Net: NetName=VS_TO_MS Pin=VS_TO_MS-1
+Added Component: Designator=PW_SW_OUT(Test Via)
+Added Pin To Net: NetName=VBATT_TO_PWR_SW Pin=CN2-2
+Added Pin To Net: NetName=VBATT_TO_PWR_SW Pin=VS_TO_MS-1
+Added Pin To Net: NetName=NetPW_SW_OUT_1 Pin=PW_SW_OUT-1
+Added Pin To Net: NetName=NetPW_SW_OUT_1 Pin=Q2-2
+Added Pin To Net: NetName=NetPW_SW_OUT_1 Pin=Q3-2
+Added Pin To Net: NetName=NetPW_SW_OUT_1 Pin=U5-8
+Added Net: Name=NetPW_SW_OUT_1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

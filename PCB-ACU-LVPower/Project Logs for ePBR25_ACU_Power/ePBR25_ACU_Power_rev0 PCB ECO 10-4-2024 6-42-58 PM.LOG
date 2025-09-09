@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=F? NewDesignator=F2
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Add Net: Net with name "VBATT_FUSE" already exists
+Add Net: Net with name "VBATT_RAW" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,78 @@
+Added Component: Designator=J1(6-534998-3_6-534998-3(Primary))
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6-534998-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7118-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6-534998-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J2(6-534998-3_6-534998-3(Primary))
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6-534998-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7118-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6-534998-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXTRA_INPUT1 Pin=J1-A1
+Added Pin To Net: NetName=MC_PWR_CTRL Pin=J1-A2
+Added Pin To Net: NetName=MC_EN_CTRL Pin=J1-A3
+Added Pin To Net: NetName=ACC_FAN_CTRL Pin=J1-A4
+Added Pin To Net: NetName=BUZR_CTRL Pin=J1-A5
+Added Pin To Net: NetName=SCHT_TAP Pin=J1-A6
+Added Pin To Net: NetName=ACU_PWR Pin=J1-A7
+Added Pin To Net: NetName=AMS_CLR_ERR Pin=J1-A8
+Added Pin To Net: NetName=PRECHRG_CTRL Pin=J1-A9
+Added Pin To Net: NetName=BRAKE_PRESS Pin=J1-A10
+Added Pin To Net: NetName=3V3 Pin=J1-A11
+Added Pin To Net: NetName=SWDIO Pin=J1-A12
+Added Pin To Net: NetName=SWCLK Pin=J1-A13
+Added Pin To Net: NetName=3V3 Pin=J1-B1
+Added Pin To Net: NetName=GND Pin=J1-B2
+Added Pin To Net: NetName=IMD__OK Pin=J1-B3
+Added Pin To Net: NetName=AIR-_FB Pin=J1-B4
+Added Pin To Net: NetName=AIR+_FB Pin=J1-B5
+Added Pin To Net: NetName=PUMP_CTRL Pin=J1-B6
+Added Pin To Net: NetName=FANS_CTRL Pin=J1-B7
+Added Pin To Net: NetName=AIR-_CTRL Pin=J1-B8
+Added Pin To Net: NetName=AIR+_CTRL Pin=J1-B9
+Added Pin To Net: NetName=DCDC_EN_INT Pin=J1-B10
+Added Pin To Net: NetName=AMS_OK Pin=J1-B11
+Added Pin To Net: NetName=NRST Pin=J1-B12
+Added Pin To Net: NetName=BSPD_OK Pin=J1-B13
+Added Pin To Net: NetName=DCDC_CURR_SENS Pin=J2-A1
+Added Pin To Net: NetName=HCP_L_CURR_SENS Pin=J2-A2
+Added Pin To Net: NetName=GND Pin=J2-A3
+Added Pin To Net: NetName=3V3 Pin=J2-A4
+Added Pin To Net: NetName=MC_PWR_FB Pin=J2-A5
+Added Pin To Net: NetName=MC_EN_FB Pin=J2-A6
+Added Pin To Net: NetName=COOL_SYS_TEMP1 Pin=J2-A7
+Added Pin To Net: NetName=ACU_PWR Pin=J2-A8
+Added Pin To Net: NetName=PUMP_FB Pin=J2-A9
+Added Pin To Net: NetName=EXTRA_INPUT2 Pin=J2-A10
+Added Pin To Net: NetName=GND Pin=J2-A11
+Added Pin To Net: NetName=CAN_P Pin=J2-A12
+Added Pin To Net: NetName=CAN_N Pin=J2-A13
+Added Pin To Net: NetName=HCP_H_CURR_SENS Pin=J2-B1
+Added Pin To Net: NetName=LVBATT_CURR_SENS Pin=J2-B2
+Added Pin To Net: NetName=COOL_SYS_TEMP2 Pin=J2-B3
+Added Pin To Net: NetName=5V Pin=J2-B4
+Added Pin To Net: NetName=BUZR_FB Pin=J2-B5
+Added Pin To Net: NetName=FANS_FB Pin=J2-B6
+Added Pin To Net: NetName=5V Pin=J2-B7
+Added Pin To Net: NetName=COOL_SYS_TEMP3 Pin=J2-B8
+Added Pin To Net: NetName=ACC_FAN_FB Pin=J2-B9
+Added Pin To Net: NetName=3V3 Pin=J2-B10
+Added Pin To Net: NetName=IMD_RESIST Pin=J2-B11
+Added Pin To Net: NetName=CAN_SENS_P Pin=J2-B12
+Added Pin To Net: NetName=CAN_SENS_N Pin=J2-B13
+Added Member To Class: ClassName=7  - Microcontoller Member=Component J1 6-534998-3
+Added Member To Class: ClassName=7  - Microcontoller Member=Component J2 6-534998-3
+Added Room: Name=7  - Microcontoller
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

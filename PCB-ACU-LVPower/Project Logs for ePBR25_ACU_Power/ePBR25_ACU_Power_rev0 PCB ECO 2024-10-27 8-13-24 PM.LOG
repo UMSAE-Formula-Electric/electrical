@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=FANS_FB Pin=LD2-4
+Removed Pin From Net: NetName=PUMP_FB Pin=LD3-4
+Removed Pin From Net: NetName=FANS_FUSE Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=CN1-27
+Added Pin To Net: NetName=GND Pin=CN2-18
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=FANS_FUSE Pin=R5-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
