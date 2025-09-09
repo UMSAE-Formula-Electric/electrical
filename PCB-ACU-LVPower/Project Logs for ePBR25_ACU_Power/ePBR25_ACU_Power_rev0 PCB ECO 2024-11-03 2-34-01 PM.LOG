@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=HCP_L_CURR_SENS Pin=CON2-A2
+Removed Pin From Net: NetName=PWR_MON_A0 Pin=CON2-A6
+Removed Pin From Net: NetName=FANS_FB Pin=LD2-4
+Removed Pin From Net: NetName=PUMP_FB Pin=LD3-4
+Added Pin To Net: NetName=PWR_MON_A0 Pin=CON2-A2
+Added Pin To Net: NetName=GND Pin=CON2-A6
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Member To Class: ClassName=1  - Connectors Member=Component L3 6 Pin Header
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

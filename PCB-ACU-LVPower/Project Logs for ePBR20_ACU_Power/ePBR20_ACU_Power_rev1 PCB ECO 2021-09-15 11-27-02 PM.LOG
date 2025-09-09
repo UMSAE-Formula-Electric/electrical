@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C1-B13
+Removed Pin From Net: NetName=SOLE_PWR Pin=CN2-10
+Removed Pin From Net: NetName=SENS_PWR Pin=CN2-18
+Removed Pin From Net: NetName=NRST Pin=CN2-26
+Removed Pin From Net: NetName=SWDIO Pin=CN2-27
+Removed Pin From Net: NetName=SWCLK Pin=CN2-30
+Removed Pin From Net: NetName=CAN_SENS_P Pin=CN2-32
+Removed Pin From Net: NetName=CAN_SENS_N Pin=CN2-35
+Removed Pin From Net: NetName=GND Pin=L2-6
+Change Component Comment : Designator=C1 Old Comment=6-146261-3 (9-146161-0) New Comment=6-534998-3
+Change Component Comment : Designator=C2 Old Comment=6-146261-3 (9-146161-0) New Comment=6-534998-3
+Change Component Designator: OldDesignator=C1 NewDesignator=CON1
+Change Component Designator: OldDesignator=C2 NewDesignator=CON2
+Change Component Designator: OldDesignator=IMD_PWR NewDesignator=UV_DELAY
+Change Component Designator: OldDesignator=VBATT NewDesignator=VBATT_RAW
+Added Component: Designator=R69(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VS Pin=R69-1
+Added Pin To Net: NetName=BSPD_OK Pin=CON1-B13
+Added Pin To Net: NetName=BSPD_OK Pin=L2-6
+Added Net: Name=BSPD_OK
+Added Pin To Net: NetName=BSPD_TEST Pin=CN1-20
+Added Pin To Net: NetName=BSPD_TEST Pin=R69-2
+Added Net: Name=BSPD_TEST
+Added Pin To Net: NetName=SERIAL_Rx Pin=CN1-37
+Added Net: Name=SERIAL_Rx
+Added Pin To Net: NetName=SERIAL_Tx Pin=CN1-36
+Added Net: Name=SERIAL_Tx
+Added Pin To Net: NetName=SWO Pin=CN1-16
+Added Net: Name=SWO
+Added Pin To Net: NetName=WH_SP_L_IN Pin=CN2-32
+Added Net: Name=WH_SP_L_IN
+Added Pin To Net: NetName=WH_SP_R_IN Pin=CN2-35
+Added Net: Name=WH_SP_R_IN
+Added Member To Class: ClassName=1  - Connectors Member=Component CON1 6-534998-3
+Added Member To Class: ClassName=1  - Connectors Member=Component CON2 6-534998-3

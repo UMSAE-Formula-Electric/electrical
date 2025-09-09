@@ -1,0 +1,25 @@
+Added Component: Designator=GLV Relay(TE_2071366-1)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "PB2134-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-potter-brumfield-relays/EW60-1A3-BL12D04,00000/PB2134-ND/6021839?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EW60-1A3-BL12D04,00000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EW60-1A3-BL12D04%2C00000/TE%20Connectivity%20Potter%20%26%20Brumfield%20Relays/view-part/2768886/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-2071366-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VS_TO_SWITCH Pin=GLV Relay-1
+Added Pin To Net: NetName=VS_TO_SWITCH Pin=GLV Relay-2
+Added Pin To Net: NetName=VS_TO_SWITCH Pin=GLV Relay-3
+Added Pin To Net: NetName=VS Pin=GLV Relay-4
+Added Pin To Net: NetName=VS Pin=GLV Relay-5
+Added Pin To Net: NetName=VS Pin=GLV Relay-6
+Added Pin To Net: NetName=VS_OFF Pin=GLV Relay-A1
+Added Pin To Net: NetName=VS_SWITCH Pin=GLV Relay-A2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

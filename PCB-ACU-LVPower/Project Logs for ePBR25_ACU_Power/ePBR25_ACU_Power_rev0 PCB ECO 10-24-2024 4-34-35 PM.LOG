@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetLD?_5 Pin=R?-2
+Add Component: Footprint Not Found 1608[0603]
+Add Component: Footprint Not Found 1608[0603]
+Add Component: Footprint Not Found 1608[0603]
+Add Component: Footprint Not Found 1608[0603]
+Add Component: Footprint Not Found SOP80P600X162-13N
+Add Component: Footprint Not Found SOP80P600X162-13N
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin LD?-2
+Add Pin To Net: Unknown Pin: Pin LD?-2
+Add Pin To Net: Unknown Pin: Pin LD?-3
+Add Pin To Net: Unknown Pin: Pin LD?-3
+Add Pin To Net: Unknown Pin: Pin LD?-4
+Add Pin To Net: Unknown Pin: Pin LD?-4
+Add Pin To Net: Unknown Pin: Pin LD?-5
+Add Pin To Net: Unknown Pin: Pin LD?-8
+Add Pin To Net: Unknown Pin: Pin LD?-8
+Add Pin To Net: Unknown Pin: Pin LD?-9
+Add Pin To Net: Unknown Pin: Pin LD?-9
+Add Pin To Net: Unknown Pin: Pin LD?-10
+Add Pin To Net: Unknown Pin: Pin LD?-10
+Add Pin To Net: Unknown Pin: Pin LD?-11
+Add Pin To Net: Unknown Pin: Pin LD?-11
+Add Pin To Net: Unknown Pin: Pin LD?-13
+Add Pin To Net: Unknown Pin: Pin LD?-13
+Added Pin To Net: NetName=NetLD?_5 Pin=R?-2
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "NetLD?_5" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_7 New Name=Designator
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Added Room: Name=Designator

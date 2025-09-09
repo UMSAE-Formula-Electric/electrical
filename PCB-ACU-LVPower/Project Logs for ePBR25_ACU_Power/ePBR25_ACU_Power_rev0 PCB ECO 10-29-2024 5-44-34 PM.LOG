@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=PWR_MON_SCL Pin=CON2-A3
+Removed Pin From Net: NetName=PWR_MON_SDA Pin=CON2-B2
+Change Component Designator: OldDesignator= NewDesignator=UV_DELAY
+Added Pin To Net: NetName=GND Pin=CN2-32
+Added Pin To Net: NetName=GND Pin=CN2-33
+Added Pin To Net: NetName=GND Pin=CN2-35
+Added Pin To Net: NetName=GND Pin=CON2-A3
+Added Pin To Net: NetName=GND Pin=CON2-A7
+Added Pin To Net: NetName=GND Pin=CON2-B2
+Added Pin To Net: NetName=PWR_MON_SCL Pin=CON2-B3
+Added Pin To Net: NetName=PWR_MON_SDA Pin=CON2-B8
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

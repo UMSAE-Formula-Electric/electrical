@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U6 Old Footprint=DCDC_VERTICAL New Footprint=OKI-78SR-5/1.5-W
+Change Component Footprint: Designator=Q9 Old Footprint=MCU80N03TPHF New Footprint=MCU80N_MCE
+Change Component Footprint: Designator=Q10 Old Footprint=MCU80N03TPHF New Footprint=MCU80N_MCE
+Change Component Comment : Designator=Q9 Old Comment=MCU80N03-TP New Comment=MCU80N03A-TP
+Change Component Comment : Designator=Q10 Old Comment=MCU80N03-TP New Comment=MCU80N03A-TP
+Change Component Comment : Designator=U6 Old Comment=Volt Reg New Comment=OKI-78SR-5/1.5-W
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

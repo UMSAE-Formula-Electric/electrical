@@ -1,0 +1,45 @@
+Added Component: Designator=CN2(LeavySeal 39 pin Ver)
+Added Pin To Net: NetName=AMS_LED Pin=CN2-2
+Added Pin To Net: NetName=IMD_LED Pin=CN2-3
+Added Pin To Net: NetName=BSPD_LED Pin=CN2-4
+Added Pin To Net: NetName=CAN_N Pin=CN2-6
+Added Pin To Net: NetName=BRAKE_SENS Pin=CN2-7
+Added Pin To Net: NetName=BRAKE_SW Pin=CN2-8
+Added Pin To Net: NetName=CAN_P Pin=CN2-9
+Added Pin To Net: NetName=B\R\A\K\E\_\P\R\E\S\S\ Pin=CN2-10
+Added Pin To Net: NetName=GND Pin=CN2-11
+Added Pin To Net: NetName=CAN_SENS_N Pin=CN2-12
+Added Pin To Net: NetName=VCU_PWR Pin=CN2-13
+Added Pin To Net: NetName=CAN_SENS_P Pin=CN2-15
+Added Pin To Net: NetName=BRAKE_PWR Pin=CN2-16
+Added Pin To Net: NetName=BRAKE_LIGHT_GND Pin=CN2-17
+Added Pin To Net: NetName=CHASSIS_GND Pin=CN2-18
+Added Pin To Net: NetName=SCHT_OUT_LATCH Pin=CN2-19
+Added Pin To Net: NetName=SHCT_IN_LATCH Pin=CN2-20
+Added Pin To Net: NetName=SCHT_TAP Pin=CN2-21
+Added Pin To Net: NetName=RED_LED_GND Pin=CN2-22
+Added Pin To Net: NetName=GREEN_LED_GND Pin=CN2-23
+Added Pin To Net: NetName=SCHT_TAP Pin=CN2-24
+Added Pin To Net: NetName=BUZR_PWR Pin=CN2-25
+Added Pin To Net: NetName=TSAL_PWR Pin=CN2-26
+Added Pin To Net: NetName=MC_PWR Pin=CN2-27
+Added Pin To Net: NetName=AIR-_FB Pin=CN2-30
+Added Pin To Net: NetName=FANS_PWR Pin=CN2-31
+Added Pin To Net: NetName=COOL_SYS_TEMP2 Pin=CN2-32
+Added Pin To Net: NetName=COOL_SYS_TEMP3 Pin=CN2-33
+Added Pin To Net: NetName=PUMP_PWR Pin=CN2-34
+Added Pin To Net: NetName=COOL_SYS_TEMP1 Pin=CN2-35
+Added Pin To Net: NetName=SCHT_FROM_AUX_TO_ACC Pin=CN2-36
+Added Pin To Net: NetName=LATCH_RST Pin=CN2-37
+Added Pin To Net: NetName=VS_TO_MS Pin=CN2-38
+Added Pin To Net: NetName=VS_FROM_MS Pin=CN2-39
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN2 5-1418363-1
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_7 New Name=Designator
+Change Room Name: Old Name=Designator_6 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

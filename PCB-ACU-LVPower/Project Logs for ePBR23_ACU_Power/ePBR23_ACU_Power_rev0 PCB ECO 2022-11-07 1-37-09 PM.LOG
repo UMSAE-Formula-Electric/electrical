@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=BSPD_TEST_OUT Pin=J1-2
+Added Pin To Net: NetName=BSPD_TEST_OUT Pin=R69-2
+Added Net: Name=BSPD_TEST_OUT
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

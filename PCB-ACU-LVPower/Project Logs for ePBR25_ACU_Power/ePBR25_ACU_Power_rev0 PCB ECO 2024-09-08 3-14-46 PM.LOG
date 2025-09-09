@@ -1,0 +1,46 @@
+Added Component: Designator=CN1(LeavySeal 39 pin Ver)
+Added Pin To Net: NetName=BSPD_TEST Pin=CN1-1
+Added Pin To Net: NetName=HVB_PWR Pin=CN1-2
+Added Pin To Net: NetName=IMD_PWR Pin=CN1-3
+Added Pin To Net: NetName=PRECHRG_CTRL Pin=CN1-4
+Added Pin To Net: NetName=AMS_PWR Pin=CN1-5
+Added Pin To Net: NetName=EMETER_PWR Pin=CN1-6
+Added Pin To Net: NetName=AMS_CLR_ERR Pin=CN1-7
+Added Pin To Net: NetName=AIR+_CTRL Pin=CN1-8
+Added Pin To Net: NetName=IMD_RESIST Pin=CN1-9
+Added Pin To Net: NetName=AIR+_FB Pin=CN1-10
+Added Pin To Net: NetName=AIR-_CTRL Pin=CN1-11
+Added Pin To Net: NetName=EXTRA_INPUT2 Pin=CN1-12
+Added Pin To Net: NetName=EXTRA_INPUT1 Pin=CN1-13
+Added Pin To Net: NetName=IMD_OK Pin=CN1-14
+Added Pin To Net: NetName=AIR-_FB Pin=CN1-15
+Added Pin To Net: NetName=SWO Pin=CN1-16
+Added Pin To Net: NetName=CAN_SENS_N Pin=CN1-17
+Added Pin To Net: NetName=CAN_SENS_P Pin=CN1-18
+Added Pin To Net: NetName=SCHT_TAP Pin=CN1-19
+Added Pin To Net: NetName=A\M\S\_\O\K\ Pin=CN1-20
+Added Pin To Net: NetName=HCP_L_CURR_SENS Pin=CN1-22
+Added Pin To Net: NetName=HCP_H_CURR_SENS Pin=CN1-23
+Added Pin To Net: NetName=HCP_SENS_PWR Pin=CN1-24
+Added Pin To Net: NetName=TS_ACTIVE Pin=CN1-25
+Added Pin To Net: NetName=HCP_L_CURR_SENS Pin=CN1-26
+Added Pin To Net: NetName=CHASSIS_GND Pin=CN1-27
+Added Pin To Net: NetName=SCHT_FROM_AUX_TO_ACC Pin=CN1-28
+Added Pin To Net: NetName=SWDIO Pin=CN1-29
+Added Pin To Net: NetName=GND Pin=CN1-30
+Added Pin To Net: NetName=NRST Pin=CN1-32
+Added Pin To Net: NetName=SWCLK Pin=CN1-33
+Added Pin To Net: NetName=SERIAL_Rx Pin=CN1-34
+Added Pin To Net: NetName=3V3 Pin=CN1-35
+Added Pin To Net: NetName=VBATT_RAW Pin=CN1-36
+Added Pin To Net: NetName=SERIAL_Tx Pin=CN1-39
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN1 5-1418363-1
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_7 New Name=Designator
+Change Room Name: Old Name=Designator_6 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=STATUS_LED_PWR Pin=CN2-26
+Change Net Name : Old Net Name=STATUS_LED_PWR New Net Name=SB_PWR
+Added Pin To Net: NetName=STATUS_LED_PWR Pin=CN2-26
+Added Net: Name=STATUS_LED_PWR
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

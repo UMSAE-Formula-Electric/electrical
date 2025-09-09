@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VS Pin=CN2-4
+Removed Pin From Net: NetName=VS Pin=CN2-7
+Removed Pin From Net: NetName=VS Pin=D8-1
+Removed Pin From Net: NetName=VS Pin=D9-1
+Removed Pin From Net: NetName=VS Pin=F3-3
+Removed Pin From Net: NetName=VS Pin=F3-4
+Removed Pin From Net: NetName=VS Pin=F4-3
+Removed Pin From Net: NetName=VS Pin=F4-4
+Change Component Comment : Designator=Q9 Old Comment=MCU80N03-TP-HF New Comment=MCU80N03-TP
+Change Component Comment : Designator=Q10 Old Comment=MCU80N03-TP-HF New Comment=MCU80N03-TP
+Added Pin To Net: NetName=FANS_PWR Pin=CN2-7
+Added Pin To Net: NetName=FANS_PWR Pin=D8-1
+Added Pin To Net: NetName=FANS_PWR Pin=F3-3
+Added Pin To Net: NetName=FANS_PWR Pin=F3-4
+Added Net: Name=FANS_PWR
+Added Pin To Net: NetName=PUMP_PWR Pin=CN2-4
+Added Pin To Net: NetName=PUMP_PWR Pin=D9-1
+Added Pin To Net: NetName=PUMP_PWR Pin=F4-3
+Added Pin To Net: NetName=PUMP_PWR Pin=F4-4
+Added Net: Name=PUMP_PWR
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

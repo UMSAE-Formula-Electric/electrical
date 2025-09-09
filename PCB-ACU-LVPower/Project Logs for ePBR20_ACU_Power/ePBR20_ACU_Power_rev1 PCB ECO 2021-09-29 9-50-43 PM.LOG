@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=A\M\S\_\O\K\ Pin=CN1-3
+Removed Pin From Net: NetName=BSPD_TEST Pin=CN1-20
+Added Pin To Net: NetName=BSPD_TEST Pin=CN1-3
+Added Pin To Net: NetName=A\M\S\_\O\K\ Pin=CN1-20

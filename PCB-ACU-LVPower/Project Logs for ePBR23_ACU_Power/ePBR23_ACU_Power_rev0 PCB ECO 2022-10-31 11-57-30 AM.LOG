@@ -1,0 +1,43 @@
+Change Footprint: Footprint Not Found MCU80N03TPHF
+Change Footprint: Footprint Not Found MCU80N03TPHF
+Change Component Comment : Designator=Q9 Old Comment=IRLR024NTRPBF New Comment=MCU80N03-TP
+Change Component Comment : Designator=Q10 Old Comment=IRLR024NTRPBF New Comment=MCU80N03-TP
+Change Managed Component Library Link : Designator=Q9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=4C444065-D35B-477C-A0B5-FE638AE62B5A New ItemGUID= Old RevisionGUID=C6F6546E-6092-49CF-A764-1AEE8C08A1CE New RevisionGUID=
+Change Managed Component Library Link : Designator=Q10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=4C444065-D35B-477C-A0B5-FE638AE62B5A New ItemGUID= Old RevisionGUID=C6F6546E-6092-49CF-A764-1AEE8C08A1CE New RevisionGUID=
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "N-Channel Mosfet"; UniqueID = "\JQIKCBIB\MKTAFIPP" ("\JQIKCBIB\MKTAFIPP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mccsemi.com/pdf/Products/MCU80N03(DPAK).pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.53mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Micro"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCU80N03-TP-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "N-Channel Mosfet"; UniqueID = "\JQIKCBIB\VMAQWUQI" ("\JQIKCBIB\VMAQWUQI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mccsemi.com/pdf/Products/MCU80N03(DPAK).pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.53mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Micro"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCU80N03-TP-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VS_FROM_MS Pin=Q9-2
+Added Pin To Net: NetName=VS_FROM_MS Pin=Q9-2
+Added Pin To Net: NetName=VS_FROM_MS Pin=Q9-2
+Added Pin To Net: NetName=VS_FROM_MS Pin=Q9-2
+Added Pin To Net: NetName=VS_FROM_MS Pin=Q9-2
+Added Pin To Net: NetName=VS Pin=Q10-2
+Added Pin To Net: NetName=VS Pin=Q10-2
+Added Pin To Net: NetName=VS Pin=Q10-2
+Added Pin To Net: NetName=VS Pin=Q10-2
+Added Pin To Net: NetName=VS Pin=Q10-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

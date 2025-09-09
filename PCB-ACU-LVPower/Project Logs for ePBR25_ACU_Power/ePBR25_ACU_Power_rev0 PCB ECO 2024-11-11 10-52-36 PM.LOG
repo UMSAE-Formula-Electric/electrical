@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=SCHT_TAP_LATCHING Pin=CON1-A6
+Added Pin To Net: NetName=SCHT_TAP Pin=CON1-A6
+Added Pin To Net: NetName=FANS_FB Pin=LD1-4
+Added Pin To Net: NetName=PUMP_FB Pin=LD2-4
+Add Pin To Net: Unknown Pin: Pin Q5-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q5-3
+Add Pin To Net: Unknown Pin: Pin Q5-5
+Add Pin To Net: Unknown Pin: Pin Q5-6
+Add Pin To Net: Unknown Pin: Pin Q5-7
+Add Pin To Net: Unknown Pin: Pin Q5-8
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

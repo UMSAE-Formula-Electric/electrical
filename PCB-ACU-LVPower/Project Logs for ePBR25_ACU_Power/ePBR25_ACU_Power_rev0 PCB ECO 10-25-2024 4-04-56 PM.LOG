@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=VS_FROM_MS Pin=CN2-38
+Add Component: Footprint Not Found 1608[0603]
+Add Component: Footprint Not Found 1608[0603]
+Add Component: Footprint Not Found SOP80P600X162-13N
+Add Component: Footprint Not Found SOP80P600X162-13N
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Added Pin To Net: NetName=GND Pin=CN2-38
+Add Pin To Net: Unknown Pin: Pin LD2-2
+Add Pin To Net: Unknown Pin: Pin LD2-3
+Add Pin To Net: Unknown Pin: Pin LD2-4
+Add Pin To Net: Unknown Pin: Pin LD2-5
+Add Pin To Net: Unknown Pin: Pin LD2-8
+Add Pin To Net: Unknown Pin: Pin LD2-9
+Add Pin To Net: Unknown Pin: Pin LD2-10
+Add Pin To Net: Unknown Pin: Pin LD2-11
+Add Pin To Net: Unknown Pin: Pin LD2-13
+Add Pin To Net: Unknown Pin: Pin LD3-2
+Add Pin To Net: Unknown Pin: Pin LD3-3
+Add Pin To Net: Unknown Pin: Pin LD3-4
+Add Pin To Net: Unknown Pin: Pin LD3-5
+Add Pin To Net: Unknown Pin: Pin LD3-8
+Add Pin To Net: Unknown Pin: Pin LD3-9
+Add Pin To Net: Unknown Pin: Pin LD3-10
+Add Pin To Net: Unknown Pin: Pin LD3-11
+Add Pin To Net: Unknown Pin: Pin LD3-13
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_6 New Name=Designator
+Change Room Name: Old Name=Designator_7 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

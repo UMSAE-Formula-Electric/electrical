@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VS Pin=R69-1
+Added Pin To Net: NetName=CAN_SENS_P Pin=CN2-27
+Added Pin To Net: NetName=CAN_SENS_N Pin=CN2-30
+Added Pin To Net: NetName=SOLE_PWR Pin=R69-1
+Change Net Name : Old Net Name=SOLE_PWR New Net Name=BSPD_TEST_PWR
+Added Member To Class: ClassName=Designator Member=Component R69 5.6R

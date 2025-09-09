@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=L1-4
+Removed Pin From Net: NetName=AMBER_LED_GND Pin=L4-5
+Added Pin To Net: NetName=AMBER_LED_GND Pin=L1-4
+Added Pin To Net: NetName=GND Pin=L4-5
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

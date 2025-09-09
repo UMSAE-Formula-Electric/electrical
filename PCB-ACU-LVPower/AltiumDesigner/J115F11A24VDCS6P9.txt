@@ -1,0 +1,87 @@
+# Created by Ultra Librarian 8.3.362 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "J115F1_1A_S_6_CRS")
+Pad (Name "1") (Location 0, 0) (HoleSize 83) (Surface False) (Rotation 0) (ExpandMask -51.5) (ExpandPaste -51.5)
+PadShape (Size 103, 103) (Shape Rectangular) (Layer Top)
+PadShape (Size 103, 103) (Shape Rectangular) (Layer Bottom)
+EndPad
+Pad (Name "2") (Location 149.6063002, -503.9370112) (HoleSize 43) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -31.5)
+PadShape (Size 63, 63) (Shape Rounded) (Layer Top)
+PadShape (Size 63, 63) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "3") (Location 551.181106, -503.9370112) (HoleSize 43) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -31.5)
+PadShape (Size 63, 63) (Shape Rounded) (Layer Top)
+PadShape (Size 63, 63) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "4") (Location 700.7874062, 98.4251975) (HoleSize 83) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -51.5)
+PadShape (Size 103, 103) (Shape Rounded) (Layer Top)
+PadShape (Size 103, 103) (Shape Rounded) (Layer Bottom)
+EndPad
+Line (Width 1) (Start 913.3858328, 484.2519717) (End -150.6141672, 484.2519717) (Layer Mechanical13) 
+Line (Width 1) (Start 696.3858328, -777.7480283) (End 696.3858328, -11.7480283) (Layer Mechanical13) 
+Line (Width 1) (Start -75.6141672, -208.7480283) (End -75.6141672, -777.7480283) (Layer Mechanical13) 
+Line (Width 1) (Start -150.6141672, -208.7480283) (End -75.6141672, -208.7480283) (Layer Mechanical13) 
+Line (Width 1) (Start -150.6141672, -208.7480283) (End -150.6141672, 484.2519717) (Layer Mechanical13) 
+Line (Width 1) (Start 696.3858328, -11.7480283) (End 913.3858328, -11.7480283) (Layer Mechanical13) 
+Line (Width 1) (Start 913.3858328, -11.7480283) (End 913.3858328, 484.2519717) (Layer Mechanical13) 
+Line (Width 1) (Start -75.6141672, -777.7480283) (End 696.3858328, -777.7480283) (Layer Mechanical13) 
+Text (Location -113.13775729, -25) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "*")
+Line (Width 6) (Start 918.3858328, 489.2519717) (End -155.6141672, 489.2519717) (Layer TopOverlay) 
+Line (Width 6) (Start -155.6141672, 489.2519717) (End -155.6141672, -213.7480283) (Layer TopOverlay) 
+Line (Width 6) (Start -155.6141672, -213.7480283) (End -80.6141672, -213.7480283) (Layer TopOverlay) 
+Line (Width 6) (Start -80.6141672, -213.7480283) (End -80.6141672, -782.7480283) (Layer TopOverlay) 
+Line (Width 6) (Start -80.6141672, -782.7480283) (End 701.3858328, -782.7480283) (Layer TopOverlay) 
+Line (Width 6) (Start 701.3858328, -782.7480283) (End 701.3858328, -16.7480283) (Layer TopOverlay) 
+Line (Width 6) (Start 701.3858328, -16.7480283) (End 918.3858328, -16.7480283) (Layer TopOverlay) 
+Line (Width 6) (Start 918.3858328, -16.7480283) (End 918.3858328, 489.2519717) (Layer TopOverlay) 
+Text (Location -113.13775729, -25) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "*")
+Line (Width 6) (Start 923.3858328, -21.7480283) (End 923.3858328, 494.2519717) (Layer Mechanical15) 
+Line (Width 6) (Start 923.3858328, 494.2519717) (End -160.6141672, 494.2519717) (Layer Mechanical15) 
+Line (Width 6) (Start -160.6141672, 494.2519717) (End -160.6141672, -218.7480283) (Layer Mechanical15) 
+Line (Width 6) (Start -160.6141672, -218.7480283) (End -85.6141672, -218.7480283) (Layer Mechanical15) 
+Line (Width 6) (Start -85.6141672, -218.7480283) (End -85.6141672, -787.7480283) (Layer Mechanical15) 
+Line (Width 6) (Start -85.6141672, -787.7480283) (End 706.3858328, -787.7480283) (Layer Mechanical15) 
+Line (Width 6) (Start 706.3858328, -787.7480283) (End 706.3858328, -21.7480283) (Layer Mechanical15) 
+Line (Width 6) (Start 706.3858328, -21.7480283) (End 923.3858328, -21.7480283) (Layer Mechanical15) 
+Polygon (PointCount 8) (Layer Mechanical15) 
+Point (923.3858328, 494.2519717)
+Point (-160.6141672, 494.2519717)
+Point (-160.6141672, -218.7480283)
+Point (-85.6141672, -218.7480283)
+Point (-85.6141672, -787.7480283)
+Point (706.3858328, -787.7480283)
+Point (706.3858328, -21.7480283)
+Point (923.3858328, -21.7480283)
+EndPolygon
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "J115F11A24VDCS6.9") (PartCount 1) (DesPrefix "K?")
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 500, -100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "3") (Name Hidden "3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 500, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "4") (Name Hidden "4") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Line (Width 5) (Start 300, -100) (End 350, -100) (Part 1)
+Line (Width 5) (Start 350, -75) (End 350, -125) (Part 1)
+Line (Width 5) (Start 350, -125) (End 450, -125) (Part 1)
+Line (Width 5) (Start 450, -125) (End 450, -75) (Part 1)
+Line (Width 5) (Start 450, -75) (End 350, -75) (Part 1)
+Line (Width 5) (Start 450, -100) (End 500, -100) (Part 1)
+Line (Width 5) (Start 300, 0) (End 337.5, 0) (Part 1)
+Line (Width 5) (Start 462.5, 0) (End 500, 0) (Part 1)
+Line (Width 5) (Start 350, 0) (End 450, 50) (Part 1)
+Rectangle (Width 5) (Start 300, -200) (End 500, 100) (Part 1)
+Arc (Width 5) (Radius 12) (Location 350, 0) (StartAngle 270) (EndAngle 270) (Part 1)
+Arc (Width 5) (Radius 12) (Location 450, 0) (StartAngle 270) (EndAngle 270) (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "CIT Relay & Switch") (Part 1)
+Parameter (Name "RefDes") (Location 400, 300) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 400, 200) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "J115F1_1A_S_6_CRS")
+EndComponent
+EndComponents

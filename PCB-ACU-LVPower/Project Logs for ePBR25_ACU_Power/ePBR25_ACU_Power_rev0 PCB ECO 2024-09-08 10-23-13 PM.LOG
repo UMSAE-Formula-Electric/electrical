@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=IMD_LED Pin=CN2-3
+Removed Pin From Net: NetName=BSPD_LED Pin=CN2-4
+Removed Pin From Net: NetName=BRAKE_SW Pin=CN2-8
+Added Pin To Net: NetName=IMD_LED Pin=CN2-1
+Added Pin To Net: NetName=BSPD_LED Pin=CN2-3
+Added Pin To Net: NetName=BRAKE_SW Pin=CN2-4
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

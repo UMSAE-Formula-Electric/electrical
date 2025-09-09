@@ -1,0 +1,1194 @@
+{COMPONENT PROTEL.PCB
+  {ENVIRONMENT PROTEL.SCH}
+  {DETAIL
+    {SUBCOMP
+      {I .PRT Jumper1
+        {CN
+        }
+      }
+      {I .PRT Jumper2
+        {CN
+        }
+      }
+      {I .PRT Jumper3
+        {CN
+        }
+      }
+      {I .PRT Jumper4
+        {CN
+        }
+      }
+      {I Test Via.PRT 3V3
+        {CN
+        1 3V3
+        }
+      }
+      {I Test Via.PRT 5V
+        {CN
+        1 5V
+        }
+      }
+      {I Test Via.PRT ACU_PWR
+        {CN
+        1 ACU_PWR
+        }
+      }
+      {I 0603R-generic.PRT C1
+        {CN
+        1 GND
+        2 ACU_PWR
+        }
+      }
+      {I 0603R-generic.PRT C2
+        {CN
+        1 GND
+        2 3V3
+        }
+      }
+      {I 1608[0603].PRT C3
+        {CN
+        1 GND
+        2 VS_FROM_MS
+        }
+      }
+      {I 1608[0603].PRT C4
+        {CN
+        1 GND
+        2 5V
+        }
+      }
+      {I 1608[0603].PRT C5
+        {CN
+        1 GND
+        2 LVBATT_CURR_SENS
+        }
+      }
+      {I NIC-CAPA2-8X10_V.PRT C6
+        {CN
+        1 ACU_PWR
+        2 GND
+        }
+      }
+      {I 1608[0603].PRT C7
+        {CN
+        1 GND
+        2 5V
+        }
+      }
+      {I 1608[0603].PRT C8
+        {CN
+        1 GND
+        2 DCDC_CURR_SENS
+        }
+      }
+      {I NIC-CAPA2-8X10_V.PRT C9
+        {CN
+        1 ACU_PWR
+        2 GND
+        }
+      }
+      {I 1608[0603].PRT C10
+        {CN
+        1 TRIG
+        2 ACU_PWR
+        }
+      }
+      {I 0603R-generic.PRT C11
+        {CN
+        1 GND
+        2 ACU_PWR
+        }
+      }
+      {I 1608[0603].PRT C12
+        {CN
+        1 GND
+        2 ACU_PWR
+        }
+      }
+      {I 0603R-generic.PRT C13
+        {CN
+        1 GND
+        2 5V
+        }
+      }
+      {I 1608[0603].PRT C14
+        {CN
+        1 GND
+        2 VS
+        }
+      }
+      {I 1608[0603].PRT C15
+        {CN
+        1 GND
+        2 VS
+        }
+      }
+      {I 2J-Lead 6.1 x 5.3.PRT C16
+        {CN
+        1 VS
+        2 GND
+        }
+      }
+      {I 1608[0603].PRT C17
+        {CN
+        1 GND
+        2 VS
+        }
+      }
+      {I 1608[0603].PRT C18
+        {CN
+        1 GND
+        2 VS
+        }
+      }
+      {I 1608[0603].PRT C19
+        {CN
+        1 TRIG
+        2 VS_FROM_MS
+        }
+      }
+      {I LeavySeal 39 pin Ver.PRT CN1
+        {CN
+        1 IMD_PWR
+        2 HVB_PWR
+        3 BSPD_TEST
+        4 EMETER_PWR
+        5 AMS_PWR
+        6 PRECHRG_CTRL
+        7 IMD_RESIST
+        8 AIR+_CTRL
+        9 AMS_CLR_ERR
+       10 EXTRA_INPUT2
+       11 AIR-_CTRL
+       12 AIR+_FB
+       13 AIR-_FB
+       14 IMD_OK
+       15 EXTRA_INPUT1
+       16 SWO
+       17 CAN_SENS_N
+       18 CAN_SENS_P
+       19 NetCN1_19
+       20 A\M\S\_\O\K\
+       21 SCHT_TAP
+       22 HCP_SENS_PWR
+       23 HCP_H_CURR_SENS
+       24 HCP_L_CURR_SENS
+       25 CHASSIS_GND
+       26 HCP_L_CURR_SENS
+       27 TS_ACTIVE
+       28 GND
+       29 SWDIO
+       30 SCHT_FROM_AUX_TO_ACC
+       31 SWCLK
+       32 NRST
+       33 ACC_FAN_PWR
+       34 VBATT_RAW
+       35 3V3
+       36 SERIAL_Rx
+       37 SERIAL_Tx
+       38 NetCN1_38
+       39 DCDC_PWR
+        }
+      }
+      {I LeavySeal 39 pin Ver.PRT CN2
+        {CN
+        1 LATCH_RST
+        2 VS_TO_MS
+        3 VS_FROM_MS
+        4 PUMP_PWR
+        5 COOL_SYS_TEMP1
+        6 SCHT_FROM_AUX_TO_ACC
+        7 FANS_PWR
+        8 COOL_SYS_TEMP2
+        9 COOL_SYS_TEMP3
+       10 NetCN2_10
+       11 NetCN2_11
+       12 AIR-_FB
+       13 BUZR_PWR
+       14 TSAL_PWR
+       15 MC_PWR
+       16 RED_LED_GND
+       17 GREEN_LED_GND
+       18 NetCN2_18
+       19 SCHT_OUT_LATCH
+       20 SHCT_IN_LATCH
+       21 SCHT_TAP
+       22 BRAKE_PWR
+       23 BRAKE_LIGHT_GND
+       24 CHASSIS_GND
+       25 VCU_PWR
+       26 NetCN2_26
+       27 CAN_SENS_P
+       28 B\R\A\K\E\_\P\R\E\S\S\
+       29 GND
+       30 CAN_SENS_N
+       31 BRAKE_SENS
+       32 WH_SP_L_IN
+       33 CAN_P
+       34 BRAKE_SW
+       35 WH_SP_R_IN
+       36 CAN_N
+       37 AMS_LED
+       38 IMD_LED
+       39 BSPD_LED
+        }
+      }
+      {I *TE_6-146257-5.PRT CON1
+        {CN
+       A1 EXTRA_INPUT1
+       A2 MC_PWR_CTRL
+       A3 GND
+       A4 ACC_FAN_CTRL
+       A5 BUZR_CTRL
+       A6 SCHT_TAP
+       A7 ACU_PWR
+       A8 AMS_CLR_ERR
+       A9 PRECHRG_CTRL
+      A10 BRAKE_PRESS
+      A11 3V3
+      A12 SWDIO
+      A13 SWCLK
+      A14 WH_SP_L_IN
+      A15 WH_SP_R_IN
+       B1 3V3
+       B2 GND
+       B3 IMD_OK
+       B4 AIR-_FB
+       B5 AIR+_FB
+       B6 PUMP_CTRL
+       B7 FANS_CTRL
+       B8 AIR-_CTRL
+       B9 AIR+_CTRL
+      B10 DCDC_EN_INT
+      B11 AMS_OK
+      B12 NRST
+      B13 BSPD_OK
+      B14 GND
+      B15 GND
+        }
+      }
+      {I *TE_6-146257-5.PRT CON2
+        {CN
+       A1 DCDC_CURR_SENS
+       A2 HCP_L_CURR_SENS
+       A3 GND
+       A4 3V3
+       A5 MC_PWR_FB
+       A6 GND
+       A7 COOL_SYS_TEMP1
+       A8 ACU_PWR
+       A9 PUMP_FB
+      A10 EXTRA_INPUT2
+      A11 GND
+      A12 CAN_P
+      A13 CAN_N
+      A14 SERIAL_Tx
+      A15 SERIAL_Rx
+       B1 HCP_H_CURR_SENS
+       B2 LVBATT_CURR_SENS
+       B3 COOL_SYS_TEMP2
+       B4 5V
+       B5 BUZR_FB
+       B6 FANS_FB
+       B7 5V
+       B8 COOL_SYS_TEMP3
+       B9 ACC_FAN_FB
+      B10 3V3
+      B11 IMD_RESIST
+      B12 CAN_SENS_P
+      B13 CAN_SENS_N
+      B14 SWO
+      B15 GND
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D1
+        {CN
+        1 3V3_ON
+        2 GND
+        }
+      }
+      {I TOSH-0603LED_RED_V.PRT D2
+        {CN
+        1 GND
+        2 NetD2_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D3
+        {CN
+        1 HCP_SENS_PWR
+        2 NetD3_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D4
+        {CN
+        1 5V_ON
+        2 GND
+        }
+      }
+      {I TOSH-0603LED_RED_V.PRT D5
+        {CN
+        1 VS_FROM_MS
+        2 NetD5_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D6
+        {CN
+        1 ACC_FAN_PWR
+        2 NetD6_2
+        }
+      }
+      {I TOSH-0603LED_RED_V.PRT D7
+        {CN
+        1 NetD7_1
+        2 GND
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D8
+        {CN
+        1 FANS_PWR
+        2 NetD8_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D9
+        {CN
+        1 PUMP_PWR
+        2 NetD9_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D10
+        {CN
+        1 MC_PWR
+        2 NetD10_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D12
+        {CN
+        1 BUZR_PWR
+        2 NetD12_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D13
+        {CN
+        1 SENS_PWR
+        2 NetD13_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D14
+        {CN
+        1 IMD_PWR
+        2 NetD14_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D15
+        {CN
+        1 BRAKE_PWR
+        2 NetD15_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D16
+        {CN
+        1 TSAL_PWR
+        2 NetD16_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D17
+        {CN
+        1 VCU_PWR
+        2 NetD17_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D18
+        {CN
+        1 HVB_PWR
+        2 NetD18_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D19
+        {CN
+        1 AMS_PWR
+        2 NetD19_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D20
+        {CN
+        1 EMETER_PWR
+        2 NetD20_2
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D21
+        {CN
+        1 ACU_PWR
+        2 NetD21_2
+        }
+      }
+      {I S8MC-13.PRT D22
+        {CN
+        1 GND
+        2 PUMP_FUSE
+        }
+      }
+      {I S8MC-13.PRT D23
+        {CN
+        1 GND
+        2 FANS_FUSE
+        }
+      }
+      {I S8MC-13.PRT D24
+        {CN
+        1 GND
+        2 ACC_FAN_FUSE
+        }
+      }
+      {I SOD-123.PRT D25
+        {CN
+        A NetD25_A
+        K VBATT_RAW
+        }
+      }
+      {I KING-0603LED_GREEN_V.PRT D26
+        {CN
+        1 BSPD_TEST_PWR
+        2 NetD26_2
+        }
+      }
+      {I LFUS-1812L050_V.PRT F1
+        {CN
+        1 5V
+        2 HCP_SENS_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F2
+        {CN
+        1 ACC_FAN_FUSE
+        2 ACC_FAN_FUSE
+        3 ACC_FAN_PWR
+        4 ACC_FAN_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F3
+        {CN
+        1 FANS_FUSE
+        2 FANS_FUSE
+        3 FANS_PWR
+        4 FANS_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F4
+        {CN
+        1 PUMP_FUSE
+        2 PUMP_FUSE
+        3 PUMP_PWR
+        4 PUMP_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F5
+        {CN
+        1 MC_PWR_FUSE
+        2 MC_PWR_FUSE
+        3 MC_PWR
+        4 MC_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F7
+        {CN
+        1 BUZR_FUSE
+        2 BUZR_FUSE
+        3 BUZR_PWR
+        4 BUZR_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F8
+        {CN
+        1 5V
+        2 5V
+        3 SENS_PWR
+        4 SENS_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F9
+        {CN
+        1 VS
+        2 VS
+        3 IMD_PWR
+        4 IMD_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F10
+        {CN
+        1 VS
+        2 VS
+        3 ACU_PWR
+        4 ACU_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F11
+        {CN
+        1 VS
+        2 VS
+        3 BRAKE_PWR
+        4 BRAKE_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F12
+        {CN
+        1 VS
+        2 VS
+        3 TSAL_PWR
+        4 TSAL_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F13
+        {CN
+        1 VS
+        2 VS
+        3 VCU_PWR
+        4 VCU_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F14
+        {CN
+        1 VS
+        2 VS
+        3 HVB_PWR
+        4 HVB_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F15
+        {CN
+        1 VS
+        2 VS
+        3 AMS_PWR
+        4 AMS_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F16
+        {CN
+        1 VS
+        2 VS
+        3 EMETER_PWR
+        4 EMETER_PWR
+        }
+      }
+      {I KSTN-3568_V.PRT F17
+        {CN
+        1 VS
+        2 VS
+        3 BSPD_TEST_PWR
+        4 BSPD_TEST_PWR
+        }
+      }
+      {I 3Pin Jumper.PRT JMP1
+        {CN
+        1 GND
+        2 DCDC_EN
+        3 VS_TO_MS
+        }
+      }
+      {I 2Pin Jumper.PRT JMP2
+        {CN
+        1 GND
+        2 OV
+        }
+      }
+      {I 2Pin Jumper.PRT JMP3
+        {CN
+        1 DELAYED_UV
+        2 VS_FROM_MS
+        }
+      }
+      {I 5-146285-6.PRT L1
+        {CN
+        1 ACU_PWR
+        2 RED_LED_GND
+        3 GREEN_LED_GND
+        4 GND
+        5 TS_ACTIVE
+        6 GND
+        }
+      }
+      {I 5-146285-6.PRT L2
+        {CN
+        1 SCHT_OUT_LATCH
+        2 LATCH_RST
+        3 GND
+        4 BSPD_LED
+        5 IMD_OK
+        6 BSPD_OK
+        }
+      }
+      {I 5-146285-6.PRT L3
+        {CN
+        1 AMS_LED
+        2 A\M\S\_\O\K\
+        3 LATCHING_Delayed
+        4 AMS_OK
+        5 SHCT_IN_LATCH
+        6 IMD_LED
+        }
+      }
+      {I 5-146285-6.PRT L4
+        {CN
+        1 HCP_L_CURR_SENS
+        2 5V
+        3 BRAKE_PRESS
+        4 BRAKE_SENS
+        5 BRAKE_SW
+        6 BRAKE_LIGHT_GND
+        }
+      }
+      {I Test Via.PRT LATCHING_Delayed
+        {CN
+        1 LATCHING_Delayed
+        }
+      }
+      {I 24-SOP (0.295", 7.50mm Width) Exposed Pad.PRT LD1
+        {CN
+        1 VS
+        2 GND
+        3 BUZR_CTRL
+        4 BUZR_FB
+        5 NetLD1_5
+        6 NetLD1_6
+        7 MC_PWR_CTRL
+        8 MC_PWR_FB
+        9 ACC_FAN_CTRL
+       10 ACC_FAN_FB
+       11 NetLD1_11
+       12 VS
+       13 ACC_FAN_FUSE
+       14 ACC_FAN_FUSE
+       15 ACC_FAN_FUSE
+       16 MC_PWR_FUSE
+       17 MC_PWR_FUSE
+       18 MC_PWR_FUSE
+       19 NetLD1_19
+       20 NetLD1_20
+       21 NetLD1_21
+       22 BUZR_FUSE
+       23 BUZR_FUSE
+       24 BUZR_FUSE
+       25 VS
+        }
+      }
+      {I VND5E050JTR-E.PRT LD2
+        {CN
+        1 GND
+        2 NetLD2_2
+        3 FANS_CTRL
+        4 FANS_FB
+        5 PUMP_FB
+        6 PUMP_CTRL
+        7 VS
+        8 PUMP_FUSE
+        9 PUMP_FUSE
+       10 FANS_FUSE
+       11 FANS_FUSE
+       12 VS
+       13 VS
+        }
+      }
+      {I P-CH Mosfet SMD.PRT Q1
+        {CN
+        1 VBATT_GATE
+        2 VBATT_TO_PWR_SW
+        3 NetQ1_3
+        }
+      }
+      {I P-CH Mosfet SMD.PRT Q2
+        {CN
+        1 VBATT_GATE
+        2 VS_TO_MS
+        3 NetQ1_3
+        }
+      }
+      {I P-CH Mosfet SMD.PRT Q3
+        {CN
+        1 DCDC_GATE
+        2 VS_TO_MS
+        3 NetQ3_3
+        }
+      }
+      {I P-CH Mosfet SMD.PRT Q4
+        {CN
+        1 DCDC_GATE
+        2 DCDC_TO_PWR_SW
+        3 NetQ3_3
+        }
+      }
+      {I SOT-23_N.PRT Q5
+        {CN
+        1 NetQ5_1
+        2 DCDC_EN_INT
+        3 NetQ5_3
+        }
+      }
+      {I SOT-23_N.PRT Q6
+        {CN
+        1 NetQ5_3
+        2 GND
+        3 DCDC_EN
+        }
+      }
+      {I SOIC127P600X175-8N.PRT Q7
+        {CN
+        1 ACU_PWR
+        2 ACU_PWR
+        3 ACU_PWR
+        4 NetQ7_4
+        5 LATCHING_Delayed
+        6 LATCHING_Delayed
+        7 LATCHING_Delayed
+        8 LATCHING_Delayed
+        }
+      }
+      {I SOT-23_N.PRT Q8
+        {CN
+        1 UV_DELAY
+        2 NetQ8_2
+        3 DELAYED_UV
+        }
+      }
+      {I N-Channel Mosfet.PRT Q9
+        {CN
+        1 Gate
+        2 VS_FROM_MS
+        3 Source
+        }
+      }
+      {I N-Channel Mosfet.PRT Q10
+        {CN
+        1 Gate
+        2 VS
+        3 Source
+        }
+      }
+      {I SOT-23_N.PRT Q11
+        {CN
+        1 555_OUT_LATCHING
+        2 GND
+        3 NetQ11_3
+        }
+      }
+      {I SOT-23_N.PRT Q12
+        {CN
+        1 NetQ12_1
+        2 GND
+        3 B\R\A\K\E\_\P\R\E\S\S\
+        }
+      }
+      {I 1608[0603].PRT R1
+        {CN
+        1 GND
+        2 3V3
+        }
+      }
+      {I 1608[0603].PRT R2
+        {CN
+        1 3V3
+        2 3V3_ON
+        }
+      }
+      {I RESC0603(1608)_L.PRT R3
+        {CN
+        1 NetD3_2
+        2 GND
+        }
+      }
+      {I 1608[0603].PRT R4
+        {CN
+        1 GND
+        2 DCDC_EN
+        }
+      }
+      {I 1608[0603].PRT R5
+        {CN
+        1 GND
+        2 NetQ5_1
+        }
+      }
+      {I 1608[0603].PRT R6
+        {CN
+        1 DCDC_PWR
+        2 NetQ5_1
+        }
+      }
+      {I 1608[0603].PRT R7
+        {CN
+        1 DCDC_EN
+        2 VS_TO_MS
+        }
+      }
+      {I 1608[0603].PRT R8
+        {CN
+        1 NetQ5_3
+        2 VS_TO_MS
+        }
+      }
+      {I 1608[0603].PRT R9
+        {CN
+        1 GND
+        2 TRIG
+        }
+      }
+      {I 1608[0603].PRT R10
+        {CN
+        1 5V
+        2 5V_ON
+        }
+      }
+      {I RESC0603(1608)_L.PRT R11
+        {CN
+        1 VS_FROM_MS
+        2 DELAYED_UV
+        }
+      }
+      {I RESC0603(1608)_L.PRT R12
+        {CN
+        1 GND
+        2 OV
+        }
+      }
+      {I RESC0603(1608)_L.PRT R13
+        {CN
+        1 OV
+        2 VS_FROM_MS
+        }
+      }
+      {I RESC0603(1608)_L.PRT R14
+        {CN
+        1 NetQ8_2
+        2 GND
+        }
+      }
+      {I 1608[0603].PRT R15
+        {CN
+        1 GND
+        2 5V
+        }
+      }
+      {I RESC0603(1608)_L.PRT R16
+        {CN
+        1 F\A\U\L\T\2\
+        2 NetD5_2
+        }
+      }
+      {I RESC0603(1608)_L.PRT R17
+        {CN
+        1 VS_FROM_MS
+        2 SHDN
+        }
+      }
+      {I RESC0603(1608)_L.PRT R18
+        {CN
+        1 VS_FROM_MS
+        2 F\A\U\L\T\2\
+        }
+      }
+      {I RESC0603(1608)_L.PRT R19
+        {CN
+        1 GND
+        2 ACC_FAN_FUSE
+        }
+      }
+      {I RESC0603(1608)_L.PRT R20
+        {CN
+        1 NetD6_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R21
+        {CN
+        1 NetD8_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R22
+        {CN
+        1 NetD9_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R23
+        {CN
+        1 NetD10_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R25
+        {CN
+        1 NetD12_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R26
+        {CN
+        1 NetD13_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R27
+        {CN
+        1 NetD14_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R28
+        {CN
+        1 NetD15_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R29
+        {CN
+        1 NetD16_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R30
+        {CN
+        1 NetD17_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R31
+        {CN
+        1 NetD18_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R32
+        {CN
+        1 NetD19_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R33
+        {CN
+        1 NetD20_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R34
+        {CN
+        1 NetD21_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R36
+        {CN
+        1 BUZR_FUSE
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R37
+        {CN
+        1 GND
+        2 PUMP_FUSE
+        }
+      }
+      {I RESC0603(1608)_L.PRT R38
+        {CN
+        1 FANS_FUSE
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R39
+        {CN
+        1 MC_PWR_FUSE
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R40
+        {CN
+        1 VS
+        2 NetD7_1
+        }
+      }
+      {I RESC0603(1608)_L.PRT R41
+        {CN
+        1 555_OUT
+        2 UV_DELAY
+        }
+      }
+      {I RESC0603(1608)_L.PRT R42
+        {CN
+        1 GND
+        2 TRIG
+        }
+      }
+      {I 1608[0603].PRT R43
+        {CN
+        1 NetQ11_3
+        2 ACU_PWR
+        }
+      }
+      {I 1608[0603].PRT R44
+        {CN
+        1 GND
+        2 555_OUT_LATCHING
+        }
+      }
+      {I 1608[0603].PRT R45
+        {CN
+        1 GND
+        2 ACU_PWR
+        }
+      }
+      {I 1608[0603].PRT R46
+        {CN
+        1 NetQ11_3
+        2 NetQ7_4
+        }
+      }
+      {I RESC0603(1608)_L.PRT R47
+        {CN
+        1 NetD2_2
+        2 NetD25_A
+        }
+      }
+      {I RESC0603(1608)_L.PRT R48
+        {CN
+        1 NetD26_2
+        2 GND
+        }
+      }
+      {I RESC0603(1608)_L.PRT R49
+        {CN
+        1 BRAKE_PRESS
+        2 NetQ12_1
+        }
+      }
+      {I 1608[0603].PRT R50
+        {CN
+        1 GND
+        2 VS_FROM_MS
+        }
+      }
+      {I TO220AC.PRT R69
+        {CN
+        1 BSPD_TEST_PWR
+        2 BSPD_TEST
+        }
+      }
+      {I DCDC_HORIZONTAL.PRT U1
+        {CN
+        1 ACU_PWR
+        2 GND
+        3 3V3
+        }
+      }
+      {I ALEG-LC-8_V.PRT U2
+        {CN
+        1 VBATT_RAW
+        2 VBATT_RAW
+        3 VBATT_TO_PWR_SW
+        4 VBATT_TO_PWR_SW
+        5 GND
+        6 GND
+        7 LVBATT_CURR_SENS
+        8 5V
+        }
+      }
+      {I ALEG-LC-8_V.PRT U3
+        {CN
+        1 DCDC_PWR
+        2 DCDC_PWR
+        3 DCDC_TO_PWR_SW
+        4 DCDC_TO_PWR_SW
+        5 GND
+        6 GND
+        7 DCDC_CURR_SENS
+        8 5V
+        }
+      }
+      {I D0008A_M.PRT U4
+        {CN
+        1 GND
+        2 TRIG
+        3 555_OUT_LATCHING
+        4 ACU_PWR
+        5 NetU4_5
+        6 TRIG
+        7 NetU4_7
+        8 ACU_PWR
+        }
+      }
+      {I LTC4416.PRT U5
+        {CN
+        1 NetU5_1
+        2 DCDC_EN
+        3 GND
+        4 DCDC_EN
+        5 NetU5_5
+        6 VBATT_GATE
+        7 VBATT_TO_PWR_SW
+        8 VS_TO_MS
+        9 DCDC_TO_PWR_SW
+       10 DCDC_GATE
+        }
+      }
+      {I DCDC_VERTICAL.PRT U6
+        {CN
+        1 ACU_PWR
+        2 GND
+        3 5V
+        }
+      }
+      {I LT-TS8-8-TSOT-23_V.PRT U7
+        {CN
+        1 VS_FROM_MS
+        2 DELAYED_UV
+        3 OV
+        4 GND
+        5 SHDN
+        6 F\A\U\L\T\2\
+        7 VS
+        8 Gate
+        }
+      }
+      {I D0008A_M.PRT U8
+        {CN
+        1 GND
+        2 TRIG
+        3 555_OUT
+        4 VS_FROM_MS
+        5 NetU8_5
+        6 TRIG
+        7 NetU8_7
+        8 VS_FROM_MS
+        }
+      }
+      {I Test Via.PRT UV_DELAY
+        {CN
+        1 UV_DELAY
+        }
+      }
+      {I Test Via.PRT VBATT_RAW
+        {CN
+        1 VBATT_RAW
+        }
+      }
+      {I Test Via.PRT VS
+        {CN
+        1 VS
+        }
+      }
+      {I Test Via.PRT VS_FROM_MS
+        {CN
+        1 VS_FROM_MS
+        }
+      }
+      {I Test Via.PRT VS_TO_MS
+        {CN
+        1 VS_TO_MS
+        }
+      }
+      {I WM9796-ND.PRT WM1
+        {CN
+        1 VBATT_RAW
+        2 GND
+        }
+      }
+    }
+  }
+}

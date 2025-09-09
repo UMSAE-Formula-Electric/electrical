@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VS_TO_MS Pin=JMP1-3
+Removed Pin From Net: NetName=VS_TO_MS Pin=R7-2
+Removed Pin From Net: NetName=VS_TO_MS Pin=R8-2
+Add Net: Net with name "VS_TO_MS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper

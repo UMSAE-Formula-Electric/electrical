@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=1
+Change Component Designator: OldDesignator=5V NewDesignator=2
+Change Component Designator: OldDesignator=C1 NewDesignator=C8
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=D1 NewDesignator=D19
+Change Component Designator: OldDesignator=D4 NewDesignator=D20
+Change Component Designator: OldDesignator=Latching Delay NewDesignator=Latching Delay1
+Change Component Designator: OldDesignator=R1 NewDesignator=R26
+Change Component Designator: OldDesignator=R2 NewDesignator=R25
+Change Component Designator: OldDesignator=R10 NewDesignator=R27
+Change Component Designator: OldDesignator=R15 NewDesignator=R28
+Change Component Designator: OldDesignator=U6 NewDesignator=U2
+Change Net Name : Old Net Name=NetLatching Delay_A1 New Net Name=NetLatching Delay1_A1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN1 5-1418363-1
+Added Member To Class: ClassName=1  - Connectors Member=Component CN2 5-1418363-1
+Added Member To Class: ClassName=Designator Member=Component D1 KP-1608MGC
+Added Member To Class: ClassName=Designator Member=Component D4 KP-1608MGC
+Added Member To Class: ClassName=1  - Connectors Member=Component R1 1k
+Added Member To Class: ClassName=Designator Member=Component R2 560
+Added Member To Class: ClassName=Designator Member=Component R10 560
+Added Member To Class: ClassName=Designator Member=Component R15 560
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

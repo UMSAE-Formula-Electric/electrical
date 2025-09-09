@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=L4-3
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=Q-1-3
+Removed Pin From Net: NetName=ACU_PWR Pin=Q-5-8
+Added Pin To Net: NetName=ACU_PWR Pin=Q-1-3
+Added Pin To Net: NetName=LATCHING_Delayed Pin=Q-5-8
+Add Net: Net with name "LATCHING_Delayed" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

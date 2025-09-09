@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=BSPD_TEST Pin=CN1-1
+Removed Pin From Net: NetName=HVB_PWR Pin=CN1-2
+Removed Pin From Net: NetName=ACC_FAN_PWR Pin=CN1-3
+Removed Pin From Net: NetName=PRECHRG_CTRL Pin=CN1-4
+Removed Pin From Net: NetName=AMS_PWR Pin=CN1-5
+Removed Pin From Net: NetName=EMETER_PWR Pin=CN1-6
+Removed Pin From Net: NetName=AMS_CLR_ERR Pin=CN1-7
+Removed Pin From Net: NetName=AIR+_CTRL Pin=CN1-8
+Removed Pin From Net: NetName=IMD_RESIST Pin=CN1-9
+Removed Pin From Net: NetName=AIR+_FB Pin=CN1-10
+Removed Pin From Net: NetName=AIR-_CTRL Pin=CN1-11
+Removed Pin From Net: NetName=EXTRA_INPUT2 Pin=CN1-12
+Removed Pin From Net: NetName=EXTRA_INPUT1 Pin=CN1-13
+Removed Pin From Net: NetName=IMD_OK Pin=CN1-14
+Removed Pin From Net: NetName=AIR-_FB Pin=CN1-15
+Removed Pin From Net: NetName=CAN_SENS_P Pin=CN1-16
+Removed Pin From Net: NetName=CAN_SENS_N Pin=CN1-17
+Removed Pin From Net: NetName=SWO Pin=CN1-18
+Removed Pin From Net: NetName=AMS_LED Pin=CN2-1
+Removed Pin From Net: NetName=IMD_LED Pin=CN2-2
+Removed Pin From Net: NetName=BSPD_LED Pin=CN2-3
+Removed Pin From Net: NetName=AMBER_LED_GND Pin=CN2-4
+Removed Pin From Net: NetName=CAN_N Pin=CN2-6
+Removed Pin From Net: NetName=BRAKE_SENS Pin=CN2-7
+Removed Pin From Net: NetName=CAN_P Pin=CN2-9
+Removed Pin From Net: NetName=B\R\A\K\E\_\P\R\E\S\S\ Pin=CN2-10
+Removed Pin From Net: NetName=GND Pin=CN2-11
+Removed Pin From Net: NetName=CAN_SENS_N Pin=CN2-12
+Removed Pin From Net: NetName=VCU_PWR Pin=CN2-13
+Removed Pin From Net: NetName=CAN_SENS_P Pin=CN2-15
+Removed Pin From Net: NetName=BRAKE_PWR Pin=CN2-16
+Removed Pin From Net: NetName=BRAKE_LIGHT_GND Pin=CN2-17
+Removed Pin From Net: NetName=GND Pin=CN2-18
+Change Component Comment : Designator=CN1 Old Comment=5-1418363-1 New Comment=5-1418363-3
+Change Component Comment : Designator=CN2 Old Comment=5-1418363-1 New Comment=5-1418363-3
+Change Component Designator: OldDesignator=3V3 NewDesignator=1
+Change Component Designator: OldDesignator=5V NewDesignator=2
+Change Component Designator: OldDesignator=C1 NewDesignator=C8
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=CN1 NewDesignator=CN3
+Change Component Designator: OldDesignator=CN2 NewDesignator=CN4
+Change Component Designator: OldDesignator=D1 NewDesignator=D19
+Change Component Designator: OldDesignator=D4 NewDesignator=D20
+Change Component Designator: OldDesignator=Latching Delay NewDesignator=Latching Delay1
+Change Component Designator: OldDesignator=R1 NewDesignator=R26
+Change Component Designator: OldDesignator=R2 NewDesignator=R25
+Change Component Designator: OldDesignator=R10 NewDesignator=R27
+Change Component Designator: OldDesignator=R15 NewDesignator=R28
+Change Component Designator: OldDesignator=U6 NewDesignator=U2
+Change Component Description : Designator=CN3 Old Description=Levyseal Vertical 39 pin header New Description=Levyseal 90 degree 39 pin header
+Change Component Description : Designator=CN4 Old Description=Levyseal Vertical 39 pin header New Description=Levyseal 90 degree 39 pin header
+Added Component: Designator=CN1(LeavySeal 39 pin Ver)
+Added Component: Designator=CN2(LeavySeal 39 pin Ver)
+Added Pin To Net: NetName=BSPD_TEST Pin=CN1-1
+Added Pin To Net: NetName=HVB_PWR Pin=CN1-2
+Added Pin To Net: NetName=ACC_FAN_PWR Pin=CN1-3
+Added Pin To Net: NetName=PRECHRG_CTRL Pin=CN1-4
+Added Pin To Net: NetName=AMS_PWR Pin=CN1-5
+Added Pin To Net: NetName=EMETER_PWR Pin=CN1-6
+Added Pin To Net: NetName=AMS_CLR_ERR Pin=CN1-7
+Added Pin To Net: NetName=AIR+_CTRL Pin=CN1-8
+Added Pin To Net: NetName=IMD_RESIST Pin=CN1-9
+Added Pin To Net: NetName=AIR+_FB Pin=CN1-10
+Added Pin To Net: NetName=AIR-_CTRL Pin=CN1-11
+Added Pin To Net: NetName=EXTRA_INPUT2 Pin=CN1-12
+Added Pin To Net: NetName=EXTRA_INPUT1 Pin=CN1-13
+Added Pin To Net: NetName=IMD_OK Pin=CN1-14
+Added Pin To Net: NetName=AIR-_FB Pin=CN1-15
+Added Pin To Net: NetName=CAN_SENS_P Pin=CN1-16
+Added Pin To Net: NetName=CAN_SENS_N Pin=CN1-17
+Added Pin To Net: NetName=SWO Pin=CN1-18
+Added Pin To Net: NetName=AMS_LED Pin=CN2-1
+Added Pin To Net: NetName=IMD_LED Pin=CN2-2
+Added Pin To Net: NetName=BSPD_LED Pin=CN2-3
+Added Pin To Net: NetName=AMBER_LED_GND Pin=CN2-4
+Added Pin To Net: NetName=CAN_N Pin=CN2-6
+Added Pin To Net: NetName=BRAKE_SENS Pin=CN2-7
+Added Pin To Net: NetName=CAN_P Pin=CN2-9
+Added Pin To Net: NetName=B\R\A\K\E\_\P\R\E\S\S\ Pin=CN2-10
+Added Pin To Net: NetName=GND Pin=CN2-11
+Added Pin To Net: NetName=CAN_SENS_N Pin=CN2-12
+Added Pin To Net: NetName=VCU_PWR Pin=CN2-13
+Added Pin To Net: NetName=CAN_SENS_P Pin=CN2-15
+Added Pin To Net: NetName=BRAKE_PWR Pin=CN2-16
+Added Pin To Net: NetName=BRAKE_LIGHT_GND Pin=CN2-17
+Added Pin To Net: NetName=GND Pin=CN2-18
+Change Net Name : Old Net Name=NetLatching Delay_A1 New Net Name=NetLatching Delay1_A1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN3 5-1418363-3
+Added Member To Class: ClassName=1  - Connectors Member=Component CN4 5-1418363-3
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

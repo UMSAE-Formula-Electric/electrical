@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=LD? NewDesignator=LD2
+Change Component Designator: OldDesignator=LD? NewDesignator=LD3
+Change Net Name : Old Net Name=NetLD?_5 New Net Name=NetLD3_5
+Added Pin To Net: NetName=NetLD2_5 Pin=LD2-5
+Added Pin To Net: NetName=NetLD2_5 Pin=R6-2
+Added Net: Name=NetLD2_5
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component Jumper1 Jumper
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
