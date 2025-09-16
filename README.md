@@ -1,6 +1,7 @@
 # PCB Projects
 
 This repository contains all PCB designs used on the UMSAE Formula Electric team!
+(Missing Discharge PCB as it is being developed)
 
 ## Cloning The Repository
 
