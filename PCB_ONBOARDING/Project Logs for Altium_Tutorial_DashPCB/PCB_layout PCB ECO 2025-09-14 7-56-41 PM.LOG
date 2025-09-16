@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-6
+Change Component Footprint: Designator=U1 Old Footprint=FP-D0008A-IPC_A New Footprint=FP-D0008A-IPC_B
+Change Component Comment : Designator=U1 Old Comment=NE555DR New Comment=TLC555CDR
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BB887B1F-E735-49F5-9073-A38D3F61DBE4 New ItemGUID=14840F6D-945E-4DCA-81E9-64AF209E91FE Old RevisionGUID=FE500B09-4ECF-4988-9563-9D28780E30F9 New RevisionGUID=69A6FF87-10F6-4B36-8C75-8A0C6FA4F15E
+Change component parameters: Designator = "U1" ("U1"); Footprint = "FP-D0008A-IPC_A"; UniqueID = "\XEBINPEI" ("\XEBINPEI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "250A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "2.1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High Level Output Current"; Value = "-10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Level Output Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "725mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "15V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "360uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "725mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "250uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=U1-5
