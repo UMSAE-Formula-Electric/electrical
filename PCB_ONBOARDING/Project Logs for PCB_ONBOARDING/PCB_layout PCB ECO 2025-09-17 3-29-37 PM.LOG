@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=VCC Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1608X95X40NL15T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1608X95X40NL15T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Comment : Designator=C5 Old Comment=VJ0603Y103KXQPW1BC New Comment=C0603S103K4RACTU
+Change Component Comment : Designator=C6 Old Comment=VJ0603Y103KXQPW1BC New Comment=C0603S103K4RACTU
+Change Managed Component Library Link : Designator=C5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C914011A-7FB8-47DF-A851-4535196424FF New ItemGUID=420309D7-8115-46B5-A70C-299FF1973648 Old RevisionGUID=AEEF2C82-CC40-48F1-9EC4-C999EE9AE177 New RevisionGUID=C4C75F79-77ED-464E-8CFD-D593A1C940D0
+Change Managed Component Library Link : Designator=C6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C914011A-7FB8-47DF-A851-4535196424FF New ItemGUID=420309D7-8115-46B5-A70C-299FF1973648 Old RevisionGUID=AEEF2C82-CC40-48F1-9EC4-C999EE9AE177 New RevisionGUID=C4C75F79-77ED-464E-8CFD-D593A1C940D0
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC1608X95X40NL15T15"; UniqueID = "\RJETXNYG" ("\RJETXNYG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603S103K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC1608X95X40NL15T15"; UniqueID = "\SMDXYVXV" ("\SMDXYVXV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603S103K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-5
+Added Net: Name=NetC5_2
