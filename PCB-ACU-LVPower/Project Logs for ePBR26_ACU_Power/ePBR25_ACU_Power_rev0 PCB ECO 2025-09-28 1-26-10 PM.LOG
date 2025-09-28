@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=LATCHING_Delayed Pin=Q8-1
+Removed Pin From Net: NetName=ACU_PWR Pin=Q8-3
+Removed Pin From Net: NetName=VS Pin=U5-7
+Removed Member From Class: ClassName=Designator Member=C3
+Change Component Comment : Designator=R32 Old Comment=2.2k New Comment=2.2kO
+Change Component Comment : Designator=R33 Old Comment=2.2k New Comment=2.2kO
+Change Component Comment : Designator=R34 Old Comment=5 New Comment=5O
+Change Component Comment : Designator=R36 Old Comment=5 New Comment=5O
+Change component parameters: Designator = "R36" ("R36"); Footprint = "RESC0603(1608)_L"; UniqueID = "\TGPYPXQX\RAUKESTD" ("\TGPYPXQX\RAUKESTD")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RESC0603(1608)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LATCHING_Delayed Pin=Latching Delay1-1
+Added Pin To Net: NetName=GLV Pin=U5-7
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C1 UUD1H101MNL1GS
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
