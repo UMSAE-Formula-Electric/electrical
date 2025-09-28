@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=SERIAL_Tx Pin=CN1-36
-Removed Pin From Net: NetName=SERIAL_Rx Pin=CN1-37
-Change Component Comment : Designator=F17 Old Comment=1A Fuse New Comment=2.5A Fuse
-Added Pin To Net: NetName=SERIAL_Rx Pin=CN1-36
-Added Pin To Net: NetName=SERIAL_Tx Pin=CN1-37
