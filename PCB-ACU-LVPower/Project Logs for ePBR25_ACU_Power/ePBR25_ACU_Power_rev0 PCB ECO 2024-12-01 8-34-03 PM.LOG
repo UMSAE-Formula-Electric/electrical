@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=VS_TO_SWITCH Pin=GLV Relay-1
+Removed Pin From Net: NetName=VS_TO_SWITCH Pin=GLV Relay-2
+Removed Pin From Net: NetName=VS_TO_SWITCH Pin=GLV Relay-3
+Removed Pin From Net: NetName=VS Pin=GLV Relay-4
+Removed Pin From Net: NetName=VS Pin=GLV Relay-5
+Removed Pin From Net: NetName=VS Pin=GLV Relay-6
+Removed Pin From Net: NetName=VS_SWITCH Pin=GLV Relay-A2
+Removed Pin From Net: NetName=VS Pin=Q8-3
+Removed Pin From Net: NetName=VS_SWITCH Pin=Q9-1
+Removed Pin From Net: NetName=GND Pin=Q9-2
+Removed Pin From Net: NetName=GND Pin=R58-1
+Removed Pin From Net: NetName=VS_SWITCH Pin=R58-2
+Removed Pin From Net: NetName=VS Pin=R59-1
+Removed Pin From Net: NetName=GND Pin=R61-2
+Added Component: Designator=K?(RELAY_J115F11C12VDCSH.9)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/J115F11C12VDCSH.9/CIT+Relay+%2526+Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CIT Relay and Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "J115F11C12VDCSH.9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/J115F11C12VDCSH.9/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/J115F11C12VDCSH.9/CIT+Relay+%2526+Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RESC0603(1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P430BZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VS_SWITCH Pin=K?-A1
+Added Pin To Net: NetName=VS_TO_SWITCH Pin=K?-COM
+Added Pin To Net: NetName=VS Pin=K?-NO
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetK?_A2 Pin=K?-A2
+Added Pin To Net: NetName=NetK?_A2 Pin=R?-1
+Added Net: Name=NetK?_A2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=1  - Connectors Member=Component CN1 5-1418363-1
+Added Room: Name=1  - Connectors
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
