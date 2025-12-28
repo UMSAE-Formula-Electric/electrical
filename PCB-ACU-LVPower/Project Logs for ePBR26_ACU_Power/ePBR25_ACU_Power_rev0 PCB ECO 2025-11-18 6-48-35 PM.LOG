@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=ACC_FAN_PWR Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=ACC_FAN_PWR Pin=C9-2
+Removed Pin From Net: NetName=PUMP_FUSE Pin=F3-1
+Removed Pin From Net: NetName=PUMP_FUSE Pin=F3-2
+Removed Pin From Net: NetName=PUMP_CTRL Pin=LD3-3
+Removed Pin From Net: NetName=PUMP_FB Pin=LD3-4
+Removed Pin From Net: NetName=ACC_FAN_PWR_IN Pin=LD4-1
+Removed Pin From Net: NetName=ACC_FAN_PWR Pin=LD4-3
+Removed Pin From Net: NetName=ACC_FAN_PWR_IN Pin=LD4-5
+Removed Pin From Net: NetName=ACU_PWR Pin=Q2-3
+Removed Pin From Net: NetName=ACC_FAN_CTRL Pin=R23-1
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=ACC_FAN_PWR_IN Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R25-2
+Change Net Name : Old Net Name=PUMP_FUSE New Net Name=ACC_FUSE
+Added Pin To Net: NetName=ACC_CTRL Pin=LD3-3
+Added Net: Name=ACC_CTRL
+Added Pin To Net: NetName=ACC_FB Pin=LD3-4
+Added Net: Name=ACC_FB
+Added Pin To Net: NetName=PUMP_FUSE Pin=F3-1
+Added Pin To Net: NetName=PUMP_FUSE Pin=F3-2
+Added Net: Name=PUMP_FUSE
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

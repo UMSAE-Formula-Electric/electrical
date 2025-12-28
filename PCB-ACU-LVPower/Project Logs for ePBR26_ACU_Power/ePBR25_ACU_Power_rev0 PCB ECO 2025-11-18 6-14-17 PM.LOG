@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=VS Pin=C18-2
+Removed Pin From Net: NetName=VS Pin=C19-2
+Removed Pin From Net: NetName=DELAYED_UV Pin=Q5-3
+Removed Pin From Net: NetName=GND Pin=R39-1
+Removed Pin From Net: NetName=VS Pin=R39-2
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=VS Pin=U4-4
+Removed Pin From Net: NetName=VS Pin=U4-8
+Added Pin To Net: NetName=DELAYED_UV Pin=R46-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_5 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
