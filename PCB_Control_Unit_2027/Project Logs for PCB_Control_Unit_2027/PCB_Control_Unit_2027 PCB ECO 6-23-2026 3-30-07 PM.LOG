@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Member To Class: ClassName=Software Interface and CAN Member=Component U2 STM32F446VET7

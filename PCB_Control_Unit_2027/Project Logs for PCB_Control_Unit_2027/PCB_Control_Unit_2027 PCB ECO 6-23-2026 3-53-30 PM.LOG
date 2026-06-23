@@ -1,0 +1,8 @@
+Added Component: Designator=J?(FP-12401610E4#2A-MFG)
+Add component (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Software Interface and CAN Member=Component J? 12401610E4#2A
