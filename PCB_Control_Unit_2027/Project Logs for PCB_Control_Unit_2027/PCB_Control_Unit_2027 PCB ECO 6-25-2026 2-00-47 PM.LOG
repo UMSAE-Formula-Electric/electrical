@@ -1,0 +1,81 @@
+Change Footprint: Footprint Not Found PCBComponent_1
+Change Footprint: Footprint Not Found PCBComponent_1
+Change Footprint: Footprint Not Found PCBComponent_1
+Change Footprint: Footprint Not Found PCBComponent_1
+Change Footprint: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found FP-425AC-MFG
+Add component: Footprint Not Found FP-425AC-MFG
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Added Pin To Net: NetName=Latching Delayed Pin=D1-1
+Added Pin To Net: NetName=AMS Err Pin Pin=D1-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q4-1
+Add Pin To Net: Unknown Pin: Pin Q4-2
+Add Pin To Net: Unknown Pin: Pin Q4-3
+Add Pin To Net: Unknown Pin: Pin Q5-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q5-3
+Add Pin To Net: Unknown Pin: Pin Q6-1
+Add Pin To Net: Unknown Pin: Pin Q6-2
+Add Pin To Net: Unknown Pin: Pin Q6-3
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Added Member To Class: ClassName=Latching Relays Member=Component D1 150060SS55040
+Add Class Member: Failed to add class member : Component D5 SS14FP
+Add Class Member: Failed to add class member : Component Q2 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q3 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q4 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q5 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q6 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component R6 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R7 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R8 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R9 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R10 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R11 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R12 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R13 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R14 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R15 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R16 CRCW08052R80FNEA

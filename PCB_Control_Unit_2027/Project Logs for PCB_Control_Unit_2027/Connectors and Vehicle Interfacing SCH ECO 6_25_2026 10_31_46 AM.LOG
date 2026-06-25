@@ -1,0 +1,2 @@
+Remove Pin=K1-6 From Net=Latching Delayed
+Change Pin Designator/Name:  Old Designator=K1-4 Old Name=4 New Designator =RESET+ New Name=6

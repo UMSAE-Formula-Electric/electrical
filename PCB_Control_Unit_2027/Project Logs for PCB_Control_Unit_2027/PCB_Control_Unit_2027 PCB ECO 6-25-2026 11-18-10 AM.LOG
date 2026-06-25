@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=Latching Relays Member=D?
+Change Footprint: Footprint Not Found FP-425AC-MFG
+Change Footprint: Footprint Not Found FP-CRCW0805-e3-MFG
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Managed Component Library Link : Designator=D6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=4F801BA5-D8C7-4222-88D1-BE8B73A0F7CA New ItemGUID= Old RevisionGUID=2D817682-C6A3-4130-A876-17EB8984D1F7 New RevisionGUID=
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9977B75F-CE59-4F2A-8366-DCA9ABEEF945 New ItemGUID= Old RevisionGUID=69089162-E1FD-4CAD-82A0-F03BA53D7D43 New RevisionGUID=
+Add component: Footprint Not Found FP-425AC-MFG
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Added Member To Class: ClassName=Latching Relays Member=Component D6 SS14FP
+Add Class Member: Failed to add class member : Component D?? SS14FP
+Add Class Member: Failed to add class member : Component Q?? MMBT2222AWT3G
+Added Member To Class: ClassName=Latching Relays Member=Component R5 CRCW08052R80FNEA
+Add Class Member: Failed to add class member : Component R? CRCW08052R80FNEA

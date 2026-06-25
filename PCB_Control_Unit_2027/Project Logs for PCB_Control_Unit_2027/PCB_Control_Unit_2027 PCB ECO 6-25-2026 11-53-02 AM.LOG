@@ -1,0 +1,39 @@
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=AMS Err Pin Pin=D1-2
+Change Footprint: Footprint Not Found FP-425AC-MFG
+Change Footprint: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-425AC-MFG
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=AMS Err Pin Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=Latch Coil PWR AMS
+Added Member To Class: ClassName=Latching Relays Member=Component D1 SS14FP
+Add Class Member: Failed to add class member : Component Q2 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q3 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component R6 ERJ-P06J102V
+Add Class Member: Failed to add class member : Component R7 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R8 ERJ-P06J102V
+Add Class Member: Failed to add class member : Component R9 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R10 ERA-6AEB103V

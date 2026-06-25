@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=Net5_1 Pin=5-1
+Removed Pin From Net: NetName=AMS Err Pin Pin=5-2
+Removed Pin From Net: NetName=Latching Delayed Pin=R1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R5-1
+Removed Pin From Net: NetName=AMS OK Pin=R5-2
+Removed Member From Class: ClassName=Latching Relays Member=5
+Change Footprint: Footprint Not Found FP-425AC-MFG
+Change Footprint: Footprint Not Found FP-CRCW0805-e3-MFG
+Change Component Comment : Designator=R4 Old Comment=CRCW08052R80FNEA New Comment=ERA-6AEB103V
+Change Component Comment : Designator=R5 Old Comment=CRCW08052R80FNEA New Comment=ERJ-P06J102V
+Change Managed Component Library Link : Designator=D4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=4F801BA5-D8C7-4222-88D1-BE8B73A0F7CA New ItemGUID= Old RevisionGUID=2D817682-C6A3-4130-A876-17EB8984D1F7 New RevisionGUID=
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=A8771F9C-D90D-4B65-B17B-2AC143615089 New ItemGUID= Old RevisionGUID=09644C2F-39C9-47F9-B1FC-545D57DF1431 New RevisionGUID=
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9977B75F-CE59-4F2A-8366-DCA9ABEEF945 New ItemGUID= Old RevisionGUID=69089162-E1FD-4CAD-82A0-F03BA53D7D43 New RevisionGUID=
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9977B75F-CE59-4F2A-8366-DCA9ABEEF945 New ItemGUID= Old RevisionGUID=69089162-E1FD-4CAD-82A0-F03BA53D7D43 New RevisionGUID=
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9977B75F-CE59-4F2A-8366-DCA9ABEEF945 New ItemGUID= Old RevisionGUID=69089162-E1FD-4CAD-82A0-F03BA53D7D43 New RevisionGUID=
+Add component: Footprint Not Found FP-425AC-MFG
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Added Pin To Net: NetName=Net5_1 Pin=D1-1
+Added Pin To Net: NetName=AMS Err Pin Pin=D1-2
+Added Pin To Net: NetName=Latching Delayed Pin=K1-6
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Pin To Net: NetName=Latching Delayed Pin=R1-2
+Added Pin To Net: NetName=AMS OK Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Change Net Name : Old Net Name=Net5_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=AMS Rst Pin Pin=D4-2
+Added Pin To Net: NetName=AMS Rst Pin Pin=K1-7
+Added Net: Name=AMS Rst Pin
+Added Net: Name=NetQ2_1
+Added Net: Name=NetQ2_2
+Added Net: Name=NetQ3_1
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=Latching Relays Member=Component D1 SS14FP
+Add Class Member: Failed to add class member : Component Q2 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q3 MMBT2222AWT3G
+Added Member To Class: ClassName=Latching Relays Member=Component R4 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R6 ERJ-P06J102V
+Add Class Member: Failed to add class member : Component R7 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R8 ERJ-P06J102V
+Add Class Member: Failed to add class member : Component R9 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R10 ERA-6AEB103V

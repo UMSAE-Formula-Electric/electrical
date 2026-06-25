@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=R2-2
+Removed Pin From Net: NetName=NetD3_2 Pin=R3-2
+Change Component Comment : Designator=R3 Old Comment=CRCW08052R80FNEA New Comment=ERA-6AEB103V
+Change Component Comment : Designator=R1 Old Comment=CRCW08052R80FNEA New Comment=ERJ-6GEYJ561V
+Change Component Comment : Designator=R2 Old Comment=CRCW08052R80FNEA New Comment=ERJ-P06J102V
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9977B75F-CE59-4F2A-8366-DCA9ABEEF945 New ItemGUID= Old RevisionGUID=69089162-E1FD-4CAD-82A0-F03BA53D7D43 New RevisionGUID=
+Add component: Footprint Not Found FP-425AC-MFG
+Add component: Footprint Not Found FP-425AC-MFG
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found ONSC-SC-70-3-419-04_V
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Add component: Footprint Not Found FP-CRCW0805-e3-MFG
+Added Pin To Net: NetName=Latch Coil PWR AMS Pin=D1-1
+Added Pin To Net: NetName=AMS Err Pin Pin=D1-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Added Pin To Net: NetName=Latch Coil PWR AMS Pin=D6-1
+Added Pin To Net: NetName=Latch Coil PWR AMS Pin=K1-6
+Added Pin To Net: NetName=Latch Coil PWR AMS Pin=K2-6
+Added Pin To Net: NetName=Latch Coil PWR AMS Pin=K3-6
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q4-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q6-2
+Added Pin To Net: NetName=Latch Coil PWR AMS Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Change Net Name : Old Net Name=Latch Coil PWR AMS New Net Name=Latching Delayed
+Added Pin To Net: NetName=BSPD Err Pin Pin=K3-12
+Added Net: Name=BSPD Err Pin
+Added Pin To Net: NetName=BSPD Rst Pin Pin=K3-7
+Added Net: Name=BSPD Rst Pin
+Added Pin To Net: NetName=IMD Err Pin Pin=D6-2
+Added Pin To Net: NetName=IMD Err Pin Pin=K2-12
+Added Net: Name=IMD Err Pin
+Added Pin To Net: NetName=IMD Rst Pin Pin=K2-7
+Added Pin To Net: NetName=IMD Rst Pin Pin=R2-2
+Added Net: Name=IMD Rst Pin
+Added Pin To Net: NetName=NetQ4_2 Pin=R3-2
+Added Net: Name=NetQ4_2
+Added Net: Name=NetQ5_1
+Added Net: Name=NetQ5_3
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Latching Relays Member=Component D1 150060SS55040
+Add Class Member: Failed to add class member : Component D5 SS14FP
+Add Class Member: Failed to add class member : Component Q2 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q3 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q4 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q5 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component Q6 MMBT2222AWT3G
+Add Class Member: Failed to add class member : Component R6 ERJ-P06J102V
+Add Class Member: Failed to add class member : Component R7 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R8 ERJ-P06J102V
+Add Class Member: Failed to add class member : Component R9 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R10 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R11 ERJ-6GEYJ561V
+Add Class Member: Failed to add class member : Component R12 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R13 ERJ-P06J102V
+Add Class Member: Failed to add class member : Component R14 ERA-6AEB103V
+Add Class Member: Failed to add class member : Component R15 ERJ-P06J102V
+Add Class Member: Failed to add class member : Component R16 ERJ-6GEYJ561V
