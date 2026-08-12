@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=1-Controller.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=2-Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=3-CAN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=4-Connector.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=5-LORA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=6-Sensors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=7-Fusing.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=8-Other_Inputs.SchDoc|SheetNumber= 

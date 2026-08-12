@@ -1,0 +1,1029 @@
+Wire List
+
+<<< Component List >>>
+BM78SPPS5MC2-000                BT2            BM78SPPS5MC2/NC2
+CAP 10nF 100V 0603(1608)        C1             CAPC0603(1608)100_M
+CAP 2.2uF                       C2             CAPC0603(1608)55_N
+CAP 100nF 25V 0603(1608)        C3             CAPC0603(1608)100_N
+CAP 24pF                        C4             CAPC0603(1608)100_N
+CAP 10nF 100V 0603(1608)        C5             CAPC0603(1608)100_M
+CAP 10nF 100V 0603(1608)        C6             CAPC0603(1608)100_M
+CAP 10nF 100V 0603(1608)        C7             CAPC0603(1608)100_M
+CAP 10nF 100V 0603(1608)        C8             CAPC0603(1608)100_M
+CAP 10nF 100V 0603(1608)        C9             CAPC0603(1608)100_M
+CAP 24pF                        C10            CAPC0603(1608)100_N
+Cap                             C11            1608[0603]
+UUD1H101MNL1GS                  C12            NIC-CAPA2-8X10_V
+Cap                             C13            C1210_M
+Cap                             C14            C1210_M
+Cap                             C15            1608[0603]
+UUD1H101MNL1GS                  C16            NIC-CAPA2-8X10_V
+Cap                             C17            C1210_M
+Cap                             C18            C1210_M
+0.1uF                           C19            CAPC1608X90X30NL10T20
+Cap                             C20            1608[0603]
+Cap                             C21            1608[0603]
+CAP 2.2uF 10V 0603(1608)        C22            CAPC0603(1608)55_N
+CAP 10nF 100V 0603(1608)        C23            CAPC0603(1608)100_M
+0.1uF                           C24            CAPC1608X90X30NL10T20
+CAP 10nF 100V 0603(1608)        C25            CAPC0603(1608)100_M
+Cap                             C26            1608[0603]
+Cap                             C28            1608[0603]
+Cap                             C30            1608[0603]
+Cap                             C31            1608[0603]
+Cap                             C32            1608[0603]
+Cap                             C33            1608[0603]
+Cap                             C34            1608[0603]
+Cap                             C35            1608[0603]
+Cap                             C36            1608[0603]
+Cap                             C37            1608[0603]
+Cap                             C38            1608[0603]
+Cap                             C39            1608[0603]
+Cap                             C40            1608[0603]
+Cap                             C41            1608[0603]
+Cap                             C42            1608[0603]
+Cap                             C43            1608[0603]
+Cap                             C44            1608[0603]
+5-1418363-3                     CN1            5-1418363-3
+CLX6F-FKC-CNP1ST1E1BB7D3D3      D1             CLX6C-FKB
+Zener Diode, 5.1V, 5W SMBJ5338B D2             DO-214AA (SMB)
+MMSZ5226B-E3-08                 D3             VISH-SOD-123-2_V
+NUP2105LT1                      D4             ONSC-SOT-23-3-318-08_V
+SZNUP1301ML3T1G                 D5             ONSC-SOT-23-3-318-08_V
+SZNUP1301ML3T1G                 D6             ONSC-SOT-23-3-318-08_V
+SS14-E3/5AT                     D7             VISH-DO-214AC-2_V
+SZNUP1301ML3T1G                 D9             ONSC-SOT-23-3-318-08_V
+SZNUP1301ML3T1G                 D10            ONSC-SOT-23-3-318-08_V
+SZNUP1301ML3T1G                 D11            ONSC-SOT-23-3-318-08_V
+MMSZ5226B-E3-08                 D13            VISH-SOD-123-2_V
+SS14-E3/5AT                     D14            VISH-DO-214AC-2_V
+MMSZ5226B-E3-08                 D15            VISH-SOD-123-2_V
+MMSZ5226B-E3-08                 D16            VISH-SOD-123-2_V
+SS14-E3/5AT                     D17            VISH-DO-214AC-2_V
+SZNUP1301ML3T1G                 D18            ONSC-SOT-23-3-318-08_V
+SS14-E3/5AT                     D19            VISH-DO-214AC-2_V
+MMSZ5226B-E3-08                 D20            VISH-SOD-123-2_V
+NUP2105LT1                      D21            ONSC-SOT-23-3-318-08_V
+SS14-E3/5AT                     D22            VISH-DO-214AC-2_V
+SZNUP1301ML3T1G                 D23            ONSC-SOT-23-3-318-08_V
+SS14-E3/5AT                     D24            VISH-DO-214AC-2_V
+RB521S30T1G                     D25            ONSC-SOD-523-2-502-01_V
+RB521S30T1G                     D26            ONSC-SOD-523-2-502-01_V
+RB521S30T1G                     D27            ONSC-SOD-523-2-502-01_V
+RB521S30T1G                     D28            ONSC-SOD-523-2-502-01_V
+RB521S30T1G                     D29            ONSC-SOD-523-2-502-01_V
+RB521S30T1G                     D30            ONSC-SOD-523-2-502-01_V
+RB521S30T1G                     D31            ONSC-SOD-523-2-502-01_V
+RB521S30T1G                     D32            ONSC-SOD-523-2-502-01_V
+LTST-C170GKT                    DS1            LTST-C170GKT_V
+LTST-C170GKT                    DS2            LTST-C170GKT_V
+LTST-C170GKT                    DS3            LTST-C170GKT_V
+LTST-C170GKT                    DS4            LTST-C170GKT_V
+LTST-C170GKT                    DS5            LTST-C170GKT_V
+PTC 80 mA                       F1             0603 fuse
+PTC 80 mA                       F2             0603 fuse
+PTC 80 mA                       F3             0603 fuse
+PTC 80 mA                       F5             0603 fuse
+PTC 80 mA                       F6             0603 fuse
+PTC 80 mA                       F7             0603 fuse
+1812L075/24DR                   F8             LFUS-1812L07524DR_V
+NSVD4001DR2G                    IReg1          SO8_M
+NSVD4001DR2G                    IReg2          SO8_M
+NSVD4001DR2G                    IReg3          SO8_M
+NSVD4001DR2G                    IReg4          SO8_M
+NSVD4001DR2G                    IReg5          SO8_M
+NSVD4001DR2G                    IReg6          SO8_M
+MH1608-601Y                     L1             BOUR-MH1608_V
+Header 2                        P1             HDR1X2
+Header 2                        P2             HDR1X2
+Header 4                        P3             HDR1X4
+FDN340P                         Q1             FAIR-SSOT3L-3_V
+MMBT2222ALT1                    Q2             ONSC-SOT-23-3-318-08_V
+MMBT2222ALT1                    Q3             ONSC-SOT-23-3-318-08_V
+MMBT2222ALT1                    Q4             ONSC-SOT-23-3-318-08_V
+MMBT2222ALT1                    Q5             ONSC-SOT-23-3-318-08_V
+IRF7413PBFCT                    Q6             INTR-SO-8_V
+NTA7002NT1G                     Q7             ONSC-SC-75-3-463-01_V
+MMBT2222ALT1                    Q8             ONSC-SOT-23-3-318-08_V
+MMBT2222ALT1                    Q9             ONSC-SOT-23-3-318-08_V
+82R                             R1             RESC0603(1608)_N
+60R                             R2             RESC0603(1608)_N
+33R                             R3             RESC0603(1608)_N
+10K                             R4             RESC0603(1608)_N
+Res1                            R5             1608[0603]
+Res1                            R6             1608[0603]
+Res1                            R7             1608[0603]
+100R                            R8             RESC1206(3216)_M
+22R                             R9             RESC0603(1608)_N
+22R                             R10            RESC0603(1608)_N
+120R                            R11            RESC0603(1608)_N
+Res1                            R12            1608[0603]
+Res1                            R13            1608[0603]
+Res1                            R14            1608[0603]
+Res1                            R15            1608[0603]
+Res1                            R16            1608[0603]
+Res1                            R17            1608[0603]
+Res1                            R18            1608[0603]
+Res1                            R19            1608[0603]
+100K 5% 0603(1608)              R20            RESC0603(1608)_N
+51K 5% 0603(1608)               R21            RESC0603(1608)_N
+Res1                            R25            1608[0603]
+Res1                            R26            1608[0603]
+Res1                            R27            1608[0603]
+22R                             R28            RESC0603(1608)_N
+22R                             R29            RESC0603(1608)_N
+120R                            R30            RESC0603(1608)_N
+Res1                            R31            1608[0603]
+Res1                            R32            1608[0603]
+Res1                            R33            1608[0603]
+Res1                            R34            1608[0603]
+Res1                            R35            1608[0603]
+Res1                            R36            1608[0603]
+Res1                            R37            1608[0603]
+Res1                            R38            1608[0603]
+100R 1% 0603(1608)              R39            RESC0603(1608)_N
+Res1                            R40            1608[0603]
+Res1                            R41            1608[0603]
+Res1                            R42            1608[0603]
+Res1                            R43            1608[0603]
+Res1                            R44            1608[0603]
+Res1                            R45            1608[0603]
+Res1                            R46            1608[0603]
+Res1                            R47            1608[0603]
+Res1                            R48            1608[0603]
+Res1                            R49            1608[0603]
+Res1                            R50            1608[0603]
+Res1                            R51            1608[0603]
+Res1                            R52            1608[0603]
+Res1                            R53            1608[0603]
+Res1                            R54            1608[0603]
+Res1                            R55            1608[0603]
+Res1                            R56            1608[0603]
+Res1                            R57            1608[0603]
+Res1                            R58            1608[0603]
+10K 1% 0603(1608)               R59            RESC0603(1608)_N
+51K 5% 0603(1608)               R60            RESC0603(1608)_N
+Res1                            R61            1608[0603]
+Res1                            R62            1608[0603]
+Res1                            R63            1608[0603]
+Res1                            R64            1608[0603]
+Res1                            R65            1608[0603]
+Res1                            R66            1608[0603]
+Res1                            R67            1608[0603]
+Res1                            R68            1608[0603]
+Res1                            R69            1608[0603]
+Res1                            R70            1608[0603]
+Res1                            R71            1608[0603]
+Res1                            R72            1608[0603]
+Res1                            R73            1608[0603]
+Res1                            R74            1608[0603]
+Res1                            R75            1608[0603]
+Res1                            R76            1608[0603]
+Res1                            R77            1608[0603]
+Res1                            R78            1608[0603]
+Res1                            R79            1608[0603]
+LT6654AHS6-3.3                  Ref1           TSOT-23 S6
+OKI-78SR-5                      REG1           OKI-78SR-5/1.5-W - Horizontal
+OKI-78SR-3.3                    REG2           Reg - TH, 3 pin, 100 mil Pitc
+STM32F446VET7                   U1             STM-LQFP100_L
+SN65HVD232DR                    U2             D0008A_M
+SN65HVD232DR                    U3             D0008A_M
+PE014005                        U4             PE014005
+7A-8.000MAAJ-T                  X1             2-SMD, No Lead
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00203] WH_SP_R_IN
+        CN1        27      27             PASSIVE     5-1418363-3
+        R72        1       1              PASSIVE     Res1
+        R73        1       1              PASSIVE     Res1
+
+[00202] WH_SP_L_IN
+        CN1        30      30             PASSIVE     5-1418363-3
+        R74        1       1              PASSIVE     Res1
+        R75        1       1              PASSIVE     Res1
+
+[00200] VCU Power
+        R72        2       2              PASSIVE     Res1
+        R74        2       2              PASSIVE     Res1
+        R76        2       2              PASSIVE     Res1
+        R78        2       2              PASSIVE     Res1
+
+[00201] VCU Power
+
+[00199] Vcap2
+        C2         2       2              PASSIVE     CAP 2.2uF
+        U1         73      VCAP_2         PASSIVE     STM32F446VET7
+
+[00198] Vcap1
+        C22        2       2              PASSIVE     CAP 2.2uF 10V 0603(1608)
+        U1         48      VCAP_1         PASSIVE     STM32F446VET7
+
+[00197] Vbatt
+        C12        1       1              PASSIVE     UUD1H101MNL1GS
+        C13        2       2              PASSIVE     Cap
+        C15        2       2              PASSIVE     Cap
+        C16        1       1              PASSIVE     UUD1H101MNL1GS
+        C17        2       2              PASSIVE     Cap
+        D2         K       1              PASSIVE     Zener Diode, 5.1V, 5W SMBJ5338B
+        Q1         2       SOURCE         PASSIVE     FDN340P
+        R25        2       2              PASSIVE     Res1
+        R31        2       2              PASSIVE     Res1
+        R36        2       2              PASSIVE     Res1
+        R43        1       1              PASSIVE     Res1
+        R46        2       2              PASSIVE     Res1
+        Ref1       4       Vin            PASSIVE     LT6654AHS6-3.3
+        REG1       1       Vin            PASSIVE     OKI-78SR-5
+        REG2       1       Vin            PASSIVE     OKI-78SR-3.3
+
+[00196] UC Vbatt
+        C33        2       2              PASSIVE     Cap
+        D18        3       K/A            PASSIVE     SZNUP1301ML3T1G
+        R44        2       2              PASSIVE     Res1
+        R45        2       2              PASSIVE     Res1
+        U1         32      PA7            I/O         STM32F446VET7
+
+[00195] UC TSA BTN
+        C30        2       2              PASSIVE     Cap
+        D13        2       K              PASSIVE     MMSZ5226B-E3-08
+        R27        2       2              PASSIVE     Res1
+        U1         35      PB0            I/O         STM32F446VET7
+
+[00194] UC Traction Btn
+        C38        2       2              PASSIVE     Cap
+        D20        2       K              PASSIVE     MMSZ5226B-E3-08
+        R38        2       2              PASSIVE     Res1
+        U1         34      PC5            I/O         STM32F446VET7
+
+[00193] UC SWO F
+        CN1        15      15             PASSIVE     5-1418363-3
+        F6         2       2              PASSIVE     PTC 80 mA
+        P3         3       3              PASSIVE     Header 4
+
+[00192] UC SWO
+        D10        3       K/A            PASSIVE     SZNUP1301ML3T1G
+        F6         1       1              PASSIVE     PTC 80 mA
+        U1         89      PB3(JTDO/TRACESI/O         STM32F446VET7
+
+[00191] UC SWCLK F
+        CN1        18      18             PASSIVE     5-1418363-3
+        F7         2       2              PASSIVE     PTC 80 mA
+        P3         4       4              PASSIVE     Header 4
+
+[00190] UC SWCLK
+        D11        3       K/A            PASSIVE     SZNUP1301ML3T1G
+        F7         1       1              PASSIVE     PTC 80 mA
+        U1         76      PA14(JTCK-SWCLKI/O         STM32F446VET7
+
+[00189] UC SW BTN
+        BT2        5       SW_BTN         INPUT       BM78SPPS5MC2-000
+        U1         60      PD13           I/O         STM32F446VET7
+
+[00188] UC Shutdown Tap
+        C32        2       2              PASSIVE     Cap
+        D16        2       K              PASSIVE     MMSZ5226B-E3-08
+        R41        1       1              PASSIVE     Res1
+        U1         87      PD6            I/O         STM32F446VET7
+
+[00187] UC Regen Ctrl
+        R39        2       2              PASSIVE     100R 1% 0603(1608)
+        R59        2       2              PASSIVE     10K 1% 0603(1608)
+        U1         84      PD3            I/O         STM32F446VET7
+
+[00186] UC Launch Btn
+        C31        2       2              PASSIVE     Cap
+        D15        2       K              PASSIVE     MMSZ5226B-E3-08
+        R35        2       2              PASSIVE     Res1
+        U1         37      PB2-BOOT1(PB2) I/O         STM32F446VET7
+
+[00185] UC BT Tx
+        R33        2       2              PASSIVE     Res1
+        U1         56      PD9            I/O         STM32F446VET7
+
+[00184] UC BT Rx
+        R32        2       2              PASSIVE     Res1
+        U1         55      PD8            I/O         STM32F446VET7
+
+[00183] UC BPS
+        C26        2       2              PASSIVE     Cap
+        D3         2       K              PASSIVE     MMSZ5226B-E3-08
+        R60        2       2              PASSIVE     51K 5% 0603(1608)
+        U1         17      PC2            I/O         STM32F446VET7
+
+[00182] UC APPS 2
+        C20        2       2              PASSIVE     Cap
+        D5         3       K/A            PASSIVE     SZNUP1301ML3T1G
+        R13        2       2              PASSIVE     Res1
+        R15        2       2              PASSIVE     Res1
+        U1         30      PA5            I/O         STM32F446VET7
+
+[00181] UC APPS 1
+        C21        2       2              PASSIVE     Cap
+        D6         3       K/A            PASSIVE     SZNUP1301ML3T1G
+        R17        2       2              PASSIVE     Res1
+        R19        2       2              PASSIVE     Res1
+        U1         15      PC0            I/O         STM32F446VET7
+
+[00180] TSA_BTN_Interm
+        D14        2       K              PASSIVE     SS14-E3/5AT
+        R26        2       2              PASSIVE     Res1
+        R27        1       1              PASSIVE     Res1
+
+[00179] TSA LED 2 Output
+        CN1        16      16             PASSIVE     5-1418363-3
+        IReg3      5       Iout           PASSIVE     NSVD4001DR2G
+        IReg3      6       Iout           PASSIVE     NSVD4001DR2G
+        IReg3      7       Iout           PASSIVE     NSVD4001DR2G
+        IReg3      8       Iout           PASSIVE     NSVD4001DR2G
+
+[00178] TSA LED 2
+        R55        2       2              PASSIVE     Res1
+        U1         2       PE3            I/O         STM32F446VET7
+
+[00177] TSA LED 1 Output
+        CN1        13      13             PASSIVE     5-1418363-3
+        IReg1      5       Iout           PASSIVE     NSVD4001DR2G
+        IReg1      6       Iout           PASSIVE     NSVD4001DR2G
+        IReg1      7       Iout           PASSIVE     NSVD4001DR2G
+        IReg1      8       Iout           PASSIVE     NSVD4001DR2G
+
+[00176] TSA LED 1
+        R49        2       2              PASSIVE     Res1
+        U1         4       PE5            I/O         STM32F446VET7
+
+[00175] TSA BTN
+        CN1        7       7              PASSIVE     5-1418363-3
+        R25        1       1              PASSIVE     Res1
+        R26        1       1              PASSIVE     Res1
+
+[00174] Traction Control Interm
+        D22        2       K              PASSIVE     SS14-E3/5AT
+        R37        2       2              PASSIVE     Res1
+        R38        1       1              PASSIVE     Res1
+
+[00173] Traction Control
+        CN1        11      11             PASSIVE     5-1418363-3
+        R36        1       1              PASSIVE     Res1
+        R37        1       1              PASSIVE     Res1
+
+[00172] TC LED Output
+        CN1        23      23             PASSIVE     5-1418363-3
+        IReg6      5       Iout           PASSIVE     NSVD4001DR2G
+        IReg6      6       Iout           PASSIVE     NSVD4001DR2G
+        IReg6      7       Iout           PASSIVE     NSVD4001DR2G
+        IReg6      8       Iout           PASSIVE     NSVD4001DR2G
+
+[00171] TC LED
+        R68        2       2              PASSIVE     Res1
+        U1         24      PA1            I/O         STM32F446VET7
+
+[00170] SWDIO F
+        CN1        19      19             PASSIVE     5-1418363-3
+        F3         2       2              PASSIVE     PTC 80 mA
+        P3         1       1              PASSIVE     Header 4
+
+[00169] SWDIO
+        D23        3       K/A            PASSIVE     SZNUP1301ML3T1G
+        F3         1       1              PASSIVE     PTC 80 mA
+        U1         72      PA13(JTMS-SWDIOI/O         STM32F446VET7
+
+[00168] SSB Power
+        F8         2       2              PASSIVE     1812L075/24DR
+        Q1         3       DRAIN          PASSIVE     FDN340P
+
+[00167] Shutdown Tap Interm
+        D17        2       K              PASSIVE     SS14-E3/5AT
+        R40        1       1              PASSIVE     Res1
+        R41        2       2              PASSIVE     Res1
+
+[00166] Shutdown Tap
+        CN1        31      31             PASSIVE     5-1418363-3
+        R40        2       2              PASSIVE     Res1
+        R42        2       2              PASSIVE     Res1
+
+[00165] Shutdown Control
+        R61        2       2              PASSIVE     Res1
+        R62        2       2              PASSIVE     Res1
+        U1         43      PE12           I/O         STM32F446VET7
+
+[00164] Shutdown Circuit Out
+        CN1        29      29             PASSIVE     5-1418363-3
+        U4         11      11             PASSIVE     PE014005
+
+[00163] Shutdown Circuit In
+        CN1        28      28             PASSIVE     5-1418363-3
+        U4         12      12             PASSIVE     PE014005
+
+[00162] Serial Tx
+        P2         1       1              PASSIVE     Header 2
+        U1         25      PA2            I/O         STM32F446VET7
+
+[00161] Serial Rx
+        P2         2       2              PASSIVE     Header 2
+        U1         26      PA3            I/O         STM32F446VET7
+
+[00160] Sensor_CAN_P
+        CN1        37      37             PASSIVE     5-1418363-3
+        D21        1       K              PASSIVE     NUP2105LT1
+        R30        2       2              PASSIVE     120R
+        U3         7       CANH           I/O         SN65HVD232DR
+
+[00159] Sensor_CAN_N
+        CN1        38      38             PASSIVE     5-1418363-3
+        D21        2       K              PASSIVE     NUP2105LT1
+        R30        1       1              PASSIVE     120R
+        U3         6       CANL           I/O         SN65HVD232DR
+
+[00158] Sensor CAN Tx
+        R29        2       2              PASSIVE     22R
+        U1         92      PB6            I/O         STM32F446VET7
+
+[00157] Sensor CAN Rx
+        R28        2       2              PASSIVE     22R
+        U1         91      PB5            I/O         STM32F446VET7
+
+[00156] RTD LED 2 Output
+        CN1        17      17             PASSIVE     5-1418363-3
+        IReg4      5       Iout           PASSIVE     NSVD4001DR2G
+        IReg4      6       Iout           PASSIVE     NSVD4001DR2G
+        IReg4      7       Iout           PASSIVE     NSVD4001DR2G
+        IReg4      8       Iout           PASSIVE     NSVD4001DR2G
+
+[00155] RTD LED 2
+        R58        2       2              PASSIVE     Res1
+        U1         1       PE2            I/O         STM32F446VET7
+
+[00154] RTD LED 1 Output
+        CN1        14      14             PASSIVE     5-1418363-3
+        IReg2      5       Iout           PASSIVE     NSVD4001DR2G
+        IReg2      6       Iout           PASSIVE     NSVD4001DR2G
+        IReg2      7       Iout           PASSIVE     NSVD4001DR2G
+        IReg2      8       Iout           PASSIVE     NSVD4001DR2G
+
+[00153] RTD LED 1
+        R52        2       2              PASSIVE     Res1
+        U1         3       PE4            I/O         STM32F446VET7
+
+[00152] RR_WHEEL_S_µC
+        C41        2       2              PASSIVE     Cap
+        D25        2       A              PASSIVE     RB521S30T1G
+        D26        1       K              PASSIVE     RB521S30T1G
+        R73        2       2              PASSIVE     Res1
+        U1         78      PC10           I/O         STM32F446VET7
+
+[00151] RL_WHEEL_S_µC
+        C42        2       2              PASSIVE     Cap
+        D27        2       A              PASSIVE     RB521S30T1G
+        D28        1       K              PASSIVE     RB521S30T1G
+        R75        2       2              PASSIVE     Res1
+        U1         79      PC11           I/O         STM32F446VET7
+
+[00150] Ph1 OSC Out
+        C10        2       2              PASSIVE     CAP 24pF
+        U1         13      PH1-OSC_OUT(PH1I/O         STM32F446VET7
+        X1         1       1              PASSIVE     7A-8.000MAAJ-T
+
+[00149] Ph0 OSC In
+        C4         2       2              PASSIVE     CAP 24pF
+        U1         12      PH0-OSC_IN(PH0)I/O         STM32F446VET7
+        X1         2       2              PASSIVE     7A-8.000MAAJ-T
+
+[00148] NRST F
+        CN1        12      12             PASSIVE     5-1418363-3
+        F5         2       2              PASSIVE     PTC 80 mA
+        P3         2       2              PASSIVE     Header 4
+
+[00147] NRST
+        C1         2       2              PASSIVE     CAP 10nF 100V 0603(1608)
+        D9         3       K/A            PASSIVE     SZNUP1301ML3T1G
+        F5         1       1              PASSIVE     PTC 80 mA
+        U1         14      NRST           I/O         STM32F446VET7
+
+[00101] NetR43_2
+        R43        2       2              PASSIVE     Res1
+        R44        1       1              PASSIVE     Res1
+
+[00100] NetR29_1
+        R29        1       1              PASSIVE     22R
+        U3         1       D              INPUT       SN65HVD232DR
+
+[00099] NetR28_1
+        R28        1       1              PASSIVE     22R
+        U3         4       R              OUTPUT      SN65HVD232DR
+
+[00098] NetR16_2
+        R16        2       2              PASSIVE     Res1
+        R17        1       1              PASSIVE     Res1
+
+[00097] NetR12_2
+        R12        2       2              PASSIVE     Res1
+        R13        1       1              PASSIVE     Res1
+
+[00096] NetR10_1
+        R10        1       1              PASSIVE     22R
+        U2         1       D              INPUT       SN65HVD232DR
+
+[00095] NetR9_1
+        R9         1       1              PASSIVE     22R
+        U2         4       R              OUTPUT      SN65HVD232DR
+
+[00094] NetQ9_1
+        Q9         1       B              PASSIVE     MMBT2222ALT1
+        R68        1       1              PASSIVE     Res1
+
+[00093] NetQ8_1
+        Q8         1       B              PASSIVE     MMBT2222ALT1
+        R65        1       1              PASSIVE     Res1
+
+[00092] NetQ7_1
+        Q7         1       G              PASSIVE     NTA7002NT1G
+        R61        1       1              PASSIVE     Res1
+
+[00091] NetQ6_5
+        Q6         5       D              PASSIVE     IRF7413PBFCT
+        Q6         6       D              PASSIVE     IRF7413PBFCT
+        Q6         7       D              PASSIVE     IRF7413PBFCT
+        Q6         8       D              PASSIVE     IRF7413PBFCT
+
+[00090] NetQ6_4
+        Q6         4       G              PASSIVE     IRF7413PBFCT
+        R39        1       1              PASSIVE     100R 1% 0603(1608)
+
+[00089] NetQ5_1
+        Q5         1       B              PASSIVE     MMBT2222ALT1
+        R58        1       1              PASSIVE     Res1
+
+[00088] NetQ4_1
+        Q4         1       B              PASSIVE     MMBT2222ALT1
+        R55        1       1              PASSIVE     Res1
+
+[00087] NetQ3_1
+        Q3         1       B              PASSIVE     MMBT2222ALT1
+        R52        1       1              PASSIVE     Res1
+
+[00086] NetQ2_1
+        Q2         1       B              PASSIVE     MMBT2222ALT1
+        R49        1       1              PASSIVE     Res1
+
+[00084] NetL1_2
+        L1         2       2              PASSIVE     MH1608-601Y
+        U1         22      VDDA           POWER       STM32F446VET7
+
+[00083] NetIReg6_4
+        IReg6      4       GND            PASSIVE     NSVD4001DR2G
+        Q9         3       C              PASSIVE     MMBT2222ALT1
+        R67        2       2              PASSIVE     Res1
+
+[00082] NetIReg6_3
+        IReg6      3       Rext           PASSIVE     NSVD4001DR2G
+        R66        2       2              PASSIVE     Res1
+
+[00080] NetIReg5_4
+        IReg5      4       GND            PASSIVE     NSVD4001DR2G
+        Q8         3       C              PASSIVE     MMBT2222ALT1
+        R64        2       2              PASSIVE     Res1
+
+[00079] NetIReg5_3
+        IReg5      3       Rext           PASSIVE     NSVD4001DR2G
+        R63        2       2              PASSIVE     Res1
+
+[00077] NetIReg4_4
+        IReg4      4       GND            PASSIVE     NSVD4001DR2G
+        Q5         3       C              PASSIVE     MMBT2222ALT1
+        R57        2       2              PASSIVE     Res1
+
+[00076] NetIReg4_3
+        IReg4      3       Rext           PASSIVE     NSVD4001DR2G
+        R56        2       2              PASSIVE     Res1
+
+[00074] NetIReg3_4
+        IReg3      4       GND            PASSIVE     NSVD4001DR2G
+        Q4         3       C              PASSIVE     MMBT2222ALT1
+        R54        2       2              PASSIVE     Res1
+
+[00073] NetIReg3_3
+        IReg3      3       Rext           PASSIVE     NSVD4001DR2G
+        R53        2       2              PASSIVE     Res1
+
+[00071] NetIReg2_4
+        IReg2      4       GND            PASSIVE     NSVD4001DR2G
+        Q3         3       C              PASSIVE     MMBT2222ALT1
+        R51        2       2              PASSIVE     Res1
+
+[00070] NetIReg2_3
+        IReg2      3       Rext           PASSIVE     NSVD4001DR2G
+        R50        2       2              PASSIVE     Res1
+
+[00068] NetIReg1_4
+        IReg1      4       GND            PASSIVE     NSVD4001DR2G
+        Q2         3       C              PASSIVE     MMBT2222ALT1
+        R48        2       2              PASSIVE     Res1
+
+[00067] NetIReg1_3
+        IReg1      3       Rext           PASSIVE     NSVD4001DR2G
+        R47        2       2              PASSIVE     Res1
+
+[00065] NetDS5_1
+        DS5        1       A              PASSIVE     LTST-C170GKT
+        R71        1       1              PASSIVE     Res1
+
+[00064] NetDS4_1
+        DS4        1       A              PASSIVE     LTST-C170GKT
+        R70        1       1              PASSIVE     Res1
+
+[00063] NetDS3_1
+        DS3        1       A              PASSIVE     LTST-C170GKT
+        R69        2       2              PASSIVE     Res1
+
+[00062] NetDS2_1
+        DS2        1       A              PASSIVE     LTST-C170GKT
+        R7         2       2              PASSIVE     Res1
+
+[00061] NetDS1_1
+        DS1        1       A              PASSIVE     LTST-C170GKT
+        R6         2       2              PASSIVE     Res1
+
+[00060] NetD24_1
+        D24        1       A              PASSIVE     SS14-E3/5AT
+        Q7         3       D              PASSIVE     NTA7002NT1G
+        U4         A1      A1             PASSIVE     PE014005
+
+[00059] NetD2_A
+        D2         A       2              PASSIVE     Zener Diode, 5.1V, 5W SMBJ5338B
+        Q1         1       GATE           PASSIVE     FDN340P
+        R5         2       2              PASSIVE     Res1
+
+[00058] NetD1_3
+        D1         3       R              PASSIVE     CLX6F-FKC-CNP1ST1E1BB7D3D3
+        R1         1       1              PASSIVE     82R
+
+[00057] NetD1_2
+        D1         2       G              PASSIVE     CLX6F-FKC-CNP1ST1E1BB7D3D3
+        R2         1       1              PASSIVE     60R
+
+[00056] NetD1_1
+        D1         1       B              PASSIVE     CLX6F-FKC-CNP1ST1E1BB7D3D3
+        R3         1       1              PASSIVE     33R
+
+[00039] LED IND2
+        BT2        12      P1_5           OUTPUT      BM78SPPS5MC2-000
+        R71        2       2              PASSIVE     Res1
+
+[00038] LED IND1
+        BT2        11      P0_4           OUTPUT      BM78SPPS5MC2-000
+        R70        2       2              PASSIVE     Res1
+
+[00037] LED1
+        BT2        30      LED1           OUTPUT      BM78SPPS5MC2-000
+        DS3        2       K              PASSIVE     LTST-C170GKT
+
+[00036] LC LED Output
+        CN1        24      24             PASSIVE     5-1418363-3
+        IReg5      5       Iout           PASSIVE     NSVD4001DR2G
+        IReg5      6       Iout           PASSIVE     NSVD4001DR2G
+        IReg5      7       Iout           PASSIVE     NSVD4001DR2G
+        IReg5      8       Iout           PASSIVE     NSVD4001DR2G
+
+[00035] LC LED
+        R65        2       2              PASSIVE     Res1
+        U1         23      PA0-WKUP(PA0)  I/O         STM32F446VET7
+
+[00034] Launch Control Interm
+        D19        2       K              PASSIVE     SS14-E3/5AT
+        R34        2       2              PASSIVE     Res1
+        R35        1       1              PASSIVE     Res1
+
+[00033] Launch Control
+        CN1        9       9              PASSIVE     5-1418363-3
+        R31        1       1              PASSIVE     Res1
+        R34        1       1              PASSIVE     Res1
+
+[00032] Internal Connect
+        BT2        6       LDO33_O        POWER       BM78SPPS5MC2-000
+        BT2        7       VDD_IO         POWER       BM78SPPS5MC2-000
+        R69        1       1              PASSIVE     Res1
+
+[00031] GND
+        BT2        1       GND_2          POWER       BM78SPPS5MC2-000
+        BT2        2       GND_3          POWER       BM78SPPS5MC2-000
+        BT2        3       GND_4          POWER       BM78SPPS5MC2-000
+        BT2        31      GND_5          POWER       BM78SPPS5MC2-000
+        BT2        32      GND_6          POWER       BM78SPPS5MC2-000
+        BT2        33      GND            POWER       BM78SPPS5MC2-000
+        C1         1       1              PASSIVE     CAP 10nF 100V 0603(1608)
+        C2         1       1              PASSIVE     CAP 2.2uF
+        C3         1       1              PASSIVE     CAP 100nF 25V 0603(1608)
+        C4         1       1              PASSIVE     CAP 24pF
+        C5         1       1              PASSIVE     CAP 10nF 100V 0603(1608)
+        C6         1       1              PASSIVE     CAP 10nF 100V 0603(1608)
+        C7         1       1              PASSIVE     CAP 10nF 100V 0603(1608)
+        C8         1       1              PASSIVE     CAP 10nF 100V 0603(1608)
+        C9         1       1              PASSIVE     CAP 10nF 100V 0603(1608)
+        C10        1       1              PASSIVE     CAP 24pF
+        C11        1       1              PASSIVE     Cap
+        C12        2       2              PASSIVE     UUD1H101MNL1GS
+        C13        1       1              PASSIVE     Cap
+        C14        1       1              PASSIVE     Cap
+        C15        1       1              PASSIVE     Cap
+        C16        2       2              PASSIVE     UUD1H101MNL1GS
+        C17        1       1              PASSIVE     Cap
+        C18        1       1              PASSIVE     Cap
+        C19        1       1              PASSIVE     0.1uF
+        C20        1       1              PASSIVE     Cap
+        C21        1       1              PASSIVE     Cap
+        C22        1       1              PASSIVE     CAP 2.2uF 10V 0603(1608)
+        C23        1       1              PASSIVE     CAP 10nF 100V 0603(1608)
+        C24        1       1              PASSIVE     0.1uF
+        C25        1       1              PASSIVE     CAP 10nF 100V 0603(1608)
+        C26        1       1              PASSIVE     Cap
+        C28        1       1              PASSIVE     Cap
+        C30        1       1              PASSIVE     Cap
+        C31        1       1              PASSIVE     Cap
+        C32        1       1              PASSIVE     Cap
+        C33        1       1              PASSIVE     Cap
+        C34        1       1              PASSIVE     Cap
+        C35        1       1              PASSIVE     Cap
+        C36        1       1              PASSIVE     Cap
+        C37        1       1              PASSIVE     Cap
+        C38        1       1              PASSIVE     Cap
+        C39        1       1              PASSIVE     Cap
+        C40        1       1              PASSIVE     Cap
+        C41        1       1              PASSIVE     Cap
+        C42        1       1              PASSIVE     Cap
+        C43        1       1              PASSIVE     Cap
+        C44        1       1              PASSIVE     Cap
+        CN1        3       3              PASSIVE     5-1418363-3
+        CN1        6       6              PASSIVE     5-1418363-3
+        CN1        21      21             PASSIVE     5-1418363-3
+        CN1        36      36             PASSIVE     5-1418363-3
+        CN1        39      39             PASSIVE     5-1418363-3
+        D3         1       A              PASSIVE     MMSZ5226B-E3-08
+        D4         3       K              PASSIVE     NUP2105LT1
+        D5         1       A              PASSIVE     SZNUP1301ML3T1G
+        D6         1       A              PASSIVE     SZNUP1301ML3T1G
+        D7         1       A              PASSIVE     SS14-E3/5AT
+        D9         1       A              PASSIVE     SZNUP1301ML3T1G
+        D10        1       A              PASSIVE     SZNUP1301ML3T1G
+        D11        1       A              PASSIVE     SZNUP1301ML3T1G
+        D13        1       A              PASSIVE     MMSZ5226B-E3-08
+        D14        1       A              PASSIVE     SS14-E3/5AT
+        D15        1       A              PASSIVE     MMSZ5226B-E3-08
+        D16        1       A              PASSIVE     MMSZ5226B-E3-08
+        D17        1       A              PASSIVE     SS14-E3/5AT
+        D18        1       A              PASSIVE     SZNUP1301ML3T1G
+        D19        1       A              PASSIVE     SS14-E3/5AT
+        D20        1       A              PASSIVE     MMSZ5226B-E3-08
+        D21        3       K              PASSIVE     NUP2105LT1
+        D22        1       A              PASSIVE     SS14-E3/5AT
+        D23        1       A              PASSIVE     SZNUP1301ML3T1G
+        D26        2       A              PASSIVE     RB521S30T1G
+        D28        2       A              PASSIVE     RB521S30T1G
+        D30        2       A              PASSIVE     RB521S30T1G
+        D32        2       A              PASSIVE     RB521S30T1G
+        DS1        2       K              PASSIVE     LTST-C170GKT
+        DS2        2       K              PASSIVE     LTST-C170GKT
+        DS4        2       K              PASSIVE     LTST-C170GKT
+        DS5        2       K              PASSIVE     LTST-C170GKT
+        Q2         2       E              PASSIVE     MMBT2222ALT1
+        Q3         2       E              PASSIVE     MMBT2222ALT1
+        Q4         2       E              PASSIVE     MMBT2222ALT1
+        Q5         2       E              PASSIVE     MMBT2222ALT1
+        Q6         1       S              PASSIVE     IRF7413PBFCT
+        Q6         2       S              PASSIVE     IRF7413PBFCT
+        Q6         3       S              PASSIVE     IRF7413PBFCT
+        Q7         2       S              PASSIVE     NTA7002NT1G
+        Q8         2       E              PASSIVE     MMBT2222ALT1
+        Q9         2       E              PASSIVE     MMBT2222ALT1
+        R1         2       2              PASSIVE     82R
+        R2         2       2              PASSIVE     60R
+        R3         2       2              PASSIVE     33R
+        R4         2       2              PASSIVE     10K
+        R5         1       1              PASSIVE     Res1
+        R8         1       1              PASSIVE     100R
+        R14        1       1              PASSIVE     Res1
+        R15        1       1              PASSIVE     Res1
+        R18        1       1              PASSIVE     Res1
+        R19        1       1              PASSIVE     Res1
+        R42        1       1              PASSIVE     Res1
+        R45        1       1              PASSIVE     Res1
+        R46        1       1              PASSIVE     Res1
+        R59        1       1              PASSIVE     10K 1% 0603(1608)
+        R62        1       1              PASSIVE     Res1
+        Ref1       1       GND            PASSIVE     LT6654AHS6-3.3
+        Ref1       2       GND            PASSIVE     LT6654AHS6-3.3
+        REG1       2       GND            PASSIVE     OKI-78SR-5
+        REG2       2       GND            PASSIVE     OKI-78SR-3.3
+        U1         10      VSS            POWER       STM32F446VET7
+        U1         20      VSSA           POWER       STM32F446VET7
+        U1         27      VSS            POWER       STM32F446VET7
+        U1         49      VSS            POWER       STM32F446VET7
+        U1         74      VSS            POWER       STM32F446VET7
+        U1         99      VSS            POWER       STM32F446VET7
+        U2         2       GND            POWER       SN65HVD232DR
+        U3         2       GND            POWER       SN65HVD232DR
+
+[00030] GLV Power In
+        CN1        22      22             PASSIVE     5-1418363-3
+        F8         1       1              PASSIVE     1812L075/24DR
+
+[00029] EXTRA_IN_2_uC
+        C44        2       2              PASSIVE     Cap
+        D31        2       A              PASSIVE     RB521S30T1G
+        D32        1       K              PASSIVE     RB521S30T1G
+        R79        2       2              PASSIVE     Res1
+        U1         81      PD0            I/O         STM32F446VET7
+
+[00028] EXTRA_IN_2
+        CN1        33      33             PASSIVE     5-1418363-3
+        R78        1       1              PASSIVE     Res1
+        R79        1       1              PASSIVE     Res1
+
+[00027] EXTRA_IN_1_uC
+        C43        2       2              PASSIVE     Cap
+        D29        2       A              PASSIVE     RB521S30T1G
+        D30        1       K              PASSIVE     RB521S30T1G
+        R77        2       2              PASSIVE     Res1
+        U1         82      PD1            I/O         STM32F446VET7
+
+[00026] EXTRA_IN_1
+        CN1        32      32             PASSIVE     5-1418363-3
+        R76        1       1              PASSIVE     Res1
+        R77        1       1              PASSIVE     Res1
+
+[00025] Debug LED R
+        D1         4       R              PASSIVE     CLX6F-FKC-CNP1ST1E1BB7D3D3
+        U1         41      PE10           I/O         STM32F446VET7
+
+[00024] Debug LED G
+        D1         5       G              PASSIVE     CLX6F-FKC-CNP1ST1E1BB7D3D3
+        U1         40      PE9            I/O         STM32F446VET7
+
+[00023] Debug LED B
+        D1         6       B              PASSIVE     CLX6F-FKC-CNP1ST1E1BB7D3D3
+        U1         39      PE8            I/O         STM32F446VET7
+
+[00022] CAN_P
+        CN1        34      34             PASSIVE     5-1418363-3
+        D4         1       K              PASSIVE     NUP2105LT1
+        R11        2       2              PASSIVE     120R
+        U2         7       CANH           I/O         SN65HVD232DR
+
+[00021] CAN_N
+        CN1        35      35             PASSIVE     5-1418363-3
+        D4         2       K              PASSIVE     NUP2105LT1
+        R11        1       1              PASSIVE     120R
+        U2         6       CANL           I/O         SN65HVD232DR
+
+[00020] CAN Tx
+        R10        2       2              PASSIVE     22R
+        U1         96      PB9            I/O         STM32F446VET7
+
+[00019] CAN Rx
+        R9         2       2              PASSIVE     22R
+        U1         95      PB8            I/O         STM32F446VET7
+
+[00018] BT Tx
+        BT2        23      HCI_TXD        OUTPUT      BM78SPPS5MC2-000
+        R32        1       1              PASSIVE     Res1
+
+[00017] BT Rx
+        BT2        22      HCI_RXD        INPUT       BM78SPPS5MC2-000
+        R33        1       1              PASSIVE     Res1
+
+[00016] BT Reset
+        BT2        21      RST_N          INPUT       BM78SPPS5MC2-000
+        U1         57      PD10           I/O         STM32F446VET7
+
+[00015] BT P2_4
+        BT2        19      P2_4           INPUT       BM78SPPS5MC2-000
+        U1         61      PD14           I/O         STM32F446VET7
+
+[00014] BT P2_0
+        BT2        18      P2_0           INPUT       BM78SPPS5MC2-000
+        U1         62      PD15           I/O         STM32F446VET7
+
+[00013] BT NRTS
+        BT2        17      P0_0           I/O         BM78SPPS5MC2-000
+        U1         58      PD11           I/O         STM32F446VET7
+
+[00012] BT NCTS
+        BT2        15      P1_7           I/O         BM78SPPS5MC2-000
+        U1         59      PD12           I/O         STM32F446VET7
+
+[00011] BT EAN
+        BT2        20      EAN            INPUT       BM78SPPS5MC2-000
+        U1         88      PD7            I/O         STM32F446VET7
+
+[00010] BPS Interm
+        D7         2       K              PASSIVE     SS14-E3/5AT
+        R21        2       2              PASSIVE     51K 5% 0603(1608)
+        R60        1       1              PASSIVE     51K 5% 0603(1608)
+
+[00009] BOOT0
+        P1         2       2              PASSIVE     Header 2
+        R4         1       1              PASSIVE     10K
+        U1         94      BOOT0          INPUT       STM32F446VET7
+
+[00008] APPS 2 Pwr
+        CN1        5       5              PASSIVE     5-1418363-3
+        F2         2       2              PASSIVE     PTC 80 mA
+
+[00007] APPS 2 5v
+        CN1        4       4              PASSIVE     5-1418363-3
+        R12        1       1              PASSIVE     Res1
+        R14        2       2              PASSIVE     Res1
+
+[00006] APPS 1 Pwr
+        CN1        2       2              PASSIVE     5-1418363-3
+        F1         2       2              PASSIVE     PTC 80 mA
+
+[00005] APPS 1 5v
+        CN1        1       1              PASSIVE     5-1418363-3
+        R16        1       1              PASSIVE     Res1
+        R18        2       2              PASSIVE     Res1
+
+[00004] \B\r\a\k\e\ \P\r\e\s\s
+        CN1        10      10             PASSIVE     5-1418363-3
+        R20        1       1              PASSIVE     100K 5% 0603(1608)
+        R21        1       1              PASSIVE     51K 5% 0603(1608)
+
+[00003] 5v
+        C14        2       2              PASSIVE     Cap
+        C34        2       2              PASSIVE     Cap
+        C35        2       2              PASSIVE     Cap
+        C36        2       2              PASSIVE     Cap
+        C37        2       2              PASSIVE     Cap
+        C39        2       2              PASSIVE     Cap
+        C40        2       2              PASSIVE     Cap
+        D24        2       K              PASSIVE     SS14-E3/5AT
+        F1         1       1              PASSIVE     PTC 80 mA
+        F2         1       1              PASSIVE     PTC 80 mA
+        IReg1      1       Vin            PASSIVE     NSVD4001DR2G
+        IReg2      1       Vin            PASSIVE     NSVD4001DR2G
+        IReg3      1       Vin            PASSIVE     NSVD4001DR2G
+        IReg4      1       Vin            PASSIVE     NSVD4001DR2G
+        IReg5      1       Vin            PASSIVE     NSVD4001DR2G
+        IReg6      1       Vin            PASSIVE     NSVD4001DR2G
+        R6         1       1              PASSIVE     Res1
+        R20        2       2              PASSIVE     100K 5% 0603(1608)
+        R47        1       1              PASSIVE     Res1
+        R48        1       1              PASSIVE     Res1
+        R50        1       1              PASSIVE     Res1
+        R51        1       1              PASSIVE     Res1
+        R53        1       1              PASSIVE     Res1
+        R54        1       1              PASSIVE     Res1
+        R56        1       1              PASSIVE     Res1
+        R57        1       1              PASSIVE     Res1
+        R63        1       1              PASSIVE     Res1
+        R64        1       1              PASSIVE     Res1
+        R66        1       1              PASSIVE     Res1
+        R67        1       1              PASSIVE     Res1
+        REG1       3       Vout           PASSIVE     OKI-78SR-5
+        U4         A2      A2             PASSIVE     PE014005
+
+[00002] 3v3Ref
+        C3         2       2              PASSIVE     CAP 100nF 25V 0603(1608)
+        C11        2       2              PASSIVE     Cap
+        Ref1       6       Vout           PASSIVE     LT6654AHS6-3.3
+        U1         21      VREF+          POWER       STM32F446VET7
+
+[00001] 3v3
+        BT2        4       BAT_IN         POWER       BM78SPPS5MC2-000
+        C5         2       2              PASSIVE     CAP 10nF 100V 0603(1608)
+        C6         2       2              PASSIVE     CAP 10nF 100V 0603(1608)
+        C7         2       2              PASSIVE     CAP 10nF 100V 0603(1608)
+        C8         2       2              PASSIVE     CAP 10nF 100V 0603(1608)
+        C9         2       2              PASSIVE     CAP 10nF 100V 0603(1608)
+        C18        2       2              PASSIVE     Cap
+        C19        2       2              PASSIVE     0.1uF
+        C23        2       2              PASSIVE     CAP 10nF 100V 0603(1608)
+        C24        2       2              PASSIVE     0.1uF
+        C25        2       2              PASSIVE     CAP 10nF 100V 0603(1608)
+        C28        2       2              PASSIVE     Cap
+        D5         2       K              PASSIVE     SZNUP1301ML3T1G
+        D6         2       K              PASSIVE     SZNUP1301ML3T1G
+        D9         2       K              PASSIVE     SZNUP1301ML3T1G
+        D10        2       K              PASSIVE     SZNUP1301ML3T1G
+        D11        2       K              PASSIVE     SZNUP1301ML3T1G
+        D18        2       K              PASSIVE     SZNUP1301ML3T1G
+        D23        2       K              PASSIVE     SZNUP1301ML3T1G
+        D25        1       K              PASSIVE     RB521S30T1G
+        D27        1       K              PASSIVE     RB521S30T1G
+        D29        1       K              PASSIVE     RB521S30T1G
+        D31        1       K              PASSIVE     RB521S30T1G
+        L1         1       1              PASSIVE     MH1608-601Y
+        R7         1       1              PASSIVE     Res1
+        R8         2       2              PASSIVE     100R
+        REG2       3       Vout           PASSIVE     OKI-78SR-3.3
+        U1         6       VBAT           POWER       STM32F446VET7
+        U1         11      VDD            POWER       STM32F446VET7
+        U1         19      VDD            POWER       STM32F446VET7
+        U1         28      VDD            POWER       STM32F446VET7
+        U1         50      VDD            POWER       STM32F446VET7
+        U1         75      VDD            POWER       STM32F446VET7
+        U1         100     VDD            POWER       STM32F446VET7
+        U2         3       VCC            POWER       SN65HVD232DR
+        U3         3       VCC            POWER       SN65HVD232DR
+
